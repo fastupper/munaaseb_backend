@@ -1,0 +1,8 @@
+numpy
+numpy_financial
+openpyxl
+pandas
+formulas
+streamlit
+translate
+PyYAML
