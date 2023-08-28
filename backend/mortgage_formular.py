@@ -120,6 +120,8 @@ Mor_15_DP Total Paid AMT after support = FC5-FO5 (EE5-EQ5)
 import numpy as np
 import numpy_financial as npf
 import pandas as pd
+from hijri_converter import Hijri
+import datetime
 
 
 class MortgageCalculator:
@@ -137,12 +139,16 @@ class MortgageCalculator:
 
 
     def __interest_rate(self, year, bank_name, supported_not_supported):
-        selector = self.interest_df['Banks Name '] == bank_name
-        if year == 'max':
-            selector &= self.interest_df['Num of year '] == self.interest_df['Num of year '].max()
+        if supported_not_supported:
+            isSupported = 'مستحق للدعم'
         else:
-            selector &= self.interest_df['Num of year '] == year
-        interest_rates = self.interest_df.loc[selector, supported_not_supported].values
+            isSupported = 'غير مستحق للدعم'
+        selector = self.interest_df['Banks Name '] == bank_name
+        # if year == 'max':
+        #     selector &= self.interest_df['Num of year '] == self.interest_df['Num of year '].max()
+        # else:
+        #     selector &= self.interest_df['Num of year '] == year
+        interest_rates = self.interest_df.loc[selector, isSupported].values
 
         if len(interest_rates) <= 0:
             error_msg = f'Interest rate not found: {bank_name}, {year}, {supported_not_supported}'
@@ -389,6 +395,48 @@ class MortgageCalculator:
         self.report_data = report_data
 
 
+
+    def calculate_mortgage(self, applicant_dict, inputs):
+        hijri_birth_year = inputs['birthday'].split('/')[0]
+        hijri_birth_month = inputs['birthday'].split('/')[1]
+        hijri_birth_day = inputs['birthday'].split('/')[2]
+        gregorian_birth_year = Hijri(int(hijri_birth_year), int(hijri_birth_month), int(hijri_birth_day)).to_gregorian().year
+        current_year = datetime.datetime.now().year
+        report_data = {}
+
+        # input data
+
+        report_data['salary'] = inputs['salary']
+        report_data['debt_years'] = inputs['debtMonths'] / 12
+        report_data['age'] = current_year - gregorian_birth_year
+        report_data['debt_type'] = inputs['debtType']
+        report_data['supported_not_supported'] = inputs['supported']
+        report_data['working_sector'] = inputs['sector']
+        report_data['deduction_percentage'] = inputs['deduction']
+        report_data['customer_bank_name'] = 'البلاد'
+
+        # The principal amount of the loan
+
+        interest_rate = self.__interest_rate(report_data['debt_years'], report_data['customer_bank_name'], report_data['supported_not_supported'])
+        monthly_payment = report_data['salary'] * (report_data['deduction_percentage'] / 100)
+        principal_amount = -npf.pv(interest_rate / 12, report_data['debt_years'] * 12, monthly_payment)
+        total_payment = monthly_payment * report_data['debt_years'] * 12
+        profit = total_payment - principal_amount
+        # print('interest_rate', interest_rate)
+        # print('monthly_payment', monthly_payment)
+        # print('principal_amount', principal_amount)
+        # print('total_payment', total_payment)
+        # print('profit', profit)
+        result_mortgage = {
+            "interest_rate": interest_rate,
+            "monthly_payment": monthly_payment,
+            "principal_amount": principal_amount,
+            "total_payment": total_payment,
+            "profit": profit 
+        }
+        return result_mortgage
+
+
     def get_input_dict(self):
         input_dict_columns = [
             'mobile_number',
@@ -448,7 +496,20 @@ class MortgageCalculator:
             for k,v in self.report_data.items()
             if k in output_flow_columns
         })
+    
+    def get_mortgage_result(self):
+        mortgage_result_colums = [
+            'loan_amount',
+            'profit',
+            'debt_years',
+            'installment'
+        ]
 
+        return self.__dict_to_report({
+            k : v
+            for k,v in self.report_data.items()
+            if k in mortgage_result_colums
+        })
 
     def get_pdf_output(self):
         pdf_output_columns = [

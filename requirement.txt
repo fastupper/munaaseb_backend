@@ -6,3 +6,4 @@ formulas
 streamlit
 translate
 PyYAML
+hijri-converter

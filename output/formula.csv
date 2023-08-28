@@ -1,0 +1,3145 @@
+,sheet,address,value,formula_addr
+0,For_integration_V02,A1,Entries,Entries
+1,For_integration_V02,BD1,Internal Calculation,Internal Calculation
+2,For_integration_V02,BT1,"Affordability (Max No. of Years, The Client has the Down PMT)   Aff_Max_DP","Affordability (Max No. of Years, The Client has the Down PMT)   Aff_Max_DP"
+3,For_integration_V02,CE1,"Affordability (10 Years, The Client has the Down PMT) Aff_10_DP","Affordability (10 Years, The Client has the Down PMT) Aff_10_DP"
+4,For_integration_V02,CM1,"Affordability (15 Years, The Client has the Down PMT)","Affordability (15 Years, The Client has the Down PMT)"
+5,For_integration_V02,CU1,"Affordability (20 Years, The Client has the Down PMT)","Affordability (20 Years, The Client has the Down PMT)"
+6,For_integration_V02,DB1,"Affordability (25 Years, The Client has the Down PMT)","Affordability (25 Years, The Client has the Down PMT)"
+7,For_integration_V02,DI1,"Affordability (Max No. years, No Down PMT)","Affordability (Max No. years, No Down PMT)"
+8,For_integration_V02,DP1,"Affordability (Given No. of Years, The Client has the Down PMT)","Affordability (Given No. of Years, The Client has the Down PMT)"
+9,For_integration_V02,DW1,"Mortgage (10 Years, The Client has the Down PMT)","Mortgage (10 Years, The Client has the Down PMT)"
+10,For_integration_V02,EU1,"Mortgage (15 Years, The Client has the Down PMT)","Mortgage (15 Years, The Client has the Down PMT)"
+11,For_integration_V02,FS1,"Mortgage (20 Years, The Client has the Down PMT)","Mortgage (20 Years, The Client has the Down PMT)"
+12,For_integration_V02,GQ1,"Mortgage (25 Years, The Client has the Down PMT)","Mortgage (25 Years, The Client has the Down PMT)"
+13,For_integration_V02,HO1,"Mortgage (Max No. of Years, The Client has the Down PMT)","Mortgage (Max No. of Years, The Client has the Down PMT)"
+14,For_integration_V02,IM1,"Mortgage (10 Years, No Down PMT) + Personal Loan    -   Mortgage (10 Years, No Down PMT) + Personal Loan","Mortgage (10 Years, No Down PMT) + Personal Loan    -   Mortgage (10 Years, No Down PMT) + Personal Loan"
+15,For_integration_V02,JL1,"Mortgage (15 Years, No Down PMT) + Personal Loan","Mortgage (15 Years, No Down PMT) + Personal Loan"
+16,For_integration_V02,KC1,"Mortgage (20 Years, No Down PMT) + Personal Loan","Mortgage (20 Years, No Down PMT) + Personal Loan"
+17,For_integration_V02,KT1,"Mortgage (25 Years, No Down PMT) + Personal Loan","Mortgage (25 Years, No Down PMT) + Personal Loan"
+18,For_integration_V02,LK1,"Mortgage (Max No. of Years, No Down PMT) + Personal Loan","Mortgage (Max No. of Years, No Down PMT) + Personal Loan"
+19,For_integration_V02,A2,input,input
+20,For_integration_V02,B2,input,input
+21,For_integration_V02,C2,input,input
+22,For_integration_V02,D2,input,input
+23,For_integration_V02,E2,input,input
+24,For_integration_V02,F2,input,input
+25,For_integration_V02,G2,input,input
+26,For_integration_V02,H2,input,input
+27,For_integration_V02,I2,input,input
+28,For_integration_V02,J2,input,input
+29,For_integration_V02,K2,input,input
+30,For_integration_V02,L2,input,input
+31,For_integration_V02,M2,input,input
+32,For_integration_V02,N2,input,input
+33,For_integration_V02,O2,input,input
+34,For_integration_V02,P2,input,input
+35,For_integration_V02,Q2,input,input
+36,For_integration_V02,R2,input,input
+37,For_integration_V02,S2,input,input
+38,For_integration_V02,T2,input,input
+39,For_integration_V02,U2,input,input
+40,For_integration_V02,V2,input,input
+41,For_integration_V02,W2,input,input
+42,For_integration_V02,X2,input,input
+43,For_integration_V02,Y2,input,input
+44,For_integration_V02,Z2,input,input
+45,For_integration_V02,AA2,input,input
+46,For_integration_V02,AB2,input,input
+47,For_integration_V02,AC2,input,input
+48,For_integration_V02,AD2,input,input
+49,For_integration_V02,AE2,input,input
+50,For_integration_V02,AF2,input,input
+51,For_integration_V02,AG2,input,input
+52,For_integration_V02,AH2,input,input
+53,For_integration_V02,AI2,input,input
+54,For_integration_V02,AJ2,input,input
+55,For_integration_V02,AK2,input,input
+56,For_integration_V02,AM2,input,input
+57,For_integration_V02,AN2,input,input
+58,For_integration_V02,AO2,input,input
+59,For_integration_V02,AP2,input,input
+60,For_integration_V02,AQ2,input,input
+61,For_integration_V02,AR2,input,input
+62,For_integration_V02,AS2,input,input
+63,For_integration_V02,AT2,input,input
+64,For_integration_V02,AU2,input,input
+65,For_integration_V02,BC2,flow output,flow output
+66,For_integration_V02,BD2,flow output,flow output
+67,For_integration_V02,BO2,PDF output,PDF output
+68,For_integration_V02,BT2,flow output,flow output
+69,For_integration_V02,BU2,PDF output,PDF output
+70,For_integration_V02,BV2,PDF output,PDF output
+71,For_integration_V02,BX2,flow output,flow output
+72,For_integration_V02,BY2,flow output,flow output
+73,For_integration_V02,BZ2,flow output,flow output
+74,For_integration_V02,CC2,flow output,flow output
+75,For_integration_V02,CD2,flow output,flow output
+76,For_integration_V02,CH2,flow output,flow output
+77,For_integration_V02,DW2,PDF output,PDF output
+78,For_integration_V02,DX2,PDF output,PDF output
+79,For_integration_V02,DY2,PDF output,PDF output
+80,For_integration_V02,DZ2,PDF output,PDF output
+81,For_integration_V02,EA2,PDF output,PDF output
+82,For_integration_V02,EE2,PDF output,PDF output
+83,For_integration_V02,EF2,PDF output,PDF output
+84,For_integration_V02,EG2,PDF output,PDF output
+85,For_integration_V02,EJ2,PDF output,PDF output
+86,For_integration_V02,EK2,PDF output,PDF output
+87,For_integration_V02,EL2,PDF output,PDF output
+88,For_integration_V02,EM2,PDF output,PDF output
+89,For_integration_V02,EN2,PDF output,PDF output
+90,For_integration_V02,EO2,PDF output,PDF output
+91,For_integration_V02,EP2,PDF output,PDF output
+92,For_integration_V02,EQ2,PDF output,PDF output
+93,For_integration_V02,ER2,PDF output,PDF output
+94,For_integration_V02,ES2,PDF output,PDF output
+95,For_integration_V02,ET2,PDF output,PDF output
+96,For_integration_V02,EU2,PDF output,PDF output
+97,For_integration_V02,EV2,PDF output,PDF output
+98,For_integration_V02,EW2,PDF output,PDF output
+99,For_integration_V02,EX2,PDF output,PDF output
+100,For_integration_V02,EY2,PDF output,PDF output
+101,For_integration_V02,FC2,PDF output,PDF output
+102,For_integration_V02,FD2,PDF output,PDF output
+103,For_integration_V02,FE2,PDF output,PDF output
+104,For_integration_V02,FH2,PDF output,PDF output
+105,For_integration_V02,FI2,PDF output,PDF output
+106,For_integration_V02,FJ2,PDF output,PDF output
+107,For_integration_V02,FK2,PDF output,PDF output
+108,For_integration_V02,FL2,PDF output,PDF output
+109,For_integration_V02,FM2,PDF output,PDF output
+110,For_integration_V02,FN2,PDF output,PDF output
+111,For_integration_V02,FO2,PDF output,PDF output
+112,For_integration_V02,FP2,PDF output,PDF output
+113,For_integration_V02,FQ2,PDF output,PDF output
+114,For_integration_V02,FR2,PDF output,PDF output
+115,For_integration_V02,FS2,PDF output,PDF output
+116,For_integration_V02,FT2,PDF output,PDF output
+117,For_integration_V02,FU2,PDF output,PDF output
+118,For_integration_V02,FV2,PDF output,PDF output
+119,For_integration_V02,FW2,PDF output,PDF output
+120,For_integration_V02,GA2,PDF output,PDF output
+121,For_integration_V02,GB2,PDF output,PDF output
+122,For_integration_V02,GC2,PDF output,PDF output
+123,For_integration_V02,GF2,PDF output,PDF output
+124,For_integration_V02,GG2,PDF output,PDF output
+125,For_integration_V02,GH2,PDF output,PDF output
+126,For_integration_V02,GI2,PDF output,PDF output
+127,For_integration_V02,GJ2,PDF output,PDF output
+128,For_integration_V02,GK2,PDF output,PDF output
+129,For_integration_V02,GL2,PDF output,PDF output
+130,For_integration_V02,GM2,PDF output,PDF output
+131,For_integration_V02,GN2,PDF output,PDF output
+132,For_integration_V02,GO2,PDF output,PDF output
+133,For_integration_V02,GP2,PDF output,PDF output
+134,For_integration_V02,GQ2,PDF output,PDF output
+135,For_integration_V02,GR2,PDF output,PDF output
+136,For_integration_V02,GS2,PDF output,PDF output
+137,For_integration_V02,GT2,PDF output,PDF output
+138,For_integration_V02,GU2,PDF output,PDF output
+139,For_integration_V02,GY2,PDF output,PDF output
+140,For_integration_V02,GZ2,PDF output,PDF output
+141,For_integration_V02,HA2,PDF output,PDF output
+142,For_integration_V02,HD2,PDF output,PDF output
+143,For_integration_V02,HE2,PDF output,PDF output
+144,For_integration_V02,HF2,PDF output,PDF output
+145,For_integration_V02,HG2,PDF output,PDF output
+146,For_integration_V02,HH2,PDF output,PDF output
+147,For_integration_V02,HI2,PDF output,PDF output
+148,For_integration_V02,HJ2,PDF output,PDF output
+149,For_integration_V02,HK2,PDF output,PDF output
+150,For_integration_V02,HL2,PDF output,PDF output
+151,For_integration_V02,HM2,PDF output,PDF output
+152,For_integration_V02,HN2,PDF output,PDF output
+153,For_integration_V02,HO2,PDF output,PDF output
+154,For_integration_V02,HP2,PDF output,PDF output
+155,For_integration_V02,HQ2,PDF output,PDF output
+156,For_integration_V02,HR2,PDF output,PDF output
+157,For_integration_V02,HS2,PDF output,PDF output
+158,For_integration_V02,HW2,PDF output,PDF output
+159,For_integration_V02,HX2,PDF output,PDF output
+160,For_integration_V02,HY2,PDF output,PDF output
+161,For_integration_V02,IB2,PDF output,PDF output
+162,For_integration_V02,IC2,PDF output,PDF output
+163,For_integration_V02,ID2,PDF output,PDF output
+164,For_integration_V02,IE2,PDF output,PDF output
+165,For_integration_V02,IF2,PDF output,PDF output
+166,For_integration_V02,IG2,PDF output,PDF output
+167,For_integration_V02,IH2,PDF output,PDF output
+168,For_integration_V02,II2,PDF output,PDF output
+169,For_integration_V02,IJ2,PDF output,PDF output
+170,For_integration_V02,IK2,PDF output,PDF output
+171,For_integration_V02,IL2,PDF output,PDF output
+172,For_integration_V02,IM2,PDF output,PDF output
+173,For_integration_V02,IN2,PDF output,PDF output
+174,For_integration_V02,IO2,PDF output,PDF output
+175,For_integration_V02,IP2,PDF output,PDF output
+176,For_integration_V02,IQ2,PDF output,PDF output
+177,For_integration_V02,IR2,PDF output,PDF output
+178,For_integration_V02,IS2,PDF output,PDF output
+179,For_integration_V02,IT2,PDF output,PDF output
+180,For_integration_V02,IU2,PDF output,PDF output
+181,For_integration_V02,IV2,PDF output,PDF output
+182,For_integration_V02,IW2,PDF output,PDF output
+183,For_integration_V02,IX2,PDF output,PDF output
+184,For_integration_V02,IY2,PDF output,PDF output
+185,For_integration_V02,IZ2,PDF output,PDF output
+186,For_integration_V02,JA2,PDF output,PDF output
+187,For_integration_V02,JB2,PDF output,PDF output
+188,For_integration_V02,JC2,PDF output,PDF output
+189,For_integration_V02,JD2,PDF output,PDF output
+190,For_integration_V02,JE2,PDF output,PDF output
+191,For_integration_V02,JF2,PDF output,PDF output
+192,For_integration_V02,JG2,PDF output,PDF output
+193,For_integration_V02,JH2,PDF output,PDF output
+194,For_integration_V02,JI2,PDF output,PDF output
+195,For_integration_V02,JJ2,PDF output,PDF output
+196,For_integration_V02,JK2,PDF output,PDF output
+197,For_integration_V02,JL2,PDF output,PDF output
+198,For_integration_V02,JM2,PDF output,PDF output
+199,For_integration_V02,JN2,PDF output,PDF output
+200,For_integration_V02,JO2,PDF output,PDF output
+201,For_integration_V02,JP2,PDF output,PDF output
+202,For_integration_V02,JQ2,PDF output,PDF output
+203,For_integration_V02,JR2,PDF output,PDF output
+204,For_integration_V02,JS2,PDF output,PDF output
+205,For_integration_V02,JT2,PDF output,PDF output
+206,For_integration_V02,JU2,PDF output,PDF output
+207,For_integration_V02,JV2,PDF output,PDF output
+208,For_integration_V02,JW2,PDF output,PDF output
+209,For_integration_V02,JX2,PDF output,PDF output
+210,For_integration_V02,JY2,PDF output,PDF output
+211,For_integration_V02,JZ2,PDF output,PDF output
+212,For_integration_V02,KA2,PDF output,PDF output
+213,For_integration_V02,KB2,PDF output,PDF output
+214,For_integration_V02,KC2,PDF output,PDF output
+215,For_integration_V02,KD2,PDF output,PDF output
+216,For_integration_V02,KE2,PDF output,PDF output
+217,For_integration_V02,KF2,PDF output,PDF output
+218,For_integration_V02,KG2,PDF output,PDF output
+219,For_integration_V02,KH2,PDF output,PDF output
+220,For_integration_V02,KI2,PDF output,PDF output
+221,For_integration_V02,KJ2,PDF output,PDF output
+222,For_integration_V02,KK2,PDF output,PDF output
+223,For_integration_V02,KL2,PDF output,PDF output
+224,For_integration_V02,KM2,PDF output,PDF output
+225,For_integration_V02,KN2,PDF output,PDF output
+226,For_integration_V02,KO2,PDF output,PDF output
+227,For_integration_V02,KP2,PDF output,PDF output
+228,For_integration_V02,KQ2,PDF output,PDF output
+229,For_integration_V02,KR2,PDF output,PDF output
+230,For_integration_V02,KS2,PDF output,PDF output
+231,For_integration_V02,KT2,PDF output,PDF output
+232,For_integration_V02,KU2,PDF output,PDF output
+233,For_integration_V02,KV2,PDF output,PDF output
+234,For_integration_V02,KW2,PDF output,PDF output
+235,For_integration_V02,KX2,PDF output,PDF output
+236,For_integration_V02,KY2,PDF output,PDF output
+237,For_integration_V02,KZ2,PDF output,PDF output
+238,For_integration_V02,LA2,PDF output,PDF output
+239,For_integration_V02,LB2,PDF output,PDF output
+240,For_integration_V02,LC2,PDF output,PDF output
+241,For_integration_V02,LD2,PDF output,PDF output
+242,For_integration_V02,LE2,PDF output,PDF output
+243,For_integration_V02,LF2,PDF output,PDF output
+244,For_integration_V02,LG2,PDF output,PDF output
+245,For_integration_V02,LH2,PDF output,PDF output
+246,For_integration_V02,LI2,PDF output,PDF output
+247,For_integration_V02,LJ2,PDF output,PDF output
+248,For_integration_V02,LK2,PDF output,PDF output
+249,For_integration_V02,LL2,PDF output,PDF output
+250,For_integration_V02,LM2,PDF output,PDF output
+251,For_integration_V02,LN2,PDF output,PDF output
+252,For_integration_V02,LO2,PDF output,PDF output
+253,For_integration_V02,LP2,PDF output,PDF output
+254,For_integration_V02,LQ2,PDF output,PDF output
+255,For_integration_V02,LR2,PDF output,PDF output
+256,For_integration_V02,LS2,PDF output,PDF output
+257,For_integration_V02,LT2,PDF output,PDF output
+258,For_integration_V02,LU2,PDF output,PDF output
+259,For_integration_V02,LV2,PDF output,PDF output
+260,For_integration_V02,LW2,PDF output,PDF output
+261,For_integration_V02,LX2,PDF output,PDF output
+262,For_integration_V02,LY2,PDF output,PDF output
+263,For_integration_V02,LZ2,PDF output,PDF output
+264,For_integration_V02,MA2,PDF output,PDF output
+265,For_integration_V02,MB2,PDF output,PDF output
+266,For_integration_V02,A3,1,1
+267,For_integration_V02,B3,=A3+1,=For_integration_V02!A3+1
+268,For_integration_V02,C3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LM7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LM7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+269,For_integration_V02,D3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LN7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LN7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+270,For_integration_V02,E3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LO7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LO7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+271,For_integration_V02,F3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LP7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LP7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+272,For_integration_V02,G3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LQ7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LQ7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+273,For_integration_V02,H3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LR7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LR7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+274,For_integration_V02,I3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LS7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LS7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+275,For_integration_V02,J3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LT7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LT7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+276,For_integration_V02,K3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LU7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LU7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+277,For_integration_V02,L3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LV7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LV7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+278,For_integration_V02,M3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LW7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LW7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+279,For_integration_V02,N3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LX7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LX7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+280,For_integration_V02,O3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LY7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LY7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+281,For_integration_V02,P3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!LZ7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!LZ7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+282,For_integration_V02,Q3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MA7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MA7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+283,For_integration_V02,R3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MB7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MB7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+284,For_integration_V02,S3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MC7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MC7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+285,For_integration_V02,T3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MD7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MD7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+286,For_integration_V02,U3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!ME7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!ME7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+287,For_integration_V02,V3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MF7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MF7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+288,For_integration_V02,W3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MG7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MG7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+289,For_integration_V02,X3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MH7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MH7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+290,For_integration_V02,Y3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MI7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MI7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+291,For_integration_V02,Z3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MJ7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MJ7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+292,For_integration_V02,AA3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MK7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MK7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+293,For_integration_V02,AB3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!ML7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!ML7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+294,For_integration_V02,AC3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MM7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MM7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+295,For_integration_V02,AD3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MN7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MN7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+296,For_integration_V02,AE3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MO7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MO7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+297,For_integration_V02,AF3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MP7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MP7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+298,For_integration_V02,AG3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MQ7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MQ7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+299,For_integration_V02,AH3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MR7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MR7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+300,For_integration_V02,AI3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MS7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MS7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+301,For_integration_V02,AJ3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MT7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MT7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+302,For_integration_V02,AK3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MU7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MU7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+303,For_integration_V02,AL3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MV7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MV7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+304,For_integration_V02,AM3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MW7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MW7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+305,For_integration_V02,AN3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MX7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MX7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+306,For_integration_V02,AO3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MY7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MY7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+307,For_integration_V02,AP3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!MZ7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!MZ7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+308,For_integration_V02,AQ3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!NA7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!NA7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+309,For_integration_V02,AR3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!NB7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!NB7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+310,For_integration_V02,AS3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!NC7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!NC7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+311,For_integration_V02,AT3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!ND7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!ND7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+312,For_integration_V02,AU3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!NE7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!NE7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+313,For_integration_V02,AV3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!NF7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!NF7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+314,For_integration_V02,AW3,"=INDEX(Assumption!$C$11:Assumption!$I$36,MATCH(Assumption!NG7,Assumption!$B$11:Assumption!$B$36,0),MATCH(Assumption!$Q7,Assumption!$C$10:Assumption!$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(Assumption!NG7,Assumption!B11:B36,0),MATCH(Assumption!Q7,Assumption!C10:I10,0))"
+315,For_integration_V02,AY3,=AW3+1,=For_integration_V02!AW3+1
+316,For_integration_V02,AZ3,=AY3+1,=For_integration_V02!AY3+1
+317,For_integration_V02,BA3,=AZ3+1,=For_integration_V02!AZ3+1
+318,For_integration_V02,BB3,=BA3+1,=For_integration_V02!BA3+1
+319,For_integration_V02,BC3,=BB3+1,=For_integration_V02!BB3+1
+320,For_integration_V02,BD3,=BC3+1,=For_integration_V02!BC3+1
+321,For_integration_V02,BE3,=BD3+1,=For_integration_V02!BD3+1
+322,For_integration_V02,BF3,=BE3+1,=For_integration_V02!BE3+1
+323,For_integration_V02,BG3,=BF3+1,=For_integration_V02!BF3+1
+324,For_integration_V02,BH3,=BG3+1,=For_integration_V02!BG3+1
+325,For_integration_V02,BI3,=BH3+1,=For_integration_V02!BH3+1
+326,For_integration_V02,BJ3,=BI3+1,=For_integration_V02!BI3+1
+327,For_integration_V02,BK3,=BJ3+1,=For_integration_V02!BJ3+1
+328,For_integration_V02,BL3,=BK3+1,=For_integration_V02!BK3+1
+329,For_integration_V02,BM3,=BL3+1,=For_integration_V02!BL3+1
+330,For_integration_V02,BN3,=BM3+1,=For_integration_V02!BM3+1
+331,For_integration_V02,BO3,=BN3+1,=For_integration_V02!BN3+1
+332,For_integration_V02,BP3,=BO3+1,=For_integration_V02!BO3+1
+333,For_integration_V02,BQ3,=BP3+1,=For_integration_V02!BP3+1
+334,For_integration_V02,BR3,=BQ3+1,=For_integration_V02!BQ3+1
+335,For_integration_V02,BS3,=BR3+1,=For_integration_V02!BR3+1
+336,For_integration_V02,BT3,=BS3+1,=For_integration_V02!BS3+1
+337,For_integration_V02,BU3,=BT3+1,=For_integration_V02!BT3+1
+338,For_integration_V02,BV3,=BU3+1,=For_integration_V02!BU3+1
+339,For_integration_V02,BW3,=BV3+1,=For_integration_V02!BV3+1
+340,For_integration_V02,BX3,=BW3+1,=For_integration_V02!BW3+1
+341,For_integration_V02,BY3,=BX3+1,=For_integration_V02!BX3+1
+342,For_integration_V02,BZ3,=BY3+1,=For_integration_V02!BY3+1
+343,For_integration_V02,CA3,=BZ3+1,=For_integration_V02!BZ3+1
+344,For_integration_V02,CB3,=CA3+1,=For_integration_V02!CA3+1
+345,For_integration_V02,CC3,=CB3+1,=For_integration_V02!CB3+1
+346,For_integration_V02,CD3,=CC3+1,=For_integration_V02!CC3+1
+347,For_integration_V02,CE3,=CD3+1,=For_integration_V02!CD3+1
+348,For_integration_V02,CF3,=CE3+1,=For_integration_V02!CE3+1
+349,For_integration_V02,CG3,=CF3+1,=For_integration_V02!CF3+1
+350,For_integration_V02,CH3,=CG3+1,=For_integration_V02!CG3+1
+351,For_integration_V02,CI3,=CH3+1,=For_integration_V02!CH3+1
+352,For_integration_V02,CJ3,=CI3+1,=For_integration_V02!CI3+1
+353,For_integration_V02,CK3,=CJ3+1,=For_integration_V02!CJ3+1
+354,For_integration_V02,CL3,=CK3+1,=For_integration_V02!CK3+1
+355,For_integration_V02,CM3,=CL3+1,=For_integration_V02!CL3+1
+356,For_integration_V02,CN3,=CM3+1,=For_integration_V02!CM3+1
+357,For_integration_V02,CO3,=CN3+1,=For_integration_V02!CN3+1
+358,For_integration_V02,CP3,=CO3+1,=For_integration_V02!CO3+1
+359,For_integration_V02,CQ3,=CP3+1,=For_integration_V02!CP3+1
+360,For_integration_V02,CR3,=CQ3+1,=For_integration_V02!CQ3+1
+361,For_integration_V02,CS3,=CR3+1,=For_integration_V02!CR3+1
+362,For_integration_V02,CT3,=CS3+1,=For_integration_V02!CS3+1
+363,For_integration_V02,CU3,=CT3+1,=For_integration_V02!CT3+1
+364,For_integration_V02,CV3,=CU3+1,=For_integration_V02!CU3+1
+365,For_integration_V02,CW3,=CV3+1,=For_integration_V02!CV3+1
+366,For_integration_V02,CX3,=CW3+1,=For_integration_V02!CW3+1
+367,For_integration_V02,CY3,=CX3+1,=For_integration_V02!CX3+1
+368,For_integration_V02,CZ3,=CY3+1,=For_integration_V02!CY3+1
+369,For_integration_V02,DA3,=CZ3+1,=For_integration_V02!CZ3+1
+370,For_integration_V02,DB3,=DA3+1,=For_integration_V02!DA3+1
+371,For_integration_V02,DC3,=DB3+1,=For_integration_V02!DB3+1
+372,For_integration_V02,DD3,=DC3+1,=For_integration_V02!DC3+1
+373,For_integration_V02,DE3,=DD3+1,=For_integration_V02!DD3+1
+374,For_integration_V02,DF3,=DE3+1,=For_integration_V02!DE3+1
+375,For_integration_V02,DG3,=DF3+1,=For_integration_V02!DF3+1
+376,For_integration_V02,DH3,=DG3+1,=For_integration_V02!DG3+1
+377,For_integration_V02,DI3,=DH3+1,=For_integration_V02!DH3+1
+378,For_integration_V02,DJ3,=DI3+1,=For_integration_V02!DI3+1
+379,For_integration_V02,DK3,=DJ3+1,=For_integration_V02!DJ3+1
+380,For_integration_V02,DL3,=DK3+1,=For_integration_V02!DK3+1
+381,For_integration_V02,DM3,=DL3+1,=For_integration_V02!DL3+1
+382,For_integration_V02,DN3,=DM3+1,=For_integration_V02!DM3+1
+383,For_integration_V02,DO3,=DN3+1,=For_integration_V02!DN3+1
+384,For_integration_V02,DP3,=DO3+1,=For_integration_V02!DO3+1
+385,For_integration_V02,DQ3,=DP3+1,=For_integration_V02!DP3+1
+386,For_integration_V02,DR3,=DQ3+1,=For_integration_V02!DQ3+1
+387,For_integration_V02,DS3,=DR3+1,=For_integration_V02!DR3+1
+388,For_integration_V02,DT3,=DS3+1,=For_integration_V02!DS3+1
+389,For_integration_V02,DU3,=DT3+1,=For_integration_V02!DT3+1
+390,For_integration_V02,DV3,=DU3+1,=For_integration_V02!DU3+1
+391,For_integration_V02,DW3,=DV3+1,=For_integration_V02!DV3+1
+392,For_integration_V02,DX3,=DW3+1,=For_integration_V02!DW3+1
+393,For_integration_V02,DY3,=DX3+1,=For_integration_V02!DX3+1
+394,For_integration_V02,DZ3,=DY3+1,=For_integration_V02!DY3+1
+395,For_integration_V02,EA3,=DZ3+1,=For_integration_V02!DZ3+1
+396,For_integration_V02,EB3,=EA3+1,=For_integration_V02!EA3+1
+397,For_integration_V02,EC3,=EB3+1,=For_integration_V02!EB3+1
+398,For_integration_V02,ED3,=EC3+1,=For_integration_V02!EC3+1
+399,For_integration_V02,EE3,=ED3+1,=For_integration_V02!ED3+1
+400,For_integration_V02,EF3,=EE3+1,=For_integration_V02!EE3+1
+401,For_integration_V02,EG3,=EF3+1,=For_integration_V02!EF3+1
+402,For_integration_V02,EH3,=EG3+1,=For_integration_V02!EG3+1
+403,For_integration_V02,EI3,=EH3+1,=For_integration_V02!EH3+1
+404,For_integration_V02,EJ3,=EI3+1,=For_integration_V02!EI3+1
+405,For_integration_V02,EK3,=EJ3+1,=For_integration_V02!EJ3+1
+406,For_integration_V02,EL3,=EK3+1,=For_integration_V02!EK3+1
+407,For_integration_V02,EM3,=EL3+1,=For_integration_V02!EL3+1
+408,For_integration_V02,EN3,=EM3+1,=For_integration_V02!EM3+1
+409,For_integration_V02,EO3,=EN3+1,=For_integration_V02!EN3+1
+410,For_integration_V02,EP3,=EO3+1,=For_integration_V02!EO3+1
+411,For_integration_V02,EQ3,=EP3+1,=For_integration_V02!EP3+1
+412,For_integration_V02,ER3,=EQ3+1,=For_integration_V02!EQ3+1
+413,For_integration_V02,ES3,=ER3+1,=For_integration_V02!ER3+1
+414,For_integration_V02,ET3,=ES3+1,=For_integration_V02!ES3+1
+415,For_integration_V02,EU3,=ET3+1,=For_integration_V02!ET3+1
+416,For_integration_V02,EV3,=EU3+1,=For_integration_V02!EU3+1
+417,For_integration_V02,EW3,=EV3+1,=For_integration_V02!EV3+1
+418,For_integration_V02,EX3,=EW3+1,=For_integration_V02!EW3+1
+419,For_integration_V02,EY3,=EX3+1,=For_integration_V02!EX3+1
+420,For_integration_V02,EZ3,=EY3+1,=For_integration_V02!EY3+1
+421,For_integration_V02,FA3,=EZ3+1,=For_integration_V02!EZ3+1
+422,For_integration_V02,FB3,=FA3+1,=For_integration_V02!FA3+1
+423,For_integration_V02,FC3,=FB3+1,=For_integration_V02!FB3+1
+424,For_integration_V02,FD3,=FC3+1,=For_integration_V02!FC3+1
+425,For_integration_V02,FE3,=FD3+1,=For_integration_V02!FD3+1
+426,For_integration_V02,FF3,=FE3+1,=For_integration_V02!FE3+1
+427,For_integration_V02,FG3,=FF3+1,=For_integration_V02!FF3+1
+428,For_integration_V02,FH3,=FG3+1,=For_integration_V02!FG3+1
+429,For_integration_V02,FI3,=FH3+1,=For_integration_V02!FH3+1
+430,For_integration_V02,FJ3,=FI3+1,=For_integration_V02!FI3+1
+431,For_integration_V02,FK3,=FJ3+1,=For_integration_V02!FJ3+1
+432,For_integration_V02,FL3,=FK3+1,=For_integration_V02!FK3+1
+433,For_integration_V02,FM3,=FL3+1,=For_integration_V02!FL3+1
+434,For_integration_V02,FN3,=FM3+1,=For_integration_V02!FM3+1
+435,For_integration_V02,FO3,=FN3+1,=For_integration_V02!FN3+1
+436,For_integration_V02,FP3,=FO3+1,=For_integration_V02!FO3+1
+437,For_integration_V02,FQ3,=FP3+1,=For_integration_V02!FP3+1
+438,For_integration_V02,FR3,=FQ3+1,=For_integration_V02!FQ3+1
+439,For_integration_V02,FS3,=FR3+1,=For_integration_V02!FR3+1
+440,For_integration_V02,FT3,=FS3+1,=For_integration_V02!FS3+1
+441,For_integration_V02,FU3,=FT3+1,=For_integration_V02!FT3+1
+442,For_integration_V02,FV3,=FU3+1,=For_integration_V02!FU3+1
+443,For_integration_V02,FW3,=FV3+1,=For_integration_V02!FV3+1
+444,For_integration_V02,FX3,=FW3+1,=For_integration_V02!FW3+1
+445,For_integration_V02,FY3,=FX3+1,=For_integration_V02!FX3+1
+446,For_integration_V02,FZ3,=FY3+1,=For_integration_V02!FY3+1
+447,For_integration_V02,GA3,=FZ3+1,=For_integration_V02!FZ3+1
+448,For_integration_V02,GB3,=GA3+1,=For_integration_V02!GA3+1
+449,For_integration_V02,GC3,=GB3+1,=For_integration_V02!GB3+1
+450,For_integration_V02,GD3,=GC3+1,=For_integration_V02!GC3+1
+451,For_integration_V02,GE3,=GD3+1,=For_integration_V02!GD3+1
+452,For_integration_V02,GF3,=GE3+1,=For_integration_V02!GE3+1
+453,For_integration_V02,GG3,=GF3+1,=For_integration_V02!GF3+1
+454,For_integration_V02,GH3,=GG3+1,=For_integration_V02!GG3+1
+455,For_integration_V02,GI3,=GH3+1,=For_integration_V02!GH3+1
+456,For_integration_V02,GJ3,=GI3+1,=For_integration_V02!GI3+1
+457,For_integration_V02,GK3,=GJ3+1,=For_integration_V02!GJ3+1
+458,For_integration_V02,GL3,=GK3+1,=For_integration_V02!GK3+1
+459,For_integration_V02,GM3,=GL3+1,=For_integration_V02!GL3+1
+460,For_integration_V02,GN3,=GM3+1,=For_integration_V02!GM3+1
+461,For_integration_V02,GO3,=GN3+1,=For_integration_V02!GN3+1
+462,For_integration_V02,GP3,=GO3+1,=For_integration_V02!GO3+1
+463,For_integration_V02,GQ3,=GP3+1,=For_integration_V02!GP3+1
+464,For_integration_V02,GR3,=GQ3+1,=For_integration_V02!GQ3+1
+465,For_integration_V02,GS3,=GR3+1,=For_integration_V02!GR3+1
+466,For_integration_V02,GT3,=GS3+1,=For_integration_V02!GS3+1
+467,For_integration_V02,GU3,=GT3+1,=For_integration_V02!GT3+1
+468,For_integration_V02,GV3,=GU3+1,=For_integration_V02!GU3+1
+469,For_integration_V02,GW3,=GV3+1,=For_integration_V02!GV3+1
+470,For_integration_V02,GX3,=GW3+1,=For_integration_V02!GW3+1
+471,For_integration_V02,GY3,=GX3+1,=For_integration_V02!GX3+1
+472,For_integration_V02,GZ3,=GY3+1,=For_integration_V02!GY3+1
+473,For_integration_V02,HA3,=GZ3+1,=For_integration_V02!GZ3+1
+474,For_integration_V02,HB3,=HA3+1,=For_integration_V02!HA3+1
+475,For_integration_V02,HC3,=HB3+1,=For_integration_V02!HB3+1
+476,For_integration_V02,HD3,=HC3+1,=For_integration_V02!HC3+1
+477,For_integration_V02,HE3,=HD3+1,=For_integration_V02!HD3+1
+478,For_integration_V02,HF3,=HE3+1,=For_integration_V02!HE3+1
+479,For_integration_V02,HG3,=HF3+1,=For_integration_V02!HF3+1
+480,For_integration_V02,HH3,=HG3+1,=For_integration_V02!HG3+1
+481,For_integration_V02,HI3,=HH3+1,=For_integration_V02!HH3+1
+482,For_integration_V02,HJ3,=HI3+1,=For_integration_V02!HI3+1
+483,For_integration_V02,HK3,=HJ3+1,=For_integration_V02!HJ3+1
+484,For_integration_V02,HL3,=HK3+1,=For_integration_V02!HK3+1
+485,For_integration_V02,HM3,=HL3+1,=For_integration_V02!HL3+1
+486,For_integration_V02,HN3,=HM3+1,=For_integration_V02!HM3+1
+487,For_integration_V02,HO3,=HN3+1,=For_integration_V02!HN3+1
+488,For_integration_V02,HP3,=HO3+1,=For_integration_V02!HO3+1
+489,For_integration_V02,HQ3,=HP3+1,=For_integration_V02!HP3+1
+490,For_integration_V02,HR3,=HQ3+1,=For_integration_V02!HQ3+1
+491,For_integration_V02,HS3,=HR3+1,=For_integration_V02!HR3+1
+492,For_integration_V02,HT3,=HS3+1,=For_integration_V02!HS3+1
+493,For_integration_V02,HU3,=HT3+1,=For_integration_V02!HT3+1
+494,For_integration_V02,HV3,=HU3+1,=For_integration_V02!HU3+1
+495,For_integration_V02,HW3,=HV3+1,=For_integration_V02!HV3+1
+496,For_integration_V02,HX3,=HW3+1,=For_integration_V02!HW3+1
+497,For_integration_V02,HY3,=HX3+1,=For_integration_V02!HX3+1
+498,For_integration_V02,HZ3,=HY3+1,=For_integration_V02!HY3+1
+499,For_integration_V02,IA3,=HZ3+1,=For_integration_V02!HZ3+1
+500,For_integration_V02,IB3,=IA3+1,=For_integration_V02!IA3+1
+501,For_integration_V02,IC3,=IB3+1,=For_integration_V02!IB3+1
+502,For_integration_V02,ID3,=IC3+1,=For_integration_V02!IC3+1
+503,For_integration_V02,IE3,=ID3+1,=For_integration_V02!ID3+1
+504,For_integration_V02,IF3,=IE3+1,=For_integration_V02!IE3+1
+505,For_integration_V02,IG3,=IF3+1,=For_integration_V02!IF3+1
+506,For_integration_V02,IH3,=IG3+1,=For_integration_V02!IG3+1
+507,For_integration_V02,II3,=IH3+1,=For_integration_V02!IH3+1
+508,For_integration_V02,IJ3,=II3+1,=For_integration_V02!II3+1
+509,For_integration_V02,IK3,=IJ3+1,=For_integration_V02!IJ3+1
+510,For_integration_V02,IL3,=IK3+1,=For_integration_V02!IK3+1
+511,For_integration_V02,IM3,=IL3+1,=For_integration_V02!IL3+1
+512,For_integration_V02,IN3,=IM3+1,=For_integration_V02!IM3+1
+513,For_integration_V02,IO3,=IN3+1,=For_integration_V02!IN3+1
+514,For_integration_V02,IP3,=IO3+1,=For_integration_V02!IO3+1
+515,For_integration_V02,IQ3,=IP3+1,=For_integration_V02!IP3+1
+516,For_integration_V02,IR3,=IQ3+1,=For_integration_V02!IQ3+1
+517,For_integration_V02,IS3,=IR3+1,=For_integration_V02!IR3+1
+518,For_integration_V02,IT3,=IS3+1,=For_integration_V02!IS3+1
+519,For_integration_V02,IU3,=IT3+1,=For_integration_V02!IT3+1
+520,For_integration_V02,IV3,=IU3+1,=For_integration_V02!IU3+1
+521,For_integration_V02,IW3,=IV3+1,=For_integration_V02!IV3+1
+522,For_integration_V02,IX3,=IW3+1,=For_integration_V02!IW3+1
+523,For_integration_V02,IY3,=IX3+1,=For_integration_V02!IX3+1
+524,For_integration_V02,IZ3,=IY3+1,=For_integration_V02!IY3+1
+525,For_integration_V02,JA3,=IZ3+1,=For_integration_V02!IZ3+1
+526,For_integration_V02,JB3,=JA3+1,=For_integration_V02!JA3+1
+527,For_integration_V02,JC3,=JB3+1,=For_integration_V02!JB3+1
+528,For_integration_V02,JD3,=JC3+1,=For_integration_V02!JC3+1
+529,For_integration_V02,JE3,=JD3+1,=For_integration_V02!JD3+1
+530,For_integration_V02,JF3,=JE3+1,=For_integration_V02!JE3+1
+531,For_integration_V02,JG3,=JF3+1,=For_integration_V02!JF3+1
+532,For_integration_V02,JH3,=JG3+1,=For_integration_V02!JG3+1
+533,For_integration_V02,JI3,=JH3+1,=For_integration_V02!JH3+1
+534,For_integration_V02,JJ3,=JI3+1,=For_integration_V02!JI3+1
+535,For_integration_V02,JK3,=JJ3+1,=For_integration_V02!JJ3+1
+536,For_integration_V02,JL3,=JK3+1,=For_integration_V02!JK3+1
+537,For_integration_V02,JM3,=JL3+1,=For_integration_V02!JL3+1
+538,For_integration_V02,JN3,=JM3+1,=For_integration_V02!JM3+1
+539,For_integration_V02,JO3,=JN3+1,=For_integration_V02!JN3+1
+540,For_integration_V02,JP3,=JO3+1,=For_integration_V02!JO3+1
+541,For_integration_V02,JQ3,=JP3+1,=For_integration_V02!JP3+1
+542,For_integration_V02,JR3,=JQ3+1,=For_integration_V02!JQ3+1
+543,For_integration_V02,JS3,=JR3+1,=For_integration_V02!JR3+1
+544,For_integration_V02,JT3,=JS3+1,=For_integration_V02!JS3+1
+545,For_integration_V02,JU3,=JT3+1,=For_integration_V02!JT3+1
+546,For_integration_V02,JV3,=JU3+1,=For_integration_V02!JU3+1
+547,For_integration_V02,JW3,=JV3+1,=For_integration_V02!JV3+1
+548,For_integration_V02,JX3,=JW3+1,=For_integration_V02!JW3+1
+549,For_integration_V02,JY3,=JX3+1,=For_integration_V02!JX3+1
+550,For_integration_V02,JZ3,=JY3+1,=For_integration_V02!JY3+1
+551,For_integration_V02,KA3,=JZ3+1,=For_integration_V02!JZ3+1
+552,For_integration_V02,KB3,=KA3+1,=For_integration_V02!KA3+1
+553,For_integration_V02,KC3,=KB3+1,=For_integration_V02!KB3+1
+554,For_integration_V02,KD3,=KC3+1,=For_integration_V02!KC3+1
+555,For_integration_V02,KE3,=KD3+1,=For_integration_V02!KD3+1
+556,For_integration_V02,KF3,=KE3+1,=For_integration_V02!KE3+1
+557,For_integration_V02,KG3,=KF3+1,=For_integration_V02!KF3+1
+558,For_integration_V02,KH3,=KG3+1,=For_integration_V02!KG3+1
+559,For_integration_V02,KI3,=KH3+1,=For_integration_V02!KH3+1
+560,For_integration_V02,KJ3,=KI3+1,=For_integration_V02!KI3+1
+561,For_integration_V02,KK3,=KJ3+1,=For_integration_V02!KJ3+1
+562,For_integration_V02,KL3,=KK3+1,=For_integration_V02!KK3+1
+563,For_integration_V02,KM3,=KL3+1,=For_integration_V02!KL3+1
+564,For_integration_V02,KN3,=KM3+1,=For_integration_V02!KM3+1
+565,For_integration_V02,KO3,=KN3+1,=For_integration_V02!KN3+1
+566,For_integration_V02,KP3,=KO3+1,=For_integration_V02!KO3+1
+567,For_integration_V02,KQ3,=KP3+1,=For_integration_V02!KP3+1
+568,For_integration_V02,KR3,=KQ3+1,=For_integration_V02!KQ3+1
+569,For_integration_V02,KS3,=KR3+1,=For_integration_V02!KR3+1
+570,For_integration_V02,KT3,=KS3+1,=For_integration_V02!KS3+1
+571,For_integration_V02,KU3,=KT3+1,=For_integration_V02!KT3+1
+572,For_integration_V02,KV3,=KU3+1,=For_integration_V02!KU3+1
+573,For_integration_V02,KW3,=KV3+1,=For_integration_V02!KV3+1
+574,For_integration_V02,KX3,=KW3+1,=For_integration_V02!KW3+1
+575,For_integration_V02,KY3,=KX3+1,=For_integration_V02!KX3+1
+576,For_integration_V02,KZ3,=KY3+1,=For_integration_V02!KY3+1
+577,For_integration_V02,LA3,=KZ3+1,=For_integration_V02!KZ3+1
+578,For_integration_V02,LB3,=LA3+1,=For_integration_V02!LA3+1
+579,For_integration_V02,LC3,=LB3+1,=For_integration_V02!LB3+1
+580,For_integration_V02,LD3,=LC3+1,=For_integration_V02!LC3+1
+581,For_integration_V02,LE3,=LD3+1,=For_integration_V02!LD3+1
+582,For_integration_V02,LF3,=LE3+1,=For_integration_V02!LE3+1
+583,For_integration_V02,LG3,=LF3+1,=For_integration_V02!LF3+1
+584,For_integration_V02,LH3,=LG3+1,=For_integration_V02!LG3+1
+585,For_integration_V02,LI3,=LH3+1,=For_integration_V02!LH3+1
+586,For_integration_V02,LJ3,=LI3+1,=For_integration_V02!LI3+1
+587,For_integration_V02,LK3,=LJ3+1,=For_integration_V02!LJ3+1
+588,For_integration_V02,LL3,=LK3+1,=For_integration_V02!LK3+1
+589,For_integration_V02,LM3,=LL3+1,=For_integration_V02!LL3+1
+590,For_integration_V02,LN3,=LM3+1,=For_integration_V02!LM3+1
+591,For_integration_V02,LO3,=LN3+1,=For_integration_V02!LN3+1
+592,For_integration_V02,LP3,=LO3+1,=For_integration_V02!LO3+1
+593,For_integration_V02,LQ3,=LP3+1,=For_integration_V02!LP3+1
+594,For_integration_V02,LR3,=LQ3+1,=For_integration_V02!LQ3+1
+595,For_integration_V02,LS3,=LR3+1,=For_integration_V02!LR3+1
+596,For_integration_V02,LT3,=LS3+1,=For_integration_V02!LS3+1
+597,For_integration_V02,LU3,=LT3+1,=For_integration_V02!LT3+1
+598,For_integration_V02,LV3,=LU3+1,=For_integration_V02!LU3+1
+599,For_integration_V02,LW3,=LV3+1,=For_integration_V02!LV3+1
+600,For_integration_V02,LX3,=LW3+1,=For_integration_V02!LW3+1
+601,For_integration_V02,LY3,=LX3+1,=For_integration_V02!LX3+1
+602,For_integration_V02,LZ3,=LY3+1,=For_integration_V02!LY3+1
+603,For_integration_V02,MA3,=LZ3+1,=For_integration_V02!LZ3+1
+604,For_integration_V02,MB3,=MA3+1,=For_integration_V02!MA3+1
+605,For_integration_V02,MC3,=MB3+1,=For_integration_V02!MB3+1
+606,For_integration_V02,MD3,=MC3+1,=For_integration_V02!MC3+1
+607,For_integration_V02,ME3,=MD3+1,=For_integration_V02!MD3+1
+608,For_integration_V02,MF3,=ME3+1,=For_integration_V02!ME3+1
+609,For_integration_V02,MG3,=MF3+1,=For_integration_V02!MF3+1
+610,For_integration_V02,MH3,=MG3+1,=For_integration_V02!MG3+1
+611,For_integration_V02,MI3,=MH3+1,=For_integration_V02!MH3+1
+612,For_integration_V02,MJ3,=MI3+1,=For_integration_V02!MI3+1
+613,For_integration_V02,MK3,=MJ3+1,=For_integration_V02!MJ3+1
+614,For_integration_V02,ML3,=MK3+1,=For_integration_V02!MK3+1
+615,For_integration_V02,MM3,=ML3+1,=For_integration_V02!ML3+1
+616,For_integration_V02,MN3,=MM3+1,=For_integration_V02!MM3+1
+617,For_integration_V02,MO3,=MN3+1,=For_integration_V02!MN3+1
+618,For_integration_V02,MP3,=MO3+1,=For_integration_V02!MO3+1
+619,For_integration_V02,MQ3,=MP3+1,=For_integration_V02!MP3+1
+620,For_integration_V02,MR3,=MQ3+1,=For_integration_V02!MQ3+1
+621,For_integration_V02,MS3,=MR3+1,=For_integration_V02!MR3+1
+622,For_integration_V02,MT3,=MS3+1,=For_integration_V02!MS3+1
+623,For_integration_V02,MU3,=MT3+1,=For_integration_V02!MT3+1
+624,For_integration_V02,MV3,=MU3+1,=For_integration_V02!MU3+1
+625,For_integration_V02,MW3,=MV3+1,=For_integration_V02!MV3+1
+626,For_integration_V02,MX3,=MW3+1,=For_integration_V02!MW3+1
+627,For_integration_V02,MY3,=MX3+1,=For_integration_V02!MX3+1
+628,For_integration_V02,MZ3,=MY3+1,=For_integration_V02!MY3+1
+629,For_integration_V02,NA3,=MZ3+1,=For_integration_V02!MZ3+1
+630,For_integration_V02,NB3,=NA3+1,=For_integration_V02!NA3+1
+631,For_integration_V02,NC3,=NB3+1,=For_integration_V02!NB3+1
+632,For_integration_V02,ND3,=NC3+1,=For_integration_V02!NC3+1
+633,For_integration_V02,NE3,=ND3+1,=For_integration_V02!ND3+1
+634,For_integration_V02,NF3,=NE3+1,=For_integration_V02!NE3+1
+635,For_integration_V02,NG3,=NF3+1,=For_integration_V02!NF3+1
+636,For_integration_V02,NH3,=NG3+1,=For_integration_V02!NG3+1
+637,For_integration_V02,NI3,=NH3+1,=For_integration_V02!NH3+1
+638,For_integration_V02,NJ3,=NI3+1,=For_integration_V02!NI3+1
+639,For_integration_V02,NK3,=NJ3+1,=For_integration_V02!NJ3+1
+640,For_integration_V02,NL3,=NK3+1,=For_integration_V02!NK3+1
+641,For_integration_V02,NM3,=NL3+1,=For_integration_V02!NL3+1
+642,For_integration_V02,NN3,=NM3+1,=For_integration_V02!NM3+1
+643,For_integration_V02,NO3,=NN3+1,=For_integration_V02!NN3+1
+644,For_integration_V02,NP3,=NO3+1,=For_integration_V02!NO3+1
+645,For_integration_V02,NQ3,=NP3+1,=For_integration_V02!NP3+1
+646,For_integration_V02,NR3,=NQ3+1,=For_integration_V02!NQ3+1
+647,For_integration_V02,NS3,=NR3+1,=For_integration_V02!NR3+1
+648,For_integration_V02,NT3,=NS3+1,=For_integration_V02!NS3+1
+649,For_integration_V02,NU3,=NT3+1,=For_integration_V02!NT3+1
+650,For_integration_V02,NV3,=NU3+1,=For_integration_V02!NU3+1
+651,For_integration_V02,NW3,=NV3+1,=For_integration_V02!NV3+1
+652,For_integration_V02,NX3,=NW3+1,=For_integration_V02!NW3+1
+653,For_integration_V02,NY3,=NX3+1,=For_integration_V02!NX3+1
+654,For_integration_V02,NZ3,=NY3+1,=For_integration_V02!NY3+1
+655,For_integration_V02,OA3,=NZ3+1,=For_integration_V02!NZ3+1
+656,For_integration_V02,OB3,=OA3+1,=For_integration_V02!OA3+1
+657,For_integration_V02,OC3,=OB3+1,=For_integration_V02!OB3+1
+658,For_integration_V02,OD3,=OC3+1,=For_integration_V02!OC3+1
+659,For_integration_V02,OE3,=OD3+1,=For_integration_V02!OD3+1
+660,For_integration_V02,OF3,=OE3+1,=For_integration_V02!OE3+1
+661,For_integration_V02,OG3,=OF3+1,=For_integration_V02!OF3+1
+662,For_integration_V02,OH3,=OG3+1,=For_integration_V02!OG3+1
+663,For_integration_V02,OI3,=OH3+1,=For_integration_V02!OH3+1
+664,For_integration_V02,OJ3,=OI3+1,=For_integration_V02!OI3+1
+665,For_integration_V02,OK3,=OJ3+1,=For_integration_V02!OJ3+1
+666,For_integration_V02,OL3,=OK3+1,=For_integration_V02!OK3+1
+667,For_integration_V02,OM3,=OL3+1,=For_integration_V02!OL3+1
+668,For_integration_V02,ON3,=OM3+1,=For_integration_V02!OM3+1
+669,For_integration_V02,OO3,=ON3+1,=For_integration_V02!ON3+1
+670,For_integration_V02,OP3,=OO3+1,=For_integration_V02!OO3+1
+671,For_integration_V02,OQ3,=OP3+1,=For_integration_V02!OP3+1
+672,For_integration_V02,OR3,=OQ3+1,=For_integration_V02!OQ3+1
+673,For_integration_V02,OS3,=OR3+1,=For_integration_V02!OR3+1
+674,For_integration_V02,OT3,=OS3+1,=For_integration_V02!OS3+1
+675,For_integration_V02,OU3,=OT3+1,=For_integration_V02!OT3+1
+676,For_integration_V02,OV3,=OU3+1,=For_integration_V02!OU3+1
+677,For_integration_V02,OW3,=OV3+1,=For_integration_V02!OV3+1
+678,For_integration_V02,OX3,=OW3+1,=For_integration_V02!OW3+1
+679,For_integration_V02,OY3,=OX3+1,=For_integration_V02!OX3+1
+680,For_integration_V02,OZ3,=OY3+1,=For_integration_V02!OY3+1
+681,For_integration_V02,PA3,=OZ3+1,=For_integration_V02!OZ3+1
+682,For_integration_V02,PB3,=PA3+1,=For_integration_V02!PA3+1
+683,For_integration_V02,PC3,=PB3+1,=For_integration_V02!PB3+1
+684,For_integration_V02,PD3,=PC3+1,=For_integration_V02!PC3+1
+685,For_integration_V02,PE3,=PD3+1,=For_integration_V02!PD3+1
+686,For_integration_V02,PF3,=PE3+1,=For_integration_V02!PE3+1
+687,For_integration_V02,PG3,=PF3+1,=For_integration_V02!PF3+1
+688,For_integration_V02,PH3,=PG3+1,=For_integration_V02!PG3+1
+689,For_integration_V02,PI3,=PH3+1,=For_integration_V02!PH3+1
+690,For_integration_V02,PJ3,=PI3+1,=For_integration_V02!PI3+1
+691,For_integration_V02,PK3,=PJ3+1,=For_integration_V02!PJ3+1
+692,For_integration_V02,PL3,=PK3+1,=For_integration_V02!PK3+1
+693,For_integration_V02,PM3,=PL3+1,=For_integration_V02!PL3+1
+694,For_integration_V02,PN3,=PM3+1,=For_integration_V02!PM3+1
+695,For_integration_V02,PO3,=PN3+1,=For_integration_V02!PN3+1
+696,For_integration_V02,PP3,=PO3+1,=For_integration_V02!PO3+1
+697,For_integration_V02,PQ3,=PP3+1,=For_integration_V02!PP3+1
+698,For_integration_V02,PR3,=PQ3+1,=For_integration_V02!PQ3+1
+699,For_integration_V02,PS3,=PR3+1,=For_integration_V02!PR3+1
+700,For_integration_V02,PT3,=PS3+1,=For_integration_V02!PS3+1
+701,For_integration_V02,PU3,=PT3+1,=For_integration_V02!PT3+1
+702,For_integration_V02,PV3,=PU3+1,=For_integration_V02!PU3+1
+703,For_integration_V02,PW3,=PV3+1,=For_integration_V02!PV3+1
+704,For_integration_V02,PX3,=PW3+1,=For_integration_V02!PW3+1
+705,For_integration_V02,PY3,=PX3+1,=For_integration_V02!PX3+1
+706,For_integration_V02,PZ3,=PY3+1,=For_integration_V02!PY3+1
+707,For_integration_V02,QA3,=PZ3+1,=For_integration_V02!PZ3+1
+708,For_integration_V02,QB3,=QA3+1,=For_integration_V02!QA3+1
+709,For_integration_V02,QC3,=QB3+1,=For_integration_V02!QB3+1
+710,For_integration_V02,QD3,=QC3+1,=For_integration_V02!QC3+1
+711,For_integration_V02,QE3,=QD3+1,=For_integration_V02!QD3+1
+712,For_integration_V02,QF3,=QE3+1,=For_integration_V02!QE3+1
+713,For_integration_V02,QG3,=QF3+1,=For_integration_V02!QF3+1
+714,For_integration_V02,QH3,=QG3+1,=For_integration_V02!QG3+1
+715,For_integration_V02,QI3,=QH3+1,=For_integration_V02!QH3+1
+716,For_integration_V02,QJ3,=QI3+1,=For_integration_V02!QI3+1
+717,For_integration_V02,QK3,=QJ3+1,=For_integration_V02!QJ3+1
+718,For_integration_V02,QL3,=QK3+1,=For_integration_V02!QK3+1
+719,For_integration_V02,QM3,=QL3+1,=For_integration_V02!QL3+1
+720,For_integration_V02,QN3,=QM3+1,=For_integration_V02!QM3+1
+721,For_integration_V02,QO3,=QN3+1,=For_integration_V02!QN3+1
+722,For_integration_V02,QP3,=QO3+1,=For_integration_V02!QO3+1
+723,For_integration_V02,QQ3,=QP3+1,=For_integration_V02!QP3+1
+724,For_integration_V02,QR3,=QQ3+1,=For_integration_V02!QQ3+1
+725,For_integration_V02,QS3,=QR3+1,=For_integration_V02!QR3+1
+726,For_integration_V02,QT3,=QS3+1,=For_integration_V02!QS3+1
+727,For_integration_V02,QU3,=QT3+1,=For_integration_V02!QT3+1
+728,For_integration_V02,QV3,=QU3+1,=For_integration_V02!QU3+1
+729,For_integration_V02,QW3,=QV3+1,=For_integration_V02!QV3+1
+730,For_integration_V02,QX3,=QW3+1,=For_integration_V02!QW3+1
+731,For_integration_V02,QY3,=QX3+1,=For_integration_V02!QX3+1
+732,For_integration_V02,QZ3,=QY3+1,=For_integration_V02!QY3+1
+733,For_integration_V02,RA3,=QZ3+1,=For_integration_V02!QZ3+1
+734,For_integration_V02,RB3,=RA3+1,=For_integration_V02!RA3+1
+735,For_integration_V02,RC3,=RB3+1,=For_integration_V02!RB3+1
+736,For_integration_V02,RD3,=RC3+1,=For_integration_V02!RC3+1
+737,For_integration_V02,RE3,=RD3+1,=For_integration_V02!RD3+1
+738,For_integration_V02,RF3,=RE3+1,=For_integration_V02!RE3+1
+739,For_integration_V02,RG3,=RF3+1,=For_integration_V02!RF3+1
+740,For_integration_V02,RH3,=RG3+1,=For_integration_V02!RG3+1
+741,For_integration_V02,RI3,=RH3+1,=For_integration_V02!RH3+1
+742,For_integration_V02,RJ3,=RI3+1,=For_integration_V02!RI3+1
+743,For_integration_V02,RK3,=RJ3+1,=For_integration_V02!RJ3+1
+744,For_integration_V02,RL3,=RK3+1,=For_integration_V02!RK3+1
+745,For_integration_V02,RM3,=RL3+1,=For_integration_V02!RL3+1
+746,For_integration_V02,RN3,=RM3+1,=For_integration_V02!RM3+1
+747,For_integration_V02,RO3,=RN3+1,=For_integration_V02!RN3+1
+748,For_integration_V02,RP3,=RO3+1,=For_integration_V02!RO3+1
+749,For_integration_V02,RQ3,=RP3+1,=For_integration_V02!RP3+1
+750,For_integration_V02,RR3,=RQ3+1,=For_integration_V02!RQ3+1
+751,For_integration_V02,RS3,=RR3+1,=For_integration_V02!RR3+1
+752,For_integration_V02,RT3,=RS3+1,=For_integration_V02!RS3+1
+753,For_integration_V02,RU3,=RT3+1,=For_integration_V02!RT3+1
+754,For_integration_V02,RV3,=RU3+1,=For_integration_V02!RU3+1
+755,For_integration_V02,RW3,=RV3+1,=For_integration_V02!RV3+1
+756,For_integration_V02,RX3,=RW3+1,=For_integration_V02!RW3+1
+757,For_integration_V02,RY3,=RX3+1,=For_integration_V02!RX3+1
+758,For_integration_V02,RZ3,=RY3+1,=For_integration_V02!RY3+1
+759,For_integration_V02,SA3,=RZ3+1,=For_integration_V02!RZ3+1
+760,For_integration_V02,SB3,=SA3+1,=For_integration_V02!SA3+1
+761,For_integration_V02,SC3,=SB3+1,=For_integration_V02!SB3+1
+762,For_integration_V02,SD3,=SC3+1,=For_integration_V02!SC3+1
+763,For_integration_V02,SE3,=SD3+1,=For_integration_V02!SD3+1
+764,For_integration_V02,SF3,=SE3+1,=For_integration_V02!SE3+1
+765,For_integration_V02,SG3,=SF3+1,=For_integration_V02!SF3+1
+766,For_integration_V02,SH3,=SG3+1,=For_integration_V02!SG3+1
+767,For_integration_V02,SI3,=SH3+1,=For_integration_V02!SH3+1
+768,For_integration_V02,SJ3,=SI3+1,=For_integration_V02!SI3+1
+769,For_integration_V02,SK3,=SJ3+1,=For_integration_V02!SJ3+1
+770,For_integration_V02,SL3,=SK3+1,=For_integration_V02!SK3+1
+771,For_integration_V02,SM3,=SL3+1,=For_integration_V02!SL3+1
+772,For_integration_V02,SN3,=SM3+1,=For_integration_V02!SM3+1
+773,For_integration_V02,SO3,=SN3+1,=For_integration_V02!SN3+1
+774,For_integration_V02,SP3,=SO3+1,=For_integration_V02!SO3+1
+775,For_integration_V02,SQ3,=SP3+1,=For_integration_V02!SP3+1
+776,For_integration_V02,SR3,=SQ3+1,=For_integration_V02!SQ3+1
+777,For_integration_V02,SS3,=SR3+1,=For_integration_V02!SR3+1
+778,For_integration_V02,ST3,=SS3+1,=For_integration_V02!SS3+1
+779,For_integration_V02,SU3,=ST3+1,=For_integration_V02!ST3+1
+780,For_integration_V02,SV3,=SU3+1,=For_integration_V02!SU3+1
+781,For_integration_V02,SW3,=SV3+1,=For_integration_V02!SV3+1
+782,For_integration_V02,SX3,=SW3+1,=For_integration_V02!SW3+1
+783,For_integration_V02,SY3,=SX3+1,=For_integration_V02!SX3+1
+784,For_integration_V02,SZ3,=SY3+1,=For_integration_V02!SY3+1
+785,For_integration_V02,TA3,=SZ3+1,=For_integration_V02!SZ3+1
+786,For_integration_V02,TB3,=TA3+1,=For_integration_V02!TA3+1
+787,For_integration_V02,TC3,=TB3+1,=For_integration_V02!TB3+1
+788,For_integration_V02,TD3,=TC3+1,=For_integration_V02!TC3+1
+789,For_integration_V02,TE3,=TD3+1,=For_integration_V02!TD3+1
+790,For_integration_V02,TF3,=TE3+1,=For_integration_V02!TE3+1
+791,For_integration_V02,TG3,=TF3+1,=For_integration_V02!TF3+1
+792,For_integration_V02,TH3,=TG3+1,=For_integration_V02!TG3+1
+793,For_integration_V02,TI3,=TH3+1,=For_integration_V02!TH3+1
+794,For_integration_V02,TJ3,=TI3+1,=For_integration_V02!TI3+1
+795,For_integration_V02,A4,Mobile Number,Mobile Number
+796,For_integration_V02,B4,First name,First name
+797,For_integration_V02,C4,Last name,Last name
+798,For_integration_V02,D4,Nationality,Nationality
+799,For_integration_V02,E4,National ID,National ID
+800,For_integration_V02,F4,Employer,Employer
+801,For_integration_V02,G4,Desirable city,Desirable city
+802,For_integration_V02,H4,Customer Bank name,Customer Bank name
+803,For_integration_V02,I4,Customer partner bank name,Customer partner bank name
+804,For_integration_V02,J4,Salary,Salary
+805,For_integration_V02,K4,Other debt ,Other debt 
+806,For_integration_V02,L4,Debt years,Debt years
+807,For_integration_V02,M4,Age,Age
+808,For_integration_V02,N4,Years_to_borrow_over,Years_to_borrow_over
+809,For_integration_V02,O4,Home_price,Home_price
+810,For_integration_V02,P4,Home_searching_Status,Home_searching_Status
+811,For_integration_V02,Q4,Supported/Not Supported,Supported/Not Supported
+812,For_integration_V02,R4,Working Sector,Working Sector
+813,For_integration_V02,S4,is this your first time purchasing home? ,is this your first time purchasing home? 
+814,For_integration_V02,T4,No. of people applying for this mportgage,No. of people applying for this mportgage
+815,For_integration_V02,U4,Do you have down Payment,Do you have down Payment
+816,For_integration_V02,V4,interested area of the city,interested area of the city
+817,For_integration_V02,W4,family members,family members
+818,For_integration_V02,X4,interested neighbourhood,interested neighbourhood
+819,For_integration_V02,Y4,Asset type,Asset type
+820,For_integration_V02,Z4,Type of mortgage product,Type of mortgage product
+821,For_integration_V02,AA4,Purpose of buying the asset,Purpose of buying the asset
+822,For_integration_V02,AB4,User first message ,User first message 
+823,For_integration_V02,AC4,WhatsApp name,WhatsApp name
+824,For_integration_V02,AD4,advert filter,advert filter
+825,For_integration_V02,AE4,Action feedback,Action feedback
+826,For_integration_V02,AF4,Action reasoning ,Action reasoning 
+827,For_integration_V02,AG4,Subscription status,Subscription status
+828,For_integration_V02,AH4,Advertiser name,Advertiser name
+829,For_integration_V02,AI4,Advertiser city,Advertiser city
+830,For_integration_V02,AJ4,Advertiser Number,Advertiser Number
+831,For_integration_V02,AK4,User consent,User consent
+832,For_integration_V02,AL4,date,date
+833,For_integration_V02,AM4,User First Message,User First Message
+834,For_integration_V02,AN4,Selling Current home (if any),Selling Current home (if any)
+835,For_integration_V02,AO4,Financing solution Serveries ,Financing solution Serveries 
+836,For_integration_V02,AP4,Morgage Asset Type,Morgage Asset Type
+837,For_integration_V02,AQ4,Rank,Rank
+838,For_integration_V02,AR4,Client name,Client name
+839,For_integration_V02,AS4,client eligibility,client eligibility
+840,For_integration_V02,AT4,client seriousness,client seriousness
+841,For_integration_V02,AU4,does the client have UP-Front,does the client have UP-Front
+842,For_integration_V02,AV4,Full profile,Full profile
+843,For_integration_V02,AW4,Customer type,Customer type
+844,For_integration_V02,AX4,Feasable ?,Feasable ?
+845,For_integration_V02,AY4,حالة العميل,حالة العميل
+846,For_integration_V02,AZ4,الملاحظات,الملاحظات
+847,For_integration_V02,BA4,الموظف المسؤول,الموظف المسؤول
+848,For_integration_V02,BB4,Action,Action
+849,For_integration_V02,BC4,Additional UP-Front,Additional UP-Front
+850,For_integration_V02,BD4,Debt Qualified,Debt Qualified
+851,For_integration_V02,BE4,Age Qualified,Age Qualified
+852,For_integration_V02,BF4,family members F,family members F
+853,For_integration_V02,BG4,Acceptable Years?,Acceptable Years?
+854,For_integration_V02,BH4,Acceptable Principle?,Acceptable Principle?
+855,For_integration_V02,BI4,مبلغ الدعم,مبلغ الدعم
+856,For_integration_V02,BJ4,نسبة الدعم من افراد العائلة,نسبة الدعم من افراد العائلة
+857,For_integration_V02,BK4,FiveHundred Multiple,FiveHundred Multiple
+858,For_integration_V02,BL4,نسبة الدعم من الراتب,نسبة الدعم من الراتب
+859,For_integration_V02,BM4,حساب نسبة الاستحقاق,حساب نسبة الاستحقاق
+860,For_integration_V02,BN4,تاكيد الحسبة,تاكيد الحسبة
+861,For_integration_V02,BO4,Supporting Merit %,Supporting Merit %
+862,For_integration_V02,BP4,Salary Catagory,Salary Catagory
+863,For_integration_V02,BQ4,Max Debt %,Max Debt %
+864,For_integration_V02,BR4,Available Salary,Available Salary
+865,For_integration_V02,BS4,Debt years Conf,Debt years Conf
+866,For_integration_V02,BT4,Aff_Max_DP No. of available years,Aff_Max_DP No. of available years
+867,For_integration_V02,BU4,Aff_Max_DP Interest,Aff_Max_DP Interest
+868,For_integration_V02,BV4,Aff_Max_DP Total Paid AMT,Aff_Max_DP Total Paid AMT
+869,For_integration_V02,BW4,Aff_Max_DP PMT Calc,Aff_Max_DP PMT Calc
+870,For_integration_V02,BX4,Aff_Max_DP Max Mortgage loan AMT,Aff_Max_DP Max Mortgage loan AMT
+871,For_integration_V02,BY4,Aff_Max_DP Total Interest,Aff_Max_DP Total Interest
+872,For_integration_V02,BZ4,Aff_Max_DP Monthly PMT,Aff_Max_DP Monthly PMT
+873,For_integration_V02,CA4,Aff_Max_DP Total of PMT 1,Aff_Max_DP Total of PMT 1
+874,For_integration_V02,CB4,Aff_Max_DP Monthly PMT 2,Aff_Max_DP Monthly PMT 2
+875,For_integration_V02,CC4,Aff_Max_DP Max Debt AMT,Aff_Max_DP Max Debt AMT
+876,For_integration_V02,CD4,Aff_Max_DP Down PMT,Aff_Max_DP Down PMT
+877,For_integration_V02,CE4,Aff_10_DP No. of available years,Aff_10_DP No. of available years
+878,For_integration_V02,CF4,Aff_ Max_MaxSal_ Mortgage AMT- 5 years,Aff_ Max_MaxSal_ Mortgage AMT- 5 years
+879,For_integration_V02,CG4,Aff_ Max_MaxSal_ Current Debt Wight,Aff_ Max_MaxSal_ Current Debt Wight
+880,For_integration_V02,CH4,Aff_ Max_MaxSal_ Mortgage AMT,Aff_ Max_MaxSal_ Mortgage AMT
+881,For_integration_V02,CI4,Aff_ Max_MaxSal_ Ax No Years,Aff_ Max_MaxSal_ Ax No Years
+882,For_integration_V02,CJ4,Aff_10_DP Total Interest,Aff_10_DP Total Interest
+883,For_integration_V02,CK4,Aff_ Max_AvaiSal_ Mortgage AMT,Aff_ Max_AvaiSal_ Mortgage AMT
+884,For_integration_V02,CM4,Aff_15_DP No. of available years,Aff_15_DP No. of available years
+885,For_integration_V02,CN4,Aff_15_DP Interest,Aff_15_DP Interest
+886,For_integration_V02,CO4,Aff_15_DP Max Mortgage loan AMT,Aff_15_DP Max Mortgage loan AMT
+887,For_integration_V02,CP4,Aff_15_DP Monthly PMT,Aff_15_DP Monthly PMT
+888,For_integration_V02,CQ4,Aff_15_DP Total Paid AMT,Aff_15_DP Total Paid AMT
+889,For_integration_V02,CR4,Aff_15_DP Total Interest,Aff_15_DP Total Interest
+890,For_integration_V02,CS4,Aff_15_DP Down PMT,Aff_15_DP Down PMT
+891,For_integration_V02,CU4,Aff_20_DP No. of available years,Aff_20_DP No. of available years
+892,For_integration_V02,CV4,Aff_20_DP Interest,Aff_20_DP Interest
+893,For_integration_V02,CW4,Aff_20_DP Max Mortgage loan AMT,Aff_20_DP Max Mortgage loan AMT
+894,For_integration_V02,CX4,Aff_20_DP Monthly PMT,Aff_20_DP Monthly PMT
+895,For_integration_V02,CY4,Aff_20_DP Total Paid AMT,Aff_20_DP Total Paid AMT
+896,For_integration_V02,CZ4,Aff_20_DP Total Interest,Aff_20_DP Total Interest
+897,For_integration_V02,DA4,Aff_20_DP Down PMT,Aff_20_DP Down PMT
+898,For_integration_V02,DB4,Aff_25_DP No. of available years,Aff_25_DP No. of available years
+899,For_integration_V02,DC4,Aff_25_DP Interest,Aff_25_DP Interest
+900,For_integration_V02,DD4,Aff_25_DP Max Mortgage loan AMT,Aff_25_DP Max Mortgage loan AMT
+901,For_integration_V02,DE4,Aff_25_DP Monthly PMT,Aff_25_DP Monthly PMT
+902,For_integration_V02,DF4,Aff_25_DP Total Paid AMT,Aff_25_DP Total Paid AMT
+903,For_integration_V02,DG4,Aff_25_DP Total Interest,Aff_25_DP Total Interest
+904,For_integration_V02,DH4,Aff_25_DP Down PMT,Aff_25_DP Down PMT
+905,For_integration_V02,DI4,Aff_Max_NDP No. of available years,Aff_Max_NDP No. of available years
+906,For_integration_V02,DJ4,Aff_Max_NDP Interest,Aff_Max_NDP Interest
+907,For_integration_V02,DK4,Aff_Max_NDP Max Mortgage loan AMT,Aff_Max_NDP Max Mortgage loan AMT
+908,For_integration_V02,DL4,Aff_Max_NDP Monthly PMT,Aff_Max_NDP Monthly PMT
+909,For_integration_V02,DM4,Aff_Max_NDP Total Paid AMT,Aff_Max_NDP Total Paid AMT
+910,For_integration_V02,DN4,Aff_Max_NDP Total Interest,Aff_Max_NDP Total Interest
+911,For_integration_V02,DO4,Aff_Max_NDP Down PMT,Aff_Max_NDP Down PMT
+912,For_integration_V02,DP4,Aff_Max_DP_Y No. of available years,Aff_Max_DP_Y No. of available years
+913,For_integration_V02,DQ4,Aff_Max_DP_Y Interest,Aff_Max_DP_Y Interest
+914,For_integration_V02,DR4,Aff_Max_DP_Y Max Mortgage loan AMT,Aff_Max_DP_Y Max Mortgage loan AMT
+915,For_integration_V02,DS4,Aff_Max_DP_Y Monthly PMT,Aff_Max_DP_Y Monthly PMT
+916,For_integration_V02,DT4,Aff_Max_DP_Y Total Paid AMT,Aff_Max_DP_Y Total Paid AMT
+917,For_integration_V02,DU4,Aff_Max_DP_Y Total Interest,Aff_Max_DP_Y Total Interest
+918,For_integration_V02,DV4,Aff_Max_DP_Y Down PMT,Aff_Max_DP_Y Down PMT
+919,For_integration_V02,DW4,Mor_10_DP No. of available years,Mor_10_DP No. of available years
+920,For_integration_V02,DX4,Mor_10_DP Interest,Mor_10_DP Interest
+921,For_integration_V02,DY4,Mor_10_DP Principle AMT,Mor_10_DP Principle AMT
+922,For_integration_V02,DZ4,Mor_10_DP debt AMT,Mor_10_DP debt AMT
+923,For_integration_V02,EA4,Mor_10_DP Monthly PMT,Mor_10_DP Monthly PMT
+924,For_integration_V02,EB4,Mor_10_DP PMT Calc,Mor_10_DP PMT Calc
+925,For_integration_V02,EC4,Mor_10_DP Debt Assumption,Mor_10_DP Debt Assumption
+926,For_integration_V02,ED4,Mor_10_DP scenario or aff,Mor_10_DP scenario or aff
+927,For_integration_V02,EE4,Mor_10_DP Total Paid AMT,Mor_10_DP Total Paid AMT
+928,For_integration_V02,EF4,Mor_10_DP Total Interest,Mor_10_DP Total Interest
+929,For_integration_V02,EG4,Mor_10_DP Down PMT,Mor_10_DP Down PMT
+930,For_integration_V02,EH4,Mor_10_DP old DP,Mor_10_DP old DP
+931,For_integration_V02,EI4,Mor_10_DP Scenario DP,Mor_10_DP Scenario DP
+932,For_integration_V02,EJ4,Mor_10_DP Age Qualification ,Mor_10_DP Age Qualification 
+933,For_integration_V02,EK4,Mor_10_DP PMT Qualification ,Mor_10_DP PMT Qualification 
+934,For_integration_V02,EL4,Mor_10_DP PMT %,Mor_10_DP PMT %
+935,For_integration_V02,EM4,Mor_10_DP # of supported years,Mor_10_DP # of supported years
+936,For_integration_V02,EN4,Mor_10_DP Monthly support and Principle,Mor_10_DP Monthly support and Principle
+937,For_integration_V02,EO4,Mor_10_DP Support and interest,Mor_10_DP Support and interest
+938,For_integration_V02,EP4,Mor_10_DP full interest to cover,Mor_10_DP full interest to cover
+939,For_integration_V02,EQ4,Mor_10_DP Covered interest,Mor_10_DP Covered interest
+940,For_integration_V02,ER4,Mor_10_DP Monthly support,Mor_10_DP Monthly support
+941,For_integration_V02,ES4,Mor_10_DP Monthly PMT after support,Mor_10_DP Monthly PMT after support
+942,For_integration_V02,ET4,Mor_10_DP Total Paid AMT after support,Mor_10_DP Total Paid AMT after support
+943,For_integration_V02,EU4,Mor_15_DP No. of available years,Mor_15_DP No. of available years
+944,For_integration_V02,EV4,Mor_15_DP Interest,Mor_15_DP Interest
+945,For_integration_V02,EW4,Mor_15_DP Principle AMT,Mor_15_DP Principle AMT
+946,For_integration_V02,EX4,Mor_15_DP Debt AMT,Mor_15_DP Debt AMT
+947,For_integration_V02,EY4,Mor_15_DP Monthly PMT,Mor_15_DP Monthly PMT
+948,For_integration_V02,EZ4,Mor_15_DP PV PMT,Mor_15_DP PV PMT
+949,For_integration_V02,FA4,Mor_15_DP PV Debt,Mor_15_DP PV Debt
+950,For_integration_V02,FB4,Mor_15_DP scenario or aff,Mor_15_DP scenario or aff
+951,For_integration_V02,FC4,Mor_15_DP Total Paid AMT,Mor_15_DP Total Paid AMT
+952,For_integration_V02,FD4,Mor_15_DP Total Interest,Mor_15_DP Total Interest
+953,For_integration_V02,FE4,Mor_15_DP Down PMT,Mor_15_DP Down PMT
+954,For_integration_V02,FF4,Mor_15_DP old DP,Mor_15_DP old DP
+955,For_integration_V02,FG4,Mor_15_DP Scenario DP,Mor_15_DP Scenario DP
+956,For_integration_V02,FH4,Mor_15_DP Age Qualification ,Mor_15_DP Age Qualification 
+957,For_integration_V02,FI4,Mor_15_DP PMT Qualification ,Mor_15_DP PMT Qualification 
+958,For_integration_V02,FJ4,Mor_15_DP PMT %,Mor_15_DP PMT %
+959,For_integration_V02,FK4,Mor_15_DP # of supported years,Mor_15_DP # of supported years
+960,For_integration_V02,FL4,Mor_15_DP Monthly support and Principle,Mor_15_DP Monthly support and Principle
+961,For_integration_V02,FM4,Mor_15_DP Support and interest,Mor_15_DP Support and interest
+962,For_integration_V02,FN4,Mor_15_DP full interest to cover,Mor_15_DP full interest to cover
+963,For_integration_V02,FO4,Mor_15_DP Covered interest,Mor_15_DP Covered interest
+964,For_integration_V02,FP4,Mor_15_DP Monthly support,Mor_15_DP Monthly support
+965,For_integration_V02,FQ4,Mor_15_DP Monthly PMT after support,Mor_15_DP Monthly PMT after support
+966,For_integration_V02,FR4,Mor_15_DP Total Paid AMT after support,Mor_15_DP Total Paid AMT after support
+967,For_integration_V02,FS4,Mor_20_DP No. of available years,Mor_20_DP No. of available years
+968,For_integration_V02,FT4,Mor_20_DP Interest,Mor_20_DP Interest
+969,For_integration_V02,FU4,Mor_20_DP Principle AMT,Mor_20_DP Principle AMT
+970,For_integration_V02,FV4,Mor_20_DP Debt AMT,Mor_20_DP Debt AMT
+971,For_integration_V02,FW4,Mor_20_DP Monthly PMT,Mor_20_DP Monthly PMT
+972,For_integration_V02,FX4,Mor_20_DP PV PMT,Mor_20_DP PV PMT
+973,For_integration_V02,FY4,Mor_20_DP PV Debt,Mor_20_DP PV Debt
+974,For_integration_V02,FZ4,Mor_20_DP scenario or aff,Mor_20_DP scenario or aff
+975,For_integration_V02,GA4,Mor_20_DP Total Paid AMT,Mor_20_DP Total Paid AMT
+976,For_integration_V02,GB4,Mor_20_DP Total Interest,Mor_20_DP Total Interest
+977,For_integration_V02,GC4,Mor_20_DP Down PMT,Mor_20_DP Down PMT
+978,For_integration_V02,GD4,Mor_20_DP old DP,Mor_20_DP old DP
+979,For_integration_V02,GE4,Mor_20_DP Scenario DP,Mor_20_DP Scenario DP
+980,For_integration_V02,GF4,Mor_20_DP Age Qualification ,Mor_20_DP Age Qualification 
+981,For_integration_V02,GG4,Mor_20_DP PMT Qualification ,Mor_20_DP PMT Qualification 
+982,For_integration_V02,GH4,Mor_20_DP PMT %,Mor_20_DP PMT %
+983,For_integration_V02,GI4,Mor_20_DP # of supported years,Mor_20_DP # of supported years
+984,For_integration_V02,GJ4,Mor_20_DP Monthly support and Principle,Mor_20_DP Monthly support and Principle
+985,For_integration_V02,GK4,Mor_20_DP Support and interest,Mor_20_DP Support and interest
+986,For_integration_V02,GL4,Mor_20_DP full interest to cover,Mor_20_DP full interest to cover
+987,For_integration_V02,GM4,Mor_20_DP Covered interest,Mor_20_DP Covered interest
+988,For_integration_V02,GN4,Mor_20_DP Monthly support,Mor_20_DP Monthly support
+989,For_integration_V02,GO4,Mor_20_DP Monthly PMT after support,Mor_20_DP Monthly PMT after support
+990,For_integration_V02,GP4,Mor_20_DP Total Paid AMT after support,Mor_20_DP Total Paid AMT after support
+991,For_integration_V02,GQ4,Mor_25_DP No. of available years,Mor_25_DP No. of available years
+992,For_integration_V02,GR4,Mor_25_DP Interest,Mor_25_DP Interest
+993,For_integration_V02,GS4,Mor_25_DP Principle AMT,Mor_25_DP Principle AMT
+994,For_integration_V02,GT4,Mor_25_DP Debt AMT,Mor_25_DP Debt AMT
+995,For_integration_V02,GU4,Mor_25_DP Monthly PMT,Mor_25_DP Monthly PMT
+996,For_integration_V02,GV4,Mor_25_DP PV PMT,Mor_25_DP PV PMT
+997,For_integration_V02,GW4,Mor_25_DP PV Debt,Mor_25_DP PV Debt
+998,For_integration_V02,GX4,Mor_25_DP scenario or aff,Mor_25_DP scenario or aff
+999,For_integration_V02,GY4,Mor_25_DP Total Paid AMT,Mor_25_DP Total Paid AMT
+1000,For_integration_V02,GZ4,Mor_25_DP Total Interest,Mor_25_DP Total Interest
+1001,For_integration_V02,HA4,Mor_25_DP Down PMT,Mor_25_DP Down PMT
+1002,For_integration_V02,HB4,Mor_25_DP old DP,Mor_25_DP old DP
+1003,For_integration_V02,HC4,Mor_25_DP Scenario DP,Mor_25_DP Scenario DP
+1004,For_integration_V02,HD4,Mor_25_DP Age Qualification ,Mor_25_DP Age Qualification 
+1005,For_integration_V02,HE4,Mor_25_DP PMT Qualification ,Mor_25_DP PMT Qualification 
+1006,For_integration_V02,HF4,Mor_25_DP PMT %,Mor_25_DP PMT %
+1007,For_integration_V02,HG4,Mor_25_DP # of supported years,Mor_25_DP # of supported years
+1008,For_integration_V02,HH4,Mor_25_DP Monthly support and Principle,Mor_25_DP Monthly support and Principle
+1009,For_integration_V02,HI4,Mor_25_DP Support and interest,Mor_25_DP Support and interest
+1010,For_integration_V02,HJ4,Mor_25_DP full interest to cover,Mor_25_DP full interest to cover
+1011,For_integration_V02,HK4,Mor_25_DP Covered interest,Mor_25_DP Covered interest
+1012,For_integration_V02,HL4,Mor_25_DP Monthly support,Mor_25_DP Monthly support
+1013,For_integration_V02,HM4,Mor_25_DP Monthly PMT after support,Mor_25_DP Monthly PMT after support
+1014,For_integration_V02,HN4,Mor_25_DP Total Paid AMT after support,Mor_25_DP Total Paid AMT after support
+1015,For_integration_V02,HO4,Mor_Max_DP No. of available years,Mor_Max_DP No. of available years
+1016,For_integration_V02,HP4,Mor_Max_DP Interest,Mor_Max_DP Interest
+1017,For_integration_V02,HQ4,Mor_Max_DP Principle AMT,Mor_Max_DP Principle AMT
+1018,For_integration_V02,HR4,Mor_Max_DP Debt AMT,Mor_Max_DP Debt AMT
+1019,For_integration_V02,HS4,Mor_Max_DP Monthly PMT,Mor_Max_DP Monthly PMT
+1020,For_integration_V02,HT4,Mor_Max_DP PV PMT,Mor_Max_DP PV PMT
+1021,For_integration_V02,HU4,Mor_Max_DP PV Debt,Mor_Max_DP PV Debt
+1022,For_integration_V02,HV4,Mor_Max_DP scenario or aff,Mor_Max_DP scenario or aff
+1023,For_integration_V02,HW4,Mor_Max_DP Total Paid AMT,Mor_Max_DP Total Paid AMT
+1024,For_integration_V02,HX4,Mor_Max_DP Total Interest,Mor_Max_DP Total Interest
+1025,For_integration_V02,HY4,Mor_Max_DP Down PMT,Mor_Max_DP Down PMT
+1026,For_integration_V02,HZ4,Mor_Max_DP old DP,Mor_Max_DP old DP
+1027,For_integration_V02,IA4,Mor_Max_DP Scenario DP,Mor_Max_DP Scenario DP
+1028,For_integration_V02,IB4,Mor_Max_DP Age Qualification ,Mor_Max_DP Age Qualification 
+1029,For_integration_V02,IC4,Mor_Max_DP PMT Qualification ,Mor_Max_DP PMT Qualification 
+1030,For_integration_V02,ID4,Mor_Max_DP PMT %,Mor_Max_DP PMT %
+1031,For_integration_V02,IE4,Mor_Max_DP # of supported years,Mor_Max_DP # of supported years
+1032,For_integration_V02,IF4,Mor_Max_DP Monthly support and Principle,Mor_Max_DP Monthly support and Principle
+1033,For_integration_V02,IG4,Mor_Max_DP Support and interest,Mor_Max_DP Support and interest
+1034,For_integration_V02,IH4,Mor_Max_DP full interest to cover,Mor_Max_DP full interest to cover
+1035,For_integration_V02,II4,Mor_Max_DP Covered interest,Mor_Max_DP Covered interest
+1036,For_integration_V02,IJ4,Mor_Max_DP Monthly support,Mor_Max_DP Monthly support
+1037,For_integration_V02,IK4,Mor_Max_DP Monthly PMT after support,Mor_Max_DP Monthly PMT after support
+1038,For_integration_V02,IL4,Mor_Max_DP Total Paid AMT after support,Mor_Max_DP Total Paid AMT after support
+1039,For_integration_V02,IM4,Mor_10_NDP No. of available years,Mor_10_NDP No. of available years
+1040,For_integration_V02,IN4,Mor_10_NDP Interest,Mor_10_NDP Interest
+1041,For_integration_V02,IO4,Mor_10_NDP Principle AMT,Mor_10_NDP Principle AMT
+1042,For_integration_V02,IP4,Mor_10_NDP Debt AMT,Mor_10_NDP Debt AMT
+1043,For_integration_V02,IQ4,Mor_10_NDP Monthly PMT,Mor_10_NDP Monthly PMT
+1044,For_integration_V02,IR4,Mor_10_NDP Total Paid AMT,Mor_10_NDP Total Paid AMT
+1045,For_integration_V02,IS4,Mor_10_NDP Total Interest,Mor_10_NDP Total Interest
+1046,For_integration_V02,IT4,Mor_10_NDP Down PMT,Mor_10_NDP Down PMT
+1047,For_integration_V02,IU4,Mor_10_NDP Personal Loan Interest,Mor_10_NDP Personal Loan Interest
+1048,For_integration_V02,IV4,Mor_10_NDP No. of Years,Mor_10_NDP No. of Years
+1049,For_integration_V02,IW4,Mor_10_NDP Monthly PL PMT,Mor_10_NDP Monthly PL PMT
+1050,For_integration_V02,IX4,Mor_10_NDP Total PL Paid AMT,Mor_10_NDP Total PL Paid AMT
+1051,For_integration_V02,IY4,Mor_10_NDP Total PL Interest,Mor_10_NDP Total PL Interest
+1052,For_integration_V02,IZ4,Mor_10_NDP Total Monthly PMT,Mor_10_NDP Total Monthly PMT
+1053,For_integration_V02,JA4,Mor_10_NDP Age Qualification ,Mor_10_NDP Age Qualification 
+1054,For_integration_V02,JB4,Mor_10_NDP PMT Qualification  ,Mor_10_NDP PMT Qualification  
+1055,For_integration_V02,JC4,Mor_10_NDP PMT %,Mor_10_NDP PMT %
+1056,For_integration_V02,JD4,Mor_10_NDP # of supported years,Mor_10_NDP # of supported years
+1057,For_integration_V02,JE4,Mor_10_NDP Monthly support and Principle,Mor_10_NDP Monthly support and Principle
+1058,For_integration_V02,JF4,Mor_10_NDP Support and interest,Mor_10_NDP Support and interest
+1059,For_integration_V02,JG4,Mor_10_NDP full interest to cover,Mor_10_NDP full interest to cover
+1060,For_integration_V02,JH4,Mor_10_NDP Covered interest,Mor_10_NDP Covered interest
+1061,For_integration_V02,JI4,Mor_10_NDP Monthly support,Mor_10_NDP Monthly support
+1062,For_integration_V02,JJ4,Mor_10_NDP Monthly PMT after support,Mor_10_NDP Monthly PMT after support
+1063,For_integration_V02,JK4,Mor_10_NDP Total Paid AMT after support,Mor_10_NDP Total Paid AMT after support
+1064,For_integration_V02,JL4,Mor_15_NDP No. of available years,Mor_15_NDP No. of available years
+1065,For_integration_V02,JM4,Mor_15_NDP Interest,Mor_15_NDP Interest
+1066,For_integration_V02,JN4,Mor_15_NDP Principle AMT,Mor_15_NDP Principle AMT
+1067,For_integration_V02,JO4,Mor_15_NDP Debt AMT,Mor_15_NDP Debt AMT
+1068,For_integration_V02,JP4,Mor_15_NDP Monthly PMT,Mor_15_NDP Monthly PMT
+1069,For_integration_V02,JQ4,Mor_15_NDP Total Paid AMT,Mor_15_NDP Total Paid AMT
+1070,For_integration_V02,JR4,Mor_15_NDP Total Interest,Mor_15_NDP Total Interest
+1071,For_integration_V02,JS4,Mor_15_NDP Down PMT,Mor_15_NDP Down PMT
+1072,For_integration_V02,JT4,Mor_15_NDP Personal Loan Interest,Mor_15_NDP Personal Loan Interest
+1073,For_integration_V02,JU4,Mor_15_NDP No. of Years,Mor_15_NDP No. of Years
+1074,For_integration_V02,JV4,Mor_15_NDP Monthly PL PMT,Mor_15_NDP Monthly PL PMT
+1075,For_integration_V02,JW4,Mor_15_NDP Total PL Paid AMT,Mor_15_NDP Total PL Paid AMT
+1076,For_integration_V02,JX4,Mor_15_NDP Total PL Interest,Mor_15_NDP Total PL Interest
+1077,For_integration_V02,JY4,Mor_15_NDP Total Monthly PMT,Mor_15_NDP Total Monthly PMT
+1078,For_integration_V02,JZ4,Mor_15_NDP Age Qualification ,Mor_15_NDP Age Qualification 
+1079,For_integration_V02,KA4,Mor_15_NDP PMT Qualification  ,Mor_15_NDP PMT Qualification  
+1080,For_integration_V02,KB4,Mor_15_NDP PMT %,Mor_15_NDP PMT %
+1081,For_integration_V02,KC4,Mor_20_NDP No. of available years,Mor_20_NDP No. of available years
+1082,For_integration_V02,KD4,Mor_20_NDP Interest,Mor_20_NDP Interest
+1083,For_integration_V02,KE4,Mor_20_NDP Principle AMT,Mor_20_NDP Principle AMT
+1084,For_integration_V02,KF4,Mor_20_NDP Debt AMT,Mor_20_NDP Debt AMT
+1085,For_integration_V02,KG4,Mor_20_NDP Monthly PMT,Mor_20_NDP Monthly PMT
+1086,For_integration_V02,KH4,Mor_20_NDP Total Paid AMT,Mor_20_NDP Total Paid AMT
+1087,For_integration_V02,KI4,Mor_20_NDP Total Interest,Mor_20_NDP Total Interest
+1088,For_integration_V02,KJ4,Mor_20_NDP Down PMT,Mor_20_NDP Down PMT
+1089,For_integration_V02,KK4,Mor_20_NDP Personal Loan Interest,Mor_20_NDP Personal Loan Interest
+1090,For_integration_V02,KL4,Mor_20_NDP No. of Years,Mor_20_NDP No. of Years
+1091,For_integration_V02,KM4,Mor_20_NDP Monthly PL PMT,Mor_20_NDP Monthly PL PMT
+1092,For_integration_V02,KN4,Mor_20_NDP Total PL Paid AMT,Mor_20_NDP Total PL Paid AMT
+1093,For_integration_V02,KO4,Mor_20_NDP Total PL Interest,Mor_20_NDP Total PL Interest
+1094,For_integration_V02,KP4,Mor_20_NDP Total Monthly PMT,Mor_20_NDP Total Monthly PMT
+1095,For_integration_V02,KQ4,Mor_20_NDP Age Qualification ,Mor_20_NDP Age Qualification 
+1096,For_integration_V02,KR4,Mor_20_NDP PMT Qualification  ,Mor_20_NDP PMT Qualification  
+1097,For_integration_V02,KS4,Mor_20_NDP PMT %,Mor_20_NDP PMT %
+1098,For_integration_V02,KT4,Mor_25_NDP No. of available years,Mor_25_NDP No. of available years
+1099,For_integration_V02,KU4,Mor_25_NDP Interest,Mor_25_NDP Interest
+1100,For_integration_V02,KV4,Mor_25_NDP Principle AMT,Mor_25_NDP Principle AMT
+1101,For_integration_V02,KW4,Mor_25_NDP Debt AMT,Mor_25_NDP Debt AMT
+1102,For_integration_V02,KX4,Mor_25_NDP Monthly PMT,Mor_25_NDP Monthly PMT
+1103,For_integration_V02,KY4,Mor_25_NDP Total Paid AMT,Mor_25_NDP Total Paid AMT
+1104,For_integration_V02,KZ4,Mor_25_NDP Total Interest,Mor_25_NDP Total Interest
+1105,For_integration_V02,LA4,Mor_25_NDP Down PMT,Mor_25_NDP Down PMT
+1106,For_integration_V02,LB4,Mor_25_NDP Personal Loan Interest,Mor_25_NDP Personal Loan Interest
+1107,For_integration_V02,LC4,Mor_25_NDP No. of Years,Mor_25_NDP No. of Years
+1108,For_integration_V02,LD4,Mor_25_NDP Monthly PL PMT,Mor_25_NDP Monthly PL PMT
+1109,For_integration_V02,LE4,Mor_25_NDP Total PL Paid AMT,Mor_25_NDP Total PL Paid AMT
+1110,For_integration_V02,LF4,Mor_25_NDP Total PL Interest,Mor_25_NDP Total PL Interest
+1111,For_integration_V02,LG4,Mor_25_NDP Total Monthly PMT,Mor_25_NDP Total Monthly PMT
+1112,For_integration_V02,LH4,Mor_25_NDP Age Qualification ,Mor_25_NDP Age Qualification 
+1113,For_integration_V02,LI4,Mor_25_NDP PMT Qualification  ,Mor_25_NDP PMT Qualification  
+1114,For_integration_V02,LJ4,Mor_25_NDP PMT %,Mor_25_NDP PMT %
+1115,For_integration_V02,LK4,Mor_Max_NDP No. of available years,Mor_Max_NDP No. of available years
+1116,For_integration_V02,LL4,Mor_Max_NDP Interest,Mor_Max_NDP Interest
+1117,For_integration_V02,LM4,Mor_Max_NDP Principle AMT,Mor_Max_NDP Principle AMT
+1118,For_integration_V02,LN4,Mor_Max_NDP Debt AMT,Mor_Max_NDP Debt AMT
+1119,For_integration_V02,LO4,Mor_Max_NDP Monthly PMT,Mor_Max_NDP Monthly PMT
+1120,For_integration_V02,LP4,Mor_Max_NDP Total Paid AMT,Mor_Max_NDP Total Paid AMT
+1121,For_integration_V02,LQ4,Mor_Max_NDP Total Interest,Mor_Max_NDP Total Interest
+1122,For_integration_V02,LR4,Mor_Max_NDP Down PMT,Mor_Max_NDP Down PMT
+1123,For_integration_V02,LS4,Mor_Max_NDP Personal Loan Interest,Mor_Max_NDP Personal Loan Interest
+1124,For_integration_V02,LT4,Mor_Max_NDP No. of Years,Mor_Max_NDP No. of Years
+1125,For_integration_V02,LU4,Mor_Max_NDP Monthly PL PMT,Mor_Max_NDP Monthly PL PMT
+1126,For_integration_V02,LV4,Mor_Max_NDP Total PL Paid AMT,Mor_Max_NDP Total PL Paid AMT
+1127,For_integration_V02,LW4,Mor_Max_NDP Total PL Interest,Mor_Max_NDP Total PL Interest
+1128,For_integration_V02,LX4,Mor_Max_NDP Total Monthly PMT,Mor_Max_NDP Total Monthly PMT
+1129,For_integration_V02,LY4,Mor_Max_NDP Age Qualification ,Mor_Max_NDP Age Qualification 
+1130,For_integration_V02,LZ4,Mor_Max_NDP PMT Qualification ,Mor_Max_NDP PMT Qualification 
+1131,For_integration_V02,MA4,Mor_Max_NDP PMT %,Mor_Max_NDP PMT %
+1132,For_integration_V02,MB4,PDF Report,PDF Report
+1133,For_integration_V02,MC4,Number of Tries,Number of Tries
+1134,For_integration_V02,B5,test,test
+1135,For_integration_V02,C5,test,test
+1136,For_integration_V02,D5,سعودي,سعودي
+1137,For_integration_V02,E5,9999999991,9999999991
+1138,For_integration_V02,F5,test,test
+1139,For_integration_V02,G5,الرياض,الرياض
+1140,For_integration_V02,H5,الاهلي,الاهلي
+1141,For_integration_V02,I5,co-borrower's bank name,co-borrower's bank name
+1142,For_integration_V02,J5,20000,20000
+1143,For_integration_V02,K5,2000,2000
+1144,For_integration_V02,M5,30,30
+1145,For_integration_V02,N5,27,27
+1146,For_integration_V02,O5,1100000,1100000
+1147,For_integration_V02,P5,في طور البحث,في طور البحث
+1148,For_integration_V02,Q5,مستحق للدعم,مستحق للدعم
+1149,For_integration_V02,R5,حكومي مدني,حكومي مدني
+1150,For_integration_V02,S5,نعم,نعم
+1151,For_integration_V02,T5,انا فقط,انا فقط
+1152,For_integration_V02,U5,نعم,نعم
+1153,For_integration_V02,V5,الشمال,الشمال
+1154,For_integration_V02,W5,3,3
+1155,For_integration_V02,AV5,"=IF(OR(ISBLANK(U5),(J5=$J$4)),""No"",""Full Profile"" )","=IF(OR(ISBLANK(For_integration_V02!U5),(For_integration_V02!J5=For_integration_V02!J4)),""No"",""Full Profile"" )"
+1156,For_integration_V02,AW5,"=IF(P5=""وجدت منزلاً"",IF(U5=""نعم"",IF(K5>0,Assumption!$I$46,Assumption!$I$47),IF(K5>0,Assumption!$I$48,Assumption!$I$49)),IF(U5=""نعم"",IF(K5>0,Assumption!$I$50,Assumption!$I$51),IF(K5>0,Assumption!$I$52,Assumption!$I$53)))","=IF(For_integration_V02!P5=""وجدت منزلاً"",IF(For_integration_V02!U5=""نعم"",IF(For_integration_V02!K5>0,Assumption!I46,Assumption!I47),IF(For_integration_V02!K5>0,Assumption!I48,Assumption!I49)),IF(For_integration_V02!U5=""نعم"",IF(For_integration_V02!K5>0,Assumption!I50,Assumption!I51),IF(For_integration_V02!K5>0,Assumption!I52,Assumption!I53)))"
+1157,For_integration_V02,AX5,"=IF(K5/J5<0.2,""Yes"",""No"")","=IF(For_integration_V02!K5/For_integration_V02!J5<0.2,""Yes"",""No"")"
+1158,For_integration_V02,AY5,اختر,اختر
+1159,For_integration_V02,BB5,0004,0004
+1160,For_integration_V02,BC5,"=IF(O5>BX5,IF(O5-BX5>BD5,O5-BX5,O5-BX5+BD5),0)","=IF(For_integration_V02!O5>For_integration_V02!BX5,IF(For_integration_V02!O5-For_integration_V02!BX5>For_integration_V02!BD5,For_integration_V02!O5-For_integration_V02!BX5,For_integration_V02!O5-For_integration_V02!BX5+For_integration_V02!BD5),0)"
+1161,For_integration_V02,BD5,"=IF($O5<=Assumption!$G$3,$O5*Assumption!$G$4,$O5*Assumption!$C$4)","=IF(For_integration_V02!O5<=Assumption!G3,For_integration_V02!O5*Assumption!G4,For_integration_V02!O5*Assumption!C4)"
+1162,For_integration_V02,BE5,"=IF(BT5<Assumption!$G$6,""Not Qualified"",""Qualified"")","=IF(For_integration_V02!BT5<Assumption!G6,""Not Qualified"",""Qualified"")"
+1163,For_integration_V02,BF5,"=IF(W5=""family_members"",0,W5)","=IF(For_integration_V02!W5=""family_members"",0,For_integration_V02!W5)"
+1164,For_integration_V02,BG5,"=IF(N5>BT5,""Exceed No. of Years Available"",""Yes"")","=IF(For_integration_V02!N5>For_integration_V02!BT5,""Exceed No. of Years Available"",""Yes"")"
+1165,For_integration_V02,BH5,"=IF(O5>BX5,""exceed Max Mortgage AMT"",""Yes"")","=IF(For_integration_V02!O5>For_integration_V02!BX5,""exceed Max Mortgage AMT"",""Yes"")"
+1166,For_integration_V02,BI5,"=IF(O5>=Assumption!$G$7,Assumption!$G$7,O5)","=IF(For_integration_V02!O5>=Assumption!G7,Assumption!G7,For_integration_V02!O5)"
+1167,For_integration_V02,BJ5,"=IF(BF5>Assumption!$J$4,((BF5-Assumption!$J$4)*Assumption!$J$5)+Assumption!$J$4*Assumption!$C$3,IF(BF5<2,0,Assumption!$C$3*BF5))","=IF(For_integration_V02!BF5>Assumption!J4,((For_integration_V02!BF5-Assumption!J4)*Assumption!J5)+Assumption!J4*Assumption!C3,IF(For_integration_V02!BF5<2,0,Assumption!C3*For_integration_V02!BF5))"
+1168,For_integration_V02,BK5,"=IF(J5<=Assumption!$J$2,0,(J5-Assumption!$J$2)/Assumption!$J$3)","=IF(For_integration_V02!J5<=Assumption!J2,0,(For_integration_V02!J5-Assumption!J2)/Assumption!J3)"
+1169,For_integration_V02,BL5,=BK5*-Assumption!$C$5,=For_integration_V02!BK5*-Assumption!C5
+1170,For_integration_V02,BM5,=1+BL5+BJ5,=1+For_integration_V02!BL5+For_integration_V02!BJ5
+1171,For_integration_V02,BN5,"=IF(BM5>100%,100%,IF(BM5>=Assumption!$J$6,BM5,Assumption!$J$6))","=IF(For_integration_V02!BM5>100%,100%,IF(For_integration_V02!BM5>=Assumption!J6,For_integration_V02!BM5,Assumption!J6))"
+1172,For_integration_V02,BO5,"=IF($Q5=Assumption!$F$10,BN5,0)","=IF(For_integration_V02!Q5=Assumption!F10,For_integration_V02!BN5,0)"
+1173,For_integration_V02,BP5,"=IF(J5<=Assumption!$M$28,Assumption!$P$27,IF(J5>=Assumption!$M$29,Assumption!$P$29,Assumption!$P$28))","=IF(For_integration_V02!J5<=Assumption!M28,Assumption!P27,IF(For_integration_V02!J5>=Assumption!M29,Assumption!P29,Assumption!P28))"
+1174,For_integration_V02,BQ5,"=INDEX(Assumption!$M$21:$AA$24,MATCH(R5,Assumption!$L$21:$L$24,0),MATCH(Q5&BP5,INDEX(Assumption!$M$19:$AA$19&Assumption!$M$20:$AA$20,0)))","=INDEX(Assumption!M21:AA24,MATCH(For_integration_V02!R5,Assumption!L21:L24,0),MATCH(For_integration_V02!Q5&For_integration_V02!BP5,INDEX(Assumption!M19:AA19&Assumption!M20:AA20,0)))"
+1175,For_integration_V02,BR5,"=IF(K5/J5>=BQ5,0,(J5*BQ5)-(K5))","=IF(For_integration_V02!K5/For_integration_V02!J5>=For_integration_V02!BQ5,0,(For_integration_V02!J5*For_integration_V02!BQ5)-(For_integration_V02!K5))"
+1176,For_integration_V02,BS5,"=IF(OR(L5=$L$4,L5=$N$4),0,L5)","=IF(OR(For_integration_V02!L5=For_integration_V02!L4,For_integration_V02!L5=For_integration_V02!N4),0,For_integration_V02!L5)"
+1177,For_integration_V02,BT5,"=IF((Assumption!$C$2-M5)>Assumption!$C$6,Assumption!$C$6,Assumption!$C$2-M5)","=IF((Assumption!C2-For_integration_V02!M5)>Assumption!C6,Assumption!C6,Assumption!C2-For_integration_V02!M5)"
+1178,For_integration_V02,BU5,"=INDEX(Assumption!$C$11:$I$36,MATCH($BT5,Assumption!$B$11:$B$36,0),MATCH($Q5,Assumption!$C$10:$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(For_integration_V02!BT5,Assumption!B11:B36,0),MATCH(For_integration_V02!Q5,Assumption!C10:I10,0))"
+1179,For_integration_V02,BV5,=(BR5*12*BS5)+((BT5-BS5)*J5*BQ5*12),=(For_integration_V02!BR5*12*For_integration_V02!BS5)+((For_integration_V02!BT5-For_integration_V02!BS5)*For_integration_V02!J5*For_integration_V02!BQ5*12)
+1180,For_integration_V02,BW5,"=PMT(0,BT5*12,-BV5)","=PMT(0,For_integration_V02!BT5*12,-For_integration_V02!BV5)"
+1181,For_integration_V02,BX5,"=PV(BU5/12,BT5*12,-BW5)","=PV(For_integration_V02!BU5/12,For_integration_V02!BT5*12,-For_integration_V02!BW5)"
+1182,For_integration_V02,BY5,=BV5-BX5,=For_integration_V02!BV5-For_integration_V02!BX5
+1183,For_integration_V02,BZ5,=BR5,=For_integration_V02!BR5
+1184,For_integration_V02,CA5,=BZ5*BS5*12,=For_integration_V02!BZ5*For_integration_V02!BS5*12
+1185,For_integration_V02,CB5,=(BV5-CA5)/((BT5-BS5)*12),=(For_integration_V02!BV5-For_integration_V02!CA5)/((For_integration_V02!BT5-For_integration_V02!BS5)*12)
+1186,For_integration_V02,CC5,=BX5+CD5,=For_integration_V02!BX5+For_integration_V02!CD5
+1187,For_integration_V02,CD5,"=IF($O5<=Assumption!$G$3,(BX5/(1-Assumption!$G$4))-BX5,(BX5/(1-Assumption!$C$4))-BX5)","=IF(For_integration_V02!O5<=Assumption!G3,(For_integration_V02!BX5/(1-Assumption!G4))-For_integration_V02!BX5,(For_integration_V02!BX5/(1-Assumption!C4))-For_integration_V02!BX5)"
+1188,For_integration_V02,DP5,22,22
+1189,For_integration_V02,DQ5,"=INDEX(Assumption!$C$11:$I$36,MATCH(DP5,Assumption!$B$11:$B$36,0),MATCH($Q5,Assumption!$C$10:$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(For_integration_V02!DP5,Assumption!B11:B36,0),MATCH(For_integration_V02!Q5,Assumption!C10:I10,0))"
+1190,For_integration_V02,DR5,=O5,=For_integration_V02!O5
+1191,For_integration_V02,DS5,"=PMT(DQ5/12,DP5*12,-DR5)","=PMT(For_integration_V02!DQ5/12,For_integration_V02!DP5*12,-For_integration_V02!DR5)"
+1192,For_integration_V02,DT5,"=FV(0,DP5*12,-DS5)","=FV(0,For_integration_V02!DP5*12,-For_integration_V02!DS5)"
+1193,For_integration_V02,DU5,=DT5-DR5,=For_integration_V02!DT5-For_integration_V02!DR5
+1194,For_integration_V02,DV5,"=IF(DR5<=Assumption!$G$3,DR5*Assumption!$G$4,DR5*Assumption!$C$4)","=IF(For_integration_V02!DR5<=Assumption!G3,For_integration_V02!DR5*Assumption!G4,For_integration_V02!DR5*Assumption!C4)"
+1195,For_integration_V02,DW5,10,10
+1196,For_integration_V02,DX5,"=INDEX(Assumption!$C$11:$I$36,MATCH($BT5,Assumption!$B$11:$B$36,0),MATCH($Q5,Assumption!$C$10:$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(For_integration_V02!BT5,Assumption!B11:B36,0),MATCH(For_integration_V02!Q5,Assumption!C10:I10,0))"
+1197,For_integration_V02,DY5,=$O5-$BC5,=For_integration_V02!O5-For_integration_V02!BC5
+1198,For_integration_V02,DZ5,"=PV(DX5/12,DW5*12,(-EA5))","=PV(For_integration_V02!DX5/12,For_integration_V02!DW5*12,(-For_integration_V02!EA5))"
+1199,For_integration_V02,EA5,"=MIN(EB5,$BR5)","=MIN(For_integration_V02!EB5,For_integration_V02!BR5)"
+1200,For_integration_V02,EB5,"=PMT(DX5/12,DW5*12,-EC5)","=PMT(For_integration_V02!DX5/12,For_integration_V02!DW5*12,-For_integration_V02!EC5)"
+1201,For_integration_V02,EC5,"=IF($O5>$BX5,DY5,DY5-EH5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!DY5,For_integration_V02!DY5-For_integration_V02!EH5)"
+1202,For_integration_V02,ED5,"=IF(EA5=EB5,""Scenario"",""aff"")","=IF(For_integration_V02!EA5=For_integration_V02!EB5,""Scenario"",""aff"")"
+1203,For_integration_V02,EE5,"=IF(ED5=""Scenario"",FV(0,DW5*12,-EB5),FV(0,DW5*12,-EA5))","=IF(For_integration_V02!ED5=""Scenario"",FV(0,For_integration_V02!DW5*12,-For_integration_V02!EB5),FV(0,For_integration_V02!DW5*12,-For_integration_V02!EA5))"
+1204,For_integration_V02,EF5,=EE5-DZ5,=For_integration_V02!EE5-For_integration_V02!DZ5
+1205,For_integration_V02,EG5,=EH5+EI5,=For_integration_V02!EH5+For_integration_V02!EI5
+1206,For_integration_V02,EH5,"=IF($O5>$BX5,$BC5,$BD5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!BC5,For_integration_V02!BD5)"
+1207,For_integration_V02,EI5,=$O5-(EH5+DZ5),=For_integration_V02!O5-(For_integration_V02!EH5+For_integration_V02!DZ5)
+1208,For_integration_V02,EJ5,"=IF(DW5>$BT5,""غير مؤهل"",""مؤهل"")","=IF(For_integration_V02!DW5>For_integration_V02!BT5,""غير مؤهل"",""مؤهل"")"
+1209,For_integration_V02,EK5,"=IF((EA5+$K5)/$J5<=$BQ5,""مؤهل"",""غير مؤهل"")","=IF((For_integration_V02!EA5+For_integration_V02!K5)/For_integration_V02!J5<=For_integration_V02!BQ5,""مؤهل"",""غير مؤهل"")"
+1210,For_integration_V02,EL5,=(EA5+$K5)/$J5,=(For_integration_V02!EA5+For_integration_V02!K5)/For_integration_V02!J5
+1211,For_integration_V02,EM5,"=IF(DW5<Assumption!$J$7,DW5,Assumption!$J$7)","=IF(For_integration_V02!DW5<Assumption!J7,For_integration_V02!DW5,Assumption!J7)"
+1212,For_integration_V02,EN5,"=PMT(DX5/12,DW5*12,-$BI5)","=PMT(For_integration_V02!DX5/12,For_integration_V02!DW5*12,-For_integration_V02!BI5)"
+1213,For_integration_V02,EO5,"=FV(0,EM5*12,-EN5)","=FV(0,For_integration_V02!EM5*12,-For_integration_V02!EN5)"
+1214,For_integration_V02,EP5,=EO5-$BI5,=For_integration_V02!EO5-For_integration_V02!BI5
+1215,For_integration_V02,EQ5,=EP5*$BO5,=For_integration_V02!EP5*For_integration_V02!BO5
+1216,For_integration_V02,ER5,=EQ5/(EM5*12),=For_integration_V02!EQ5/(For_integration_V02!EM5*12)
+1217,For_integration_V02,ES5,=EA5-ER5,=For_integration_V02!EA5-For_integration_V02!ER5
+1218,For_integration_V02,ET5,=EE5-EQ5,=For_integration_V02!EE5-For_integration_V02!EQ5
+1219,For_integration_V02,EU5,15,15
+1220,For_integration_V02,EV5,"=INDEX(Assumption!$C$11:$I$36,MATCH($BT5,Assumption!$B$11:$B$36,0),MATCH($Q5,Assumption!$C$10:$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(For_integration_V02!BT5,Assumption!B11:B36,0),MATCH(For_integration_V02!Q5,Assumption!C10:I10,0))"
+1221,For_integration_V02,EW5,=$O5-$BC5,=For_integration_V02!O5-For_integration_V02!BC5
+1222,For_integration_V02,EX5,"=PV(EV5/12,EU5*12,(-EY5))","=PV(For_integration_V02!EV5/12,For_integration_V02!EU5*12,(-For_integration_V02!EY5))"
+1223,For_integration_V02,EY5,"=MIN(EZ5,$BR5)","=MIN(For_integration_V02!EZ5,For_integration_V02!BR5)"
+1224,For_integration_V02,EZ5,"=PMT(EV5/12,EU5*12,-FA5)","=PMT(For_integration_V02!EV5/12,For_integration_V02!EU5*12,-For_integration_V02!FA5)"
+1225,For_integration_V02,FA5,"=IF($O5>$BX5,EW5,EW5-FF5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!EW5,For_integration_V02!EW5-For_integration_V02!FF5)"
+1226,For_integration_V02,FB5,"=IF(EY5=EZ5,""Scenario"",""aff"")","=IF(For_integration_V02!EY5=For_integration_V02!EZ5,""Scenario"",""aff"")"
+1227,For_integration_V02,FC5,"=IF(FB5=""Scenario"",FV(0,EU5*12,-EZ5),FV(0,EU5*12,-EY5))","=IF(For_integration_V02!FB5=""Scenario"",FV(0,For_integration_V02!EU5*12,-For_integration_V02!EZ5),FV(0,For_integration_V02!EU5*12,-For_integration_V02!EY5))"
+1228,For_integration_V02,FD5,=FC5-EX5,=For_integration_V02!FC5-For_integration_V02!EX5
+1229,For_integration_V02,FE5,=FF5+FG5,=For_integration_V02!FF5+For_integration_V02!FG5
+1230,For_integration_V02,FF5,"=IF($O5>$BX5,$BC5,$BD5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!BC5,For_integration_V02!BD5)"
+1231,For_integration_V02,FG5,=$O5-(FF5+EX5),=For_integration_V02!O5-(For_integration_V02!FF5+For_integration_V02!EX5)
+1232,For_integration_V02,FH5,"=IF(EU5>$BT5,""غير مؤهل"",""مؤهل"")","=IF(For_integration_V02!EU5>For_integration_V02!BT5,""غير مؤهل"",""مؤهل"")"
+1233,For_integration_V02,FI5,"=IF((EY5+$K5)/$J5<=$BQ5,""مؤهل"",""غير مؤهل"")","=IF((For_integration_V02!EY5+For_integration_V02!K5)/For_integration_V02!J5<=For_integration_V02!BQ5,""مؤهل"",""غير مؤهل"")"
+1234,For_integration_V02,FJ5,=(EY5+$K5)/$J5,=(For_integration_V02!EY5+For_integration_V02!K5)/For_integration_V02!J5
+1235,For_integration_V02,FK5,"=IF(EU5<Assumption!$J$7,EU5,Assumption!$J$7)","=IF(For_integration_V02!EU5<Assumption!J7,For_integration_V02!EU5,Assumption!J7)"
+1236,For_integration_V02,FL5,"=PMT(EV5/12,EU5*12,-$BI5)","=PMT(For_integration_V02!EV5/12,For_integration_V02!EU5*12,-For_integration_V02!BI5)"
+1237,For_integration_V02,FM5,"=FV(0,FK5*12,-FL5)","=FV(0,For_integration_V02!FK5*12,-For_integration_V02!FL5)"
+1238,For_integration_V02,FN5,=FM5-$BI5,=For_integration_V02!FM5-For_integration_V02!BI5
+1239,For_integration_V02,FO5,=FN5*$BO5,=For_integration_V02!FN5*For_integration_V02!BO5
+1240,For_integration_V02,FP5,=FO5/(FK5*12),=For_integration_V02!FO5/(For_integration_V02!FK5*12)
+1241,For_integration_V02,FQ5,=EY5-FP5,=For_integration_V02!EY5-For_integration_V02!FP5
+1242,For_integration_V02,FR5,=FC5-FO5,=For_integration_V02!FC5-For_integration_V02!FO5
+1243,For_integration_V02,FS5,20,20
+1244,For_integration_V02,FT5,"=INDEX(Assumption!$C$11:$I$36,MATCH($BT5,Assumption!$B$11:$B$36,0),MATCH($Q5,Assumption!$C$10:$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(For_integration_V02!BT5,Assumption!B11:B36,0),MATCH(For_integration_V02!Q5,Assumption!C10:I10,0))"
+1245,For_integration_V02,FU5,=$O5-$BC5,=For_integration_V02!O5-For_integration_V02!BC5
+1246,For_integration_V02,FV5,"=PV(FT5/12,FS5*12,(-FW5))","=PV(For_integration_V02!FT5/12,For_integration_V02!FS5*12,(-For_integration_V02!FW5))"
+1247,For_integration_V02,FW5,"=MIN(FX5,$BR5)","=MIN(For_integration_V02!FX5,For_integration_V02!BR5)"
+1248,For_integration_V02,FX5,"=PMT(FT5/12,FS5*12,-FY5)","=PMT(For_integration_V02!FT5/12,For_integration_V02!FS5*12,-For_integration_V02!FY5)"
+1249,For_integration_V02,FY5,"=IF($O5>$BX5,FU5,FU5-GD5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!FU5,For_integration_V02!FU5-For_integration_V02!GD5)"
+1250,For_integration_V02,FZ5,"=IF(FW5=FX5,""Scenario"",""aff"")","=IF(For_integration_V02!FW5=For_integration_V02!FX5,""Scenario"",""aff"")"
+1251,For_integration_V02,GA5,"=IF(FZ5=""Scenario"",FV(0,FS5*12,-FX5),FV(0,FS5*12,-FW5))","=IF(For_integration_V02!FZ5=""Scenario"",FV(0,For_integration_V02!FS5*12,-For_integration_V02!FX5),FV(0,For_integration_V02!FS5*12,-For_integration_V02!FW5))"
+1252,For_integration_V02,GB5,=GA5-FV5,=For_integration_V02!GA5-For_integration_V02!FV5
+1253,For_integration_V02,GC5,=GD5+GE5,=For_integration_V02!GD5+For_integration_V02!GE5
+1254,For_integration_V02,GD5,"=IF($O5>$BX5,$BC5,$BD5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!BC5,For_integration_V02!BD5)"
+1255,For_integration_V02,GE5,=$O5-(GD5+FV5),=For_integration_V02!O5-(For_integration_V02!GD5+For_integration_V02!FV5)
+1256,For_integration_V02,GF5,"=IF(FS5>$BT5,""غير مؤهل"",""مؤهل"")","=IF(For_integration_V02!FS5>For_integration_V02!BT5,""غير مؤهل"",""مؤهل"")"
+1257,For_integration_V02,GG5,"=IF((FW5+$K5)/$J5<=$BQ5,""مؤهل"",""غير مؤهل"")","=IF((For_integration_V02!FW5+For_integration_V02!K5)/For_integration_V02!J5<=For_integration_V02!BQ5,""مؤهل"",""غير مؤهل"")"
+1258,For_integration_V02,GH5,=(FW5+$K5)/$J5,=(For_integration_V02!FW5+For_integration_V02!K5)/For_integration_V02!J5
+1259,For_integration_V02,GI5,"=IF(FS5<Assumption!$J$7,FS5,Assumption!$J$7)","=IF(For_integration_V02!FS5<Assumption!J7,For_integration_V02!FS5,Assumption!J7)"
+1260,For_integration_V02,GJ5,"=PMT(FT5/12,FS5*12,-$BI5)","=PMT(For_integration_V02!FT5/12,For_integration_V02!FS5*12,-For_integration_V02!BI5)"
+1261,For_integration_V02,GK5,"=FV(0,GI5*12,-GJ5)","=FV(0,For_integration_V02!GI5*12,-For_integration_V02!GJ5)"
+1262,For_integration_V02,GL5,=GK5-$BI5,=For_integration_V02!GK5-For_integration_V02!BI5
+1263,For_integration_V02,GM5,=GL5*$BO5,=For_integration_V02!GL5*For_integration_V02!BO5
+1264,For_integration_V02,GN5,=GM5/(GI5*12),=For_integration_V02!GM5/(For_integration_V02!GI5*12)
+1265,For_integration_V02,GO5,=FW5-GN5,=For_integration_V02!FW5-For_integration_V02!GN5
+1266,For_integration_V02,GP5,=GA5-GM5,=For_integration_V02!GA5-For_integration_V02!GM5
+1267,For_integration_V02,GQ5,25,25
+1268,For_integration_V02,GR5,"=INDEX(Assumption!$C$11:$I$36,MATCH(GQ5,Assumption!$B$11:$B$36,0),MATCH($Q5,Assumption!$C$10:$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(For_integration_V02!GQ5,Assumption!B11:B36,0),MATCH(For_integration_V02!Q5,Assumption!C10:I10,0))"
+1269,For_integration_V02,GS5,=$O5-$BC5,=For_integration_V02!O5-For_integration_V02!BC5
+1270,For_integration_V02,GT5,"=PV(GR5/12,GQ5*12,(-GU5))","=PV(For_integration_V02!GR5/12,For_integration_V02!GQ5*12,(-For_integration_V02!GU5))"
+1271,For_integration_V02,GU5,"=MIN(GV5,$BR5)","=MIN(For_integration_V02!GV5,For_integration_V02!BR5)"
+1272,For_integration_V02,GV5,"=PMT(GR5/12,GQ5*12,-GW5)","=PMT(For_integration_V02!GR5/12,For_integration_V02!GQ5*12,-For_integration_V02!GW5)"
+1273,For_integration_V02,GW5,"=IF($O5>$BX5,GS5,GS5-HB5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!GS5,For_integration_V02!GS5-For_integration_V02!HB5)"
+1274,For_integration_V02,GX5,"=IF(GU5=GV5,""Scenario"",""aff"")","=IF(For_integration_V02!GU5=For_integration_V02!GV5,""Scenario"",""aff"")"
+1275,For_integration_V02,GY5,"=IF(GX5=""Scenario"",FV(0,GQ5*12,-GV5),FV(0,GQ5*12,-GU5))","=IF(For_integration_V02!GX5=""Scenario"",FV(0,For_integration_V02!GQ5*12,-For_integration_V02!GV5),FV(0,For_integration_V02!GQ5*12,-For_integration_V02!GU5))"
+1276,For_integration_V02,GZ5,=GY5-GT5,=For_integration_V02!GY5-For_integration_V02!GT5
+1277,For_integration_V02,HA5,=HB5+HC5,=For_integration_V02!HB5+For_integration_V02!HC5
+1278,For_integration_V02,HB5,"=IF($O5>$BX5,$BC5,$BD5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!BC5,For_integration_V02!BD5)"
+1279,For_integration_V02,HC5,=$O5-(HB5+GT5),=For_integration_V02!O5-(For_integration_V02!HB5+For_integration_V02!GT5)
+1280,For_integration_V02,HD5,"=IF(GQ5>$BT5,""غير مؤهل"",""مؤهل"")","=IF(For_integration_V02!GQ5>For_integration_V02!BT5,""غير مؤهل"",""مؤهل"")"
+1281,For_integration_V02,HE5,"=IF((GU5+$K5)/$J5<=$BQ5,""مؤهل"",""غير مؤهل"")","=IF((For_integration_V02!GU5+For_integration_V02!K5)/For_integration_V02!J5<=For_integration_V02!BQ5,""مؤهل"",""غير مؤهل"")"
+1282,For_integration_V02,HF5,=(GU5+$K5)/$J5,=(For_integration_V02!GU5+For_integration_V02!K5)/For_integration_V02!J5
+1283,For_integration_V02,HG5,"=IF(GQ5<Assumption!$J$7,GQ5,Assumption!$J$7)","=IF(For_integration_V02!GQ5<Assumption!J7,For_integration_V02!GQ5,Assumption!J7)"
+1284,For_integration_V02,HH5,"=PMT(GR5/12,GQ5*12,-$BI5)","=PMT(For_integration_V02!GR5/12,For_integration_V02!GQ5*12,-For_integration_V02!BI5)"
+1285,For_integration_V02,HI5,"=FV(0,HG5*12,-HH5)","=FV(0,For_integration_V02!HG5*12,-For_integration_V02!HH5)"
+1286,For_integration_V02,HJ5,=HI5-$BI5,=For_integration_V02!HI5-For_integration_V02!BI5
+1287,For_integration_V02,HK5,=HJ5*$BO5,=For_integration_V02!HJ5*For_integration_V02!BO5
+1288,For_integration_V02,HL5,=HK5/(HG5*12),=For_integration_V02!HK5/(For_integration_V02!HG5*12)
+1289,For_integration_V02,HM5,=GU5-HL5,=For_integration_V02!GU5-For_integration_V02!HL5
+1290,For_integration_V02,HN5,=GY5-HK5,=For_integration_V02!GY5-For_integration_V02!HK5
+1291,For_integration_V02,HO5,=BT5,=For_integration_V02!BT5
+1292,For_integration_V02,HP5,"=INDEX(Assumption!$C$11:$I$36,MATCH($BT5,Assumption!$B$11:$B$36,0),MATCH($Q5,Assumption!$C$10:$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(For_integration_V02!BT5,Assumption!B11:B36,0),MATCH(For_integration_V02!Q5,Assumption!C10:I10,0))"
+1293,For_integration_V02,HQ5,=$O5-$BC5,=For_integration_V02!O5-For_integration_V02!BC5
+1294,For_integration_V02,HR5,"=PV(HP5/12,HO5*12,(-HS5))","=PV(For_integration_V02!HP5/12,For_integration_V02!HO5*12,(-For_integration_V02!HS5))"
+1295,For_integration_V02,HS5,"=MIN(HT5,$BR5)","=MIN(For_integration_V02!HT5,For_integration_V02!BR5)"
+1296,For_integration_V02,HT5,"=PMT(HP5/12,HO5*12,-HU5)","=PMT(For_integration_V02!HP5/12,For_integration_V02!HO5*12,-For_integration_V02!HU5)"
+1297,For_integration_V02,HU5,"=IF($O5>$BX5,HQ5,HQ5-HZ5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!HQ5,For_integration_V02!HQ5-For_integration_V02!HZ5)"
+1298,For_integration_V02,HV5,"=IF(HS5=HT5,""Scenario"",""aff"")","=IF(For_integration_V02!HS5=For_integration_V02!HT5,""Scenario"",""aff"")"
+1299,For_integration_V02,HW5,"=IF(HV5=""Scenario"",FV(0,HO5*12,-HT5),FV(0,HO5*12,-HS5))","=IF(For_integration_V02!HV5=""Scenario"",FV(0,For_integration_V02!HO5*12,-For_integration_V02!HT5),FV(0,For_integration_V02!HO5*12,-For_integration_V02!HS5))"
+1300,For_integration_V02,HX5,=HW5-HR5,=For_integration_V02!HW5-For_integration_V02!HR5
+1301,For_integration_V02,HY5,=HZ5+IA5,=For_integration_V02!HZ5+For_integration_V02!IA5
+1302,For_integration_V02,HZ5,"=IF($O5>$BX5,$BC5,$BD5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!BC5,For_integration_V02!BD5)"
+1303,For_integration_V02,IA5,=$O5-(HZ5+HR5),=For_integration_V02!O5-(For_integration_V02!HZ5+For_integration_V02!HR5)
+1304,For_integration_V02,IB5,"=IF(HO5>$BT5,""غير مؤهل"",""مؤهل"")","=IF(For_integration_V02!HO5>For_integration_V02!BT5,""غير مؤهل"",""مؤهل"")"
+1305,For_integration_V02,IC5,"=IF((HS5+$K5)/$J5<=$BQ5,""مؤهل"",""غير مؤهل"")","=IF((For_integration_V02!HS5+For_integration_V02!K5)/For_integration_V02!J5<=For_integration_V02!BQ5,""مؤهل"",""غير مؤهل"")"
+1306,For_integration_V02,ID5,=(HS5+$K5)/$J5,=(For_integration_V02!HS5+For_integration_V02!K5)/For_integration_V02!J5
+1307,For_integration_V02,IE5,"=IF(HO5<Assumption!$J$7,HO5,Assumption!$J$7)","=IF(For_integration_V02!HO5<Assumption!J7,For_integration_V02!HO5,Assumption!J7)"
+1308,For_integration_V02,IF5,"=PMT(HP5/12,HO5*12,-$BI5)","=PMT(For_integration_V02!HP5/12,For_integration_V02!HO5*12,-For_integration_V02!BI5)"
+1309,For_integration_V02,IG5,"=FV(0,IE5*12,-IF5)","=FV(0,For_integration_V02!IE5*12,-For_integration_V02!IF5)"
+1310,For_integration_V02,IH5,=IG5-$BI5,=For_integration_V02!IG5-For_integration_V02!BI5
+1311,For_integration_V02,II5,=IH5*$BO5,=For_integration_V02!IH5*For_integration_V02!BO5
+1312,For_integration_V02,IJ5,=II5/(IE5*12),=For_integration_V02!II5/(For_integration_V02!IE5*12)
+1313,For_integration_V02,IK5,=HS5-IJ5,=For_integration_V02!HS5-For_integration_V02!IJ5
+1314,For_integration_V02,IL5,=HW5-II5,=For_integration_V02!HW5-For_integration_V02!II5
+1315,For_integration_V02,IM5,10,10
+1316,For_integration_V02,IN5,"=INDEX(Assumption!$C$11:$I$36,MATCH(IM5,Assumption!$B$11:$B$36,0),MATCH($Q5,Assumption!$C$10:$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(For_integration_V02!IM5,Assumption!B11:B36,0),MATCH(For_integration_V02!Q5,Assumption!C10:I10,0))"
+1317,For_integration_V02,IO5,=$O5-$BC5,=For_integration_V02!O5-For_integration_V02!BC5
+1318,For_integration_V02,IP5,"=IF($O5>$BX5,IO5,IO5-IT5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!IO5,For_integration_V02!IO5-For_integration_V02!IT5)"
+1319,For_integration_V02,IQ5,"=PMT(IN5/12,IM5*12,-IP5)","=PMT(For_integration_V02!IN5/12,For_integration_V02!IM5*12,-For_integration_V02!IP5)"
+1320,For_integration_V02,IR5,"=FV(0,IM5*12,-IQ5)","=FV(0,For_integration_V02!IM5*12,-For_integration_V02!IQ5)"
+1321,For_integration_V02,IS5,=IR5-IP5,=For_integration_V02!IR5-For_integration_V02!IP5
+1322,For_integration_V02,IT5,"=IF($O5>$BX5,$BC5,$BD5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!BC5,For_integration_V02!BD5)"
+1323,For_integration_V02,IU5,=Assumption!$C$7,=Assumption!C7
+1324,For_integration_V02,IV5,=Assumption!$G$2,=Assumption!G2
+1325,For_integration_V02,IW5,"=PMT(IU5/12,IV5*12,-IT5)","=PMT(For_integration_V02!IU5/12,For_integration_V02!IV5*12,-For_integration_V02!IT5)"
+1326,For_integration_V02,IX5,"=FV(0,IV5*12,-IW5)","=FV(0,For_integration_V02!IV5*12,-For_integration_V02!IW5)"
+1327,For_integration_V02,IY5,=IX5-IT5,=For_integration_V02!IX5-For_integration_V02!IT5
+1328,For_integration_V02,IZ5,=IW5+IQ5+K5,=For_integration_V02!IW5+For_integration_V02!IQ5+For_integration_V02!K5
+1329,For_integration_V02,JA5,"=IF(IM5>$BT5,""غير مؤهل"",""مؤهل"")","=IF(For_integration_V02!IM5>For_integration_V02!BT5,""غير مؤهل"",""مؤهل"")"
+1330,For_integration_V02,JB5,"=IF(IZ5/$J5<=$BQ5,""مؤهل"",""غير مؤهل"")","=IF(For_integration_V02!IZ5/For_integration_V02!J5<=For_integration_V02!BQ5,""مؤهل"",""غير مؤهل"")"
+1331,For_integration_V02,JC5,=IZ5/J5,=For_integration_V02!IZ5/For_integration_V02!J5
+1332,For_integration_V02,JD5,"=IF(IM5<Assumption!$J$7,IM5,Assumption!$J$7)","=IF(For_integration_V02!IM5<Assumption!J7,For_integration_V02!IM5,Assumption!J7)"
+1333,For_integration_V02,JE5,"=PMT(IN5/12,IM5*12,-$BI5)","=PMT(For_integration_V02!IN5/12,For_integration_V02!IM5*12,-For_integration_V02!BI5)"
+1334,For_integration_V02,JF5,"=FV(0,JD5*12,-JE5)","=FV(0,For_integration_V02!JD5*12,-For_integration_V02!JE5)"
+1335,For_integration_V02,JG5,=JF5-$BI5,=For_integration_V02!JF5-For_integration_V02!BI5
+1336,For_integration_V02,JH5,=JG5*$BO5,=For_integration_V02!JG5*For_integration_V02!BO5
+1337,For_integration_V02,JI5,=JH5/(JD5*12),=For_integration_V02!JH5/(For_integration_V02!JD5*12)
+1338,For_integration_V02,JJ5,=IW5-JI5,=For_integration_V02!IW5-For_integration_V02!JI5
+1339,For_integration_V02,JK5,=IR5-JH5,=For_integration_V02!IR5-For_integration_V02!JH5
+1340,For_integration_V02,JL5,15,15
+1341,For_integration_V02,JM5,"=INDEX(Assumption!$C$11:$I$36,MATCH(JL5,Assumption!$B$11:$B$36,0),MATCH($Q5,Assumption!$C$10:$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(For_integration_V02!JL5,Assumption!B11:B36,0),MATCH(For_integration_V02!Q5,Assumption!C10:I10,0))"
+1342,For_integration_V02,JN5,=$O5-$BC5,=For_integration_V02!O5-For_integration_V02!BC5
+1343,For_integration_V02,JO5,"=IF($O5>$BX5,JN5,JN5-JS5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!JN5,For_integration_V02!JN5-For_integration_V02!JS5)"
+1344,For_integration_V02,JP5,"=PMT(JM5/12,JL5*12,-JO5)","=PMT(For_integration_V02!JM5/12,For_integration_V02!JL5*12,-For_integration_V02!JO5)"
+1345,For_integration_V02,JQ5,"=FV(0,JL5*12,-JP5)","=FV(0,For_integration_V02!JL5*12,-For_integration_V02!JP5)"
+1346,For_integration_V02,JR5,=JQ5-JO5,=For_integration_V02!JQ5-For_integration_V02!JO5
+1347,For_integration_V02,JS5,"=IF($O5>$BX5,$BC5,$BD5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!BC5,For_integration_V02!BD5)"
+1348,For_integration_V02,JT5,=Assumption!$C$7,=Assumption!C7
+1349,For_integration_V02,JU5,=Assumption!$G$2,=Assumption!G2
+1350,For_integration_V02,JV5,"=PMT(JT5/12,JU5*12,-JS5)","=PMT(For_integration_V02!JT5/12,For_integration_V02!JU5*12,-For_integration_V02!JS5)"
+1351,For_integration_V02,JW5,"=FV(0,JU5*12,-JV5)","=FV(0,For_integration_V02!JU5*12,-For_integration_V02!JV5)"
+1352,For_integration_V02,JX5,=JW5-JS5,=For_integration_V02!JW5-For_integration_V02!JS5
+1353,For_integration_V02,JY5,=JV5+JP5+K5,=For_integration_V02!JV5+For_integration_V02!JP5+For_integration_V02!K5
+1354,For_integration_V02,JZ5,"=IF(JL5>$BT5,""غير مؤهل"",""مؤهل"")","=IF(For_integration_V02!JL5>For_integration_V02!BT5,""غير مؤهل"",""مؤهل"")"
+1355,For_integration_V02,KA5,"=IF(JY5/$J5<=$BQ5,""مؤهل"",""غير مؤهل"")","=IF(For_integration_V02!JY5/For_integration_V02!J5<=For_integration_V02!BQ5,""مؤهل"",""غير مؤهل"")"
+1356,For_integration_V02,KB5,=JY5/J5,=For_integration_V02!JY5/For_integration_V02!J5
+1357,For_integration_V02,KC5,20,20
+1358,For_integration_V02,KD5,"=INDEX(Assumption!$C$11:$I$36,MATCH(KC5,Assumption!$B$11:$B$36,0),MATCH($Q5,Assumption!$C$10:$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(For_integration_V02!KC5,Assumption!B11:B36,0),MATCH(For_integration_V02!Q5,Assumption!C10:I10,0))"
+1359,For_integration_V02,KE5,=$O5-$BC5,=For_integration_V02!O5-For_integration_V02!BC5
+1360,For_integration_V02,KF5,"=IF($O5>$BX5,KE5,KE5-KJ5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!KE5,For_integration_V02!KE5-For_integration_V02!KJ5)"
+1361,For_integration_V02,KG5,"=PMT(KD5/12,KC5*12,-KF5)","=PMT(For_integration_V02!KD5/12,For_integration_V02!KC5*12,-For_integration_V02!KF5)"
+1362,For_integration_V02,KH5,"=FV(0,KC5*12,-KG5)","=FV(0,For_integration_V02!KC5*12,-For_integration_V02!KG5)"
+1363,For_integration_V02,KI5,=KH5-KF5,=For_integration_V02!KH5-For_integration_V02!KF5
+1364,For_integration_V02,KJ5,"=IF($O5>$BX5,$BC5,$BD5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!BC5,For_integration_V02!BD5)"
+1365,For_integration_V02,KK5,=Assumption!$C$7,=Assumption!C7
+1366,For_integration_V02,KL5,=Assumption!$G$2,=Assumption!G2
+1367,For_integration_V02,KM5,"=PMT(KK5/12,KL5*12,-KJ5)","=PMT(For_integration_V02!KK5/12,For_integration_V02!KL5*12,-For_integration_V02!KJ5)"
+1368,For_integration_V02,KN5,"=FV(0,KL5*12,-KM5)","=FV(0,For_integration_V02!KL5*12,-For_integration_V02!KM5)"
+1369,For_integration_V02,KO5,=KN5-KJ5,=For_integration_V02!KN5-For_integration_V02!KJ5
+1370,For_integration_V02,KP5,=KM5+KG5+K5,=For_integration_V02!KM5+For_integration_V02!KG5+For_integration_V02!K5
+1371,For_integration_V02,KQ5,"=IF(KC5>$BT5,""غير مؤهل"",""مؤهل"")","=IF(For_integration_V02!KC5>For_integration_V02!BT5,""غير مؤهل"",""مؤهل"")"
+1372,For_integration_V02,KR5,"=IF(KP5/$J5<=$BQ5,""مؤهل"",""غير مؤهل"")","=IF(For_integration_V02!KP5/For_integration_V02!J5<=For_integration_V02!BQ5,""مؤهل"",""غير مؤهل"")"
+1373,For_integration_V02,KS5,=KP5/J5,=For_integration_V02!KP5/For_integration_V02!J5
+1374,For_integration_V02,KT5,25,25
+1375,For_integration_V02,KU5,"=INDEX(Assumption!$C$11:$I$36,MATCH(KT5,Assumption!$B$11:$B$36,0),MATCH($Q5,Assumption!$C$10:$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(For_integration_V02!KT5,Assumption!B11:B36,0),MATCH(For_integration_V02!Q5,Assumption!C10:I10,0))"
+1376,For_integration_V02,KV5,=$O5-$BC5,=For_integration_V02!O5-For_integration_V02!BC5
+1377,For_integration_V02,KW5,"=IF($O5>$BX5,KV5,KV5-LA5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!KV5,For_integration_V02!KV5-For_integration_V02!LA5)"
+1378,For_integration_V02,KX5,"=PMT(KU5/12,KT5*12,-KW5)","=PMT(For_integration_V02!KU5/12,For_integration_V02!KT5*12,-For_integration_V02!KW5)"
+1379,For_integration_V02,KY5,"=FV(0,KT5*12,-KX5)","=FV(0,For_integration_V02!KT5*12,-For_integration_V02!KX5)"
+1380,For_integration_V02,KZ5,=KY5-KW5,=For_integration_V02!KY5-For_integration_V02!KW5
+1381,For_integration_V02,LA5,"=IF($O5>$BX5,$BC5,$BD5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!BC5,For_integration_V02!BD5)"
+1382,For_integration_V02,LB5,=Assumption!$C$7,=Assumption!C7
+1383,For_integration_V02,LC5,=Assumption!$G$2,=Assumption!G2
+1384,For_integration_V02,LD5,"=PMT(LB5/12,LC5*12,-LA5)","=PMT(For_integration_V02!LB5/12,For_integration_V02!LC5*12,-For_integration_V02!LA5)"
+1385,For_integration_V02,LE5,"=FV(0,LC5*12,-LD5)","=FV(0,For_integration_V02!LC5*12,-For_integration_V02!LD5)"
+1386,For_integration_V02,LF5,=LE5-LA5,=For_integration_V02!LE5-For_integration_V02!LA5
+1387,For_integration_V02,LG5,=LD5+KX5+K5,=For_integration_V02!LD5+For_integration_V02!KX5+For_integration_V02!K5
+1388,For_integration_V02,LH5,"=IF(KT5>$BT5,""غير مؤهل"",""مؤهل"")","=IF(For_integration_V02!KT5>For_integration_V02!BT5,""غير مؤهل"",""مؤهل"")"
+1389,For_integration_V02,LI5,"=IF(LG5/$J5<=$BQ5,""مؤهل"",""غير مؤهل"")","=IF(For_integration_V02!LG5/For_integration_V02!J5<=For_integration_V02!BQ5,""مؤهل"",""غير مؤهل"")"
+1390,For_integration_V02,LJ5,=LG5/J5,=For_integration_V02!LG5/For_integration_V02!J5
+1391,For_integration_V02,LK5,=BT5,=For_integration_V02!BT5
+1392,For_integration_V02,LL5,"=INDEX(Assumption!$C$11:$I$36,MATCH(LK5,Assumption!$B$11:$B$36,0),MATCH($Q5,Assumption!$C$10:$I$10,0))","=INDEX(Assumption!C11:I36,MATCH(For_integration_V02!LK5,Assumption!B11:B36,0),MATCH(For_integration_V02!Q5,Assumption!C10:I10,0))"
+1393,For_integration_V02,LM5,=$O5-$BC5,=For_integration_V02!O5-For_integration_V02!BC5
+1394,For_integration_V02,LN5,"=IF($O5>$BX5,LM5,LM5-LR5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!LM5,For_integration_V02!LM5-For_integration_V02!LR5)"
+1395,For_integration_V02,LO5,"=PMT(LL5/12,LK5*12,-LN5)","=PMT(For_integration_V02!LL5/12,For_integration_V02!LK5*12,-For_integration_V02!LN5)"
+1396,For_integration_V02,LP5,"=FV(0,LK5*12,-LO5)","=FV(0,For_integration_V02!LK5*12,-For_integration_V02!LO5)"
+1397,For_integration_V02,LQ5,=LP5-LN5,=For_integration_V02!LP5-For_integration_V02!LN5
+1398,For_integration_V02,LR5,"=IF($O5>$BX5,$BC5,$BD5)","=IF(For_integration_V02!O5>For_integration_V02!BX5,For_integration_V02!BC5,For_integration_V02!BD5)"
+1399,For_integration_V02,LS5,=Assumption!$C$7,=Assumption!C7
+1400,For_integration_V02,LT5,=Assumption!$G$2,=Assumption!G2
+1401,For_integration_V02,LU5,"=PMT(LS5/12,LT5*12,-LR5)","=PMT(For_integration_V02!LS5/12,For_integration_V02!LT5*12,-For_integration_V02!LR5)"
+1402,For_integration_V02,LV5,"=FV(0,LT5*12,-LU5)","=FV(0,For_integration_V02!LT5*12,-For_integration_V02!LU5)"
+1403,For_integration_V02,LW5,=LV5-LR5,=For_integration_V02!LV5-For_integration_V02!LR5
+1404,For_integration_V02,LX5,=LU5+LO5+K5,=For_integration_V02!LU5+For_integration_V02!LO5+For_integration_V02!K5
+1405,For_integration_V02,LY5,"=IF(LK5>$BT5,""غير مؤهل"",""مؤهل"")","=IF(For_integration_V02!LK5>For_integration_V02!BT5,""غير مؤهل"",""مؤهل"")"
+1406,For_integration_V02,LZ5,"=IF(LX5/$J5<=$BQ5,""مؤهل"",""غير مؤهل"")","=IF(For_integration_V02!LX5/For_integration_V02!J5<=For_integration_V02!BQ5,""مؤهل"",""غير مؤهل"")"
+1407,For_integration_V02,MA5,=LX5/J5,=For_integration_V02!LX5/For_integration_V02!J5
+1408,For_integration_V02,MC5,0,0
+1409,Assumption,E1,Assumptions,Assumptions
+1410,Assumption,F1,You can Change,You can Change
+1411,Assumption,B2,Max Acceptable age,Max Acceptable age
+1412,Assumption,C2,70,70
+1413,Assumption,E2,No. of Years personal loan,No. of Years personal loan
+1414,Assumption,G2,5,5
+1415,Assumption,I2,أقصى راتب لتغطية دعم كامله,أقصى راتب لتغطية دعم كامله
+1416,Assumption,J2,14000,14000
+1417,Assumption,L2,Not Supported Interest,Not Supported Interest
+1418,Assumption,B3,النسبة للمجموعة الأولى من الأفراد,النسبة للمجموعة الأولى من الأفراد
+1419,Assumption,C3,0.025,0.025
+1420,Assumption,E3,10% DP trigger,10% DP trigger
+1421,Assumption,G3,800000,800000
+1422,Assumption,I3,x% increase trigger ,x% increase trigger 
+1423,Assumption,J3,500,500
+1424,Assumption,L3,No. of Years,No. of Years
+1425,Assumption,M3,Lowest Interest,Lowest Interest
+1426,Assumption,N3,% of increase,% of increase
+1427,Assumption,O3,% For each year,% For each year
+1428,Assumption,B4,Min Down PMT,Min Down PMT
+1429,Assumption,C4,0.1,0.1
+1430,Assumption,E4,DP less than the  trigger,DP less than the  trigger
+1431,Assumption,G4,0.05,0.05
+1432,Assumption,I4,أول مجموعة من الأفراد بنفس المعيار,أول مجموعة من الأفراد بنفس المعيار
+1433,Assumption,J4,2,2
+1434,Assumption,L4,10~14,10~14
+1435,Assumption,M4,0.0375,0.0375
+1436,Assumption,B5,Increase in support % for a unit increased,Increase in support % for a unit increased
+1437,Assumption,C5,0.025,0.025
+1438,Assumption,E5,DP more than the trigger,DP more than the trigger
+1439,Assumption,G5,0.1,0.1
+1440,Assumption,I5,النسبة للمجموعة الاولى من الأفراد,النسبة للمجموعة الاولى من الأفراد
+1441,Assumption,J5,0.05,0.05
+1442,Assumption,L5,15~19,15~19
+1443,Assumption,M5,0.04,0.04
+1444,Assumption,N5,=M5-M4,=Assumption!M5-Assumption!M4
+1445,Assumption,O5,=N5/5,=Assumption!N5/5
+1446,Assumption,B6,Max No. of years,Max No. of years
+1447,Assumption,C6,30,30
+1448,Assumption,E6,Min Acceptable Mortgage years,Min Acceptable Mortgage years
+1449,Assumption,G6,5,5
+1450,Assumption,I6,الحد الأدنى للدعم,الحد الأدنى للدعم
+1451,Assumption,J6,0.35,0.35
+1452,Assumption,L6,20~24,20~24
+1453,Assumption,M6,0.0425,0.0425
+1454,Assumption,N6,=M6-M5,=Assumption!M6-Assumption!M5
+1455,Assumption,O6,=N6/5,=Assumption!N6/5
+1456,Assumption,B7,Personal Loan Interest,Personal Loan Interest
+1457,Assumption,C7,0.02,0.02
+1458,Assumption,E7,مبلغ دعم الصندوق,مبلغ دعم الصندوق
+1459,Assumption,G7,500000,500000
+1460,Assumption,I7,اعلى حد لسنوات الدعم,اعلى حد لسنوات الدعم
+1461,Assumption,J7,20,20
+1462,Assumption,L7,25~29,25~29
+1463,Assumption,M7,0.0455,0.0455
+1464,Assumption,N7,=M7-M6,=Assumption!M7-Assumption!M6
+1465,Assumption,O7,=N7/5,=Assumption!N7/5
+1466,Assumption,L8,30,30
+1467,Assumption,M8,0.0455,0.0455
+1468,Assumption,N8,=M8-M7,=Assumption!M8-Assumption!M7
+1469,Assumption,O8,=N8/5,=Assumption!N8/5
+1470,Assumption,B9,For VlookUp - Table Array - Interest rate,For VlookUp - Table Array - Interest rate
+1471,Assumption,B10,No. of Years,No. of Years
+1472,Assumption,C10,غير مستحق للدعم,غير مستحق للدعم
+1473,Assumption,D10,Check 1,Check 1
+1474,Assumption,E10,No. of Years,No. of Years
+1475,Assumption,F10,مستحق للدعم,مستحق للدعم
+1476,Assumption,G10,check 2,check 2
+1477,Assumption,H10,No. of Years,No. of Years
+1478,Assumption,I10,لا اعلم,لا اعلم
+1479,Assumption,L10,Supported Interest,Supported Interest
+1480,Assumption,B11,5,5
+1481,Assumption,C11,0.025,0.025
+1482,Assumption,E11,5,5
+1483,Assumption,F11,=F12-$O$13,=Assumption!F12-Assumption!O13
+1484,Assumption,H11,5,5
+1485,Assumption,I11,=F11,=Assumption!F11
+1486,Assumption,L11,No. of Years,No. of Years
+1487,Assumption,M11,Lowest Interest,Lowest Interest
+1488,Assumption,N11,%of increase,%of increase
+1489,Assumption,O11,% For each year,% For each year
+1490,Assumption,B12,6,6
+1491,Assumption,C12,=C11+$O$5,=Assumption!C11+Assumption!O5
+1492,Assumption,E12,6,6
+1493,Assumption,F12,=F13-$O$13,=Assumption!F13-Assumption!O13
+1494,Assumption,H12,6,6
+1495,Assumption,I12,=F12,=Assumption!F12
+1496,Assumption,L12,10~14,10~14
+1497,Assumption,M12,0.0359,0.0359
+1498,Assumption,B13,7,7
+1499,Assumption,C13,=C12+$O$5,=Assumption!C12+Assumption!O5
+1500,Assumption,E13,7,7
+1501,Assumption,F13,=F14-$O$13,=Assumption!F14-Assumption!O13
+1502,Assumption,H13,7,7
+1503,Assumption,I13,=F13,=Assumption!F13
+1504,Assumption,L13,15~19,15~19
+1505,Assumption,M13,0.0374,0.0374
+1506,Assumption,N13,=M13-M12,=Assumption!M13-Assumption!M12
+1507,Assumption,O13,=N13/5,=Assumption!N13/5
+1508,Assumption,B14,8,8
+1509,Assumption,C14,=C13+$O$5,=Assumption!C13+Assumption!O5
+1510,Assumption,E14,8,8
+1511,Assumption,F14,=F15-$O$13,=Assumption!F15-Assumption!O13
+1512,Assumption,H14,8,8
+1513,Assumption,I14,=F14,=Assumption!F14
+1514,Assumption,L14,20~24,20~24
+1515,Assumption,M14,0.0394,0.0394
+1516,Assumption,N14,=M14-M13,=Assumption!M14-Assumption!M13
+1517,Assumption,O14,=N14/5,=Assumption!N14/5
+1518,Assumption,B15,9,9
+1519,Assumption,C15,=C14+$O$5,=Assumption!C14+Assumption!O5
+1520,Assumption,E15,9,9
+1521,Assumption,F15,=F16-$O$13,=Assumption!F16-Assumption!O13
+1522,Assumption,H15,9,9
+1523,Assumption,I15,=F15,=Assumption!F15
+1524,Assumption,L15,25~29,25~29
+1525,Assumption,M15,0.0394,0.0394
+1526,Assumption,N15,=M15-M14,=Assumption!M15-Assumption!M14
+1527,Assumption,O15,=N15/5,=Assumption!N15/5
+1528,Assumption,B16,10,10
+1529,Assumption,C16,=M4,=Assumption!M4
+1530,Assumption,E16,10,10
+1531,Assumption,F16,=M12,=Assumption!M12
+1532,Assumption,H16,10,10
+1533,Assumption,I16,=F16,=Assumption!F16
+1534,Assumption,L16,30,30
+1535,Assumption,M16,0.0394,0.0394
+1536,Assumption,N16,=M16-M15,=Assumption!M16-Assumption!M15
+1537,Assumption,O16,=N16/5,=Assumption!N16/5
+1538,Assumption,B17,11,11
+1539,Assumption,C17,=C16+$O$5,=Assumption!C16+Assumption!O5
+1540,Assumption,E17,11,11
+1541,Assumption,F17,=F16+$O$13,=Assumption!F16+Assumption!O13
+1542,Assumption,H17,11,11
+1543,Assumption,I17,=F17,=Assumption!F17
+1544,Assumption,S17,ADM-NS,ADM-NS
+1545,Assumption,V17,ADM-S,ADM-S
+1546,Assumption,B18,12,12
+1547,Assumption,C18,=C17+$O$5,=Assumption!C17+Assumption!O5
+1548,Assumption,E18,12,12
+1549,Assumption,F18,=F17+$O$13,=Assumption!F17+Assumption!O13
+1550,Assumption,H18,12,12
+1551,Assumption,I18,=F18,=Assumption!F18
+1552,Assumption,M18,Consumer Debt,Consumer Debt
+1553,Assumption,P18,All Debt - Mortgage,All Debt - Mortgage
+1554,Assumption,S18,"All Debt + Mortgage, Not Supported","All Debt + Mortgage, Not Supported"
+1555,Assumption,V18,"All Debt + Mortgage, Supported","All Debt + Mortgage, Supported"
+1556,Assumption,Y18,"All Debt + Mortgage, Supported","All Debt + Mortgage, Supported"
+1557,Assumption,B19,13,13
+1558,Assumption,C19,=C18+$O$5,=Assumption!C18+Assumption!O5
+1559,Assumption,E19,13,13
+1560,Assumption,F19,=F18+$O$13,=Assumption!F18+Assumption!O13
+1561,Assumption,H19,13,13
+1562,Assumption,I19,=F19,=Assumption!F19
+1563,Assumption,L19,Max Debt % of the monthly salary ,Max Debt % of the monthly salary 
+1564,Assumption,M19,CD,CD
+1565,Assumption,N19,CD,CD
+1566,Assumption,O19,CD,CD
+1567,Assumption,P19,AD,AD
+1568,Assumption,Q19,AD,AD
+1569,Assumption,R19,AD,AD
+1570,Assumption,S19,=$C$10,=Assumption!C10
+1571,Assumption,T19,=$C$10,=Assumption!C10
+1572,Assumption,U19,=$C$10,=Assumption!C10
+1573,Assumption,V19,=$F$10,=Assumption!F10
+1574,Assumption,W19,=$F$10,=Assumption!F10
+1575,Assumption,X19,=$F$10,=Assumption!F10
+1576,Assumption,Y19,=$I$10,=Assumption!I10
+1577,Assumption,Z19,=$I$10,=Assumption!I10
+1578,Assumption,AA19,=$I$10,=Assumption!I10
+1579,Assumption,B20,14,14
+1580,Assumption,C20,=C19+$O$5,=Assumption!C19+Assumption!O5
+1581,Assumption,E20,14,14
+1582,Assumption,F20,=F19+$O$13,=Assumption!F19+Assumption!O13
+1583,Assumption,H20,14,14
+1584,Assumption,I20,=F20,=Assumption!F20
+1585,Assumption,L20,Salary Categories,Salary Categories
+1586,Assumption,M20,=$P$27,=Assumption!P27
+1587,Assumption,N20,=$P$28,=Assumption!P28
+1588,Assumption,O20,=$P$29,=Assumption!P29
+1589,Assumption,P20,=$P$27,=Assumption!P27
+1590,Assumption,Q20,=$P$28,=Assumption!P28
+1591,Assumption,R20,=$P$29,=Assumption!P29
+1592,Assumption,S20,=$P$27,=Assumption!P27
+1593,Assumption,T20,=$P$28,=Assumption!P28
+1594,Assumption,U20,=$P$29,=Assumption!P29
+1595,Assumption,V20,=$P$27,=Assumption!P27
+1596,Assumption,W20,=$P$28,=Assumption!P28
+1597,Assumption,X20,=$P$29,=Assumption!P29
+1598,Assumption,Y20,=$P$27,=Assumption!P27
+1599,Assumption,Z20,=$P$28,=Assumption!P28
+1600,Assumption,AA20,=$P$29,=Assumption!P29
+1601,Assumption,B21,15,15
+1602,Assumption,C21,=M5,=Assumption!M5
+1603,Assumption,D21,=C20+O5,=Assumption!C20+Assumption!O5
+1604,Assumption,E21,15,15
+1605,Assumption,F21,=M13,=Assumption!M13
+1606,Assumption,G21,=F20+O13,=Assumption!F20+Assumption!O13
+1607,Assumption,H21,15,15
+1608,Assumption,I21,=F21,=Assumption!F21
+1609,Assumption,L21,قطاع خاص,قطاع خاص
+1610,Assumption,M21,0.3333,0.3333
+1611,Assumption,N21,0.3333,0.3333
+1612,Assumption,O21,0.3333,0.3333
+1613,Assumption,P21,0.45,0.45
+1614,Assumption,Q21,0.45,0.45
+1615,Assumption,R21,0.45,0.45
+1616,Assumption,S21,0.55,0.55
+1617,Assumption,T21,0.65,0.65
+1618,Assumption,U21,0.65,0.65
+1619,Assumption,V21,0.65,0.65
+1620,Assumption,W21,0.65,0.65
+1621,Assumption,X21,0.65,0.65
+1622,Assumption,Y21,0.65,0.65
+1623,Assumption,Z21,0.65,0.65
+1624,Assumption,AA21,0.65,0.65
+1625,Assumption,B22,16,16
+1626,Assumption,C22,=C21+$O$6,=Assumption!C21+Assumption!O6
+1627,Assumption,E22,16,16
+1628,Assumption,F22,=F21+$O$14,=Assumption!F21+Assumption!O14
+1629,Assumption,H22,16,16
+1630,Assumption,I22,=F22,=Assumption!F22
+1631,Assumption,L22,حكومي عسكري,حكومي عسكري
+1632,Assumption,M22,0.3333,0.3333
+1633,Assumption,N22,0.3333,0.3333
+1634,Assumption,O22,0.3333,0.3333
+1635,Assumption,P22,0.45,0.45
+1636,Assumption,Q22,0.45,0.45
+1637,Assumption,R22,0.45,0.45
+1638,Assumption,S22,0.55,0.55
+1639,Assumption,T22,0.65,0.65
+1640,Assumption,U22,0.65,0.65
+1641,Assumption,V22,0.65,0.65
+1642,Assumption,W22,0.65,0.65
+1643,Assumption,X22,0.65,0.65
+1644,Assumption,Y22,0.65,0.65
+1645,Assumption,Z22,0.65,0.65
+1646,Assumption,AA22,0.65,0.65
+1647,Assumption,B23,17,17
+1648,Assumption,C23,=C22+$O$6,=Assumption!C22+Assumption!O6
+1649,Assumption,E23,17,17
+1650,Assumption,F23,=F22+$O$14,=Assumption!F22+Assumption!O14
+1651,Assumption,H23,17,17
+1652,Assumption,I23,=F23,=Assumption!F23
+1653,Assumption,L23,متقاعد,متقاعد
+1654,Assumption,M23,0.25,0.25
+1655,Assumption,N23,0.25,0.25
+1656,Assumption,O23,0.25,0.25
+1657,Assumption,P23,0.45,0.45
+1658,Assumption,Q23,0.45,0.45
+1659,Assumption,R23,0.45,0.45
+1660,Assumption,S23,0.55,0.55
+1661,Assumption,T23,0.65,0.65
+1662,Assumption,U23,0.65,0.65
+1663,Assumption,V23,0.65,0.65
+1664,Assumption,W23,0.65,0.65
+1665,Assumption,X23,0.65,0.65
+1666,Assumption,Y23,0.65,0.65
+1667,Assumption,Z23,0.65,0.65
+1668,Assumption,AA23,0.65,0.65
+1669,Assumption,B24,18,18
+1670,Assumption,C24,=C23+$O$6,=Assumption!C23+Assumption!O6
+1671,Assumption,E24,18,18
+1672,Assumption,F24,=F23+$O$14,=Assumption!F23+Assumption!O14
+1673,Assumption,H24,18,18
+1674,Assumption,I24,=F24,=Assumption!F24
+1675,Assumption,L24,حكومي مدني,حكومي مدني
+1676,Assumption,M24,0.3333,0.3333
+1677,Assumption,N24,0.3333,0.3333
+1678,Assumption,O24,0.3333,0.3333
+1679,Assumption,P24,0.45,0.45
+1680,Assumption,Q24,0.45,0.45
+1681,Assumption,R24,0.45,0.45
+1682,Assumption,S24,0.55,0.55
+1683,Assumption,T24,0.65,0.65
+1684,Assumption,U24,0.65,0.65
+1685,Assumption,V24,0.65,0.65
+1686,Assumption,W24,0.65,0.65
+1687,Assumption,X24,0.65,0.65
+1688,Assumption,Y24,0.65,0.65
+1689,Assumption,Z24,0.65,0.65
+1690,Assumption,AA24,0.65,0.65
+1691,Assumption,B25,19,19
+1692,Assumption,C25,=C24+$O$6,=Assumption!C24+Assumption!O6
+1693,Assumption,E25,19,19
+1694,Assumption,F25,=F24+$O$14,=Assumption!F24+Assumption!O14
+1695,Assumption,H25,19,19
+1696,Assumption,I25,=F25,=Assumption!F25
+1697,Assumption,B26,20,20
+1698,Assumption,C26,=M6,=Assumption!M6
+1699,Assumption,D26,=C25+O6,=Assumption!C25+Assumption!O6
+1700,Assumption,E26,20,20
+1701,Assumption,F26,=M14,=Assumption!M14
+1702,Assumption,G26,=F25+O14,=Assumption!F25+Assumption!O14
+1703,Assumption,H26,20,20
+1704,Assumption,I26,=F26,=Assumption!F26
+1705,Assumption,L26,Salary Range,Salary Range
+1706,Assumption,O26,Salary Categories,Salary Categories
+1707,Assumption,B27,21,21
+1708,Assumption,C27,=C26+$O$7,=Assumption!C26+Assumption!O7
+1709,Assumption,E27,21,21
+1710,Assumption,F27,=F26+$O$15,=Assumption!F26+Assumption!O15
+1711,Assumption,H27,21,21
+1712,Assumption,I27,=F27,=Assumption!F27
+1713,Assumption,L27,Min,Min
+1714,Assumption,M27,0,0
+1715,Assumption,O27,x =< Mid 1,x =< Mid 1
+1716,Assumption,P27,X1,X1
+1717,Assumption,B28,22,22
+1718,Assumption,C28,=C27+$O$7,=Assumption!C27+Assumption!O7
+1719,Assumption,E28,22,22
+1720,Assumption,F28,=F27+$O$15,=Assumption!F27+Assumption!O15
+1721,Assumption,H28,22,22
+1722,Assumption,I28,=F28,=Assumption!F28
+1723,Assumption,L28,Mid 1,Mid 1
+1724,Assumption,M28,15000,15000
+1725,Assumption,O28,Mid 2 > x > Mid 1,Mid 2 > x > Mid 1
+1726,Assumption,P28,X2,X2
+1727,Assumption,B29,23,23
+1728,Assumption,C29,=C28+$O$7,=Assumption!C28+Assumption!O7
+1729,Assumption,E29,23,23
+1730,Assumption,F29,=F28+$O$15,=Assumption!F28+Assumption!O15
+1731,Assumption,H29,23,23
+1732,Assumption,I29,=F29,=Assumption!F29
+1733,Assumption,L29,Mid 2,Mid 2
+1734,Assumption,M29,25000,25000
+1735,Assumption,O29,x => Mid 2,x => Mid 2
+1736,Assumption,P29,X3,X3
+1737,Assumption,B30,24,24
+1738,Assumption,C30,=C29+$O$7,=Assumption!C29+Assumption!O7
+1739,Assumption,E30,24,24
+1740,Assumption,F30,=F29+$O$15,=Assumption!F29+Assumption!O15
+1741,Assumption,H30,24,24
+1742,Assumption,I30,=F30,=Assumption!F30
+1743,Assumption,L30,Mid 3,Mid 3
+1744,Assumption,M30,0,0
+1745,Assumption,B31,25,25
+1746,Assumption,C31,=M7,=Assumption!M7
+1747,Assumption,D31,=C30+O7,=Assumption!C30+Assumption!O7
+1748,Assumption,E31,25,25
+1749,Assumption,F31,=M15,=Assumption!M15
+1750,Assumption,G31,=F30+O15,=Assumption!F30+Assumption!O15
+1751,Assumption,H31,25,25
+1752,Assumption,I31,=F31,=Assumption!F31
+1753,Assumption,B32,26,26
+1754,Assumption,C32,=M7+$O$8,=Assumption!M7+Assumption!O8
+1755,Assumption,E32,26,26
+1756,Assumption,F32,=F31+$O$16,=Assumption!F31+Assumption!O16
+1757,Assumption,H32,26,26
+1758,Assumption,I32,=F32,=Assumption!F32
+1759,Assumption,B33,27,27
+1760,Assumption,C33,=C32+$O$8,=Assumption!C32+Assumption!O8
+1761,Assumption,E33,27,27
+1762,Assumption,F33,=F32+$O$16,=Assumption!F32+Assumption!O16
+1763,Assumption,H33,27,27
+1764,Assumption,I33,=F33,=Assumption!F33
+1765,Assumption,B34,28,28
+1766,Assumption,C34,=C33+$O$8,=Assumption!C33+Assumption!O8
+1767,Assumption,E34,28,28
+1768,Assumption,F34,=F33+$O$16,=Assumption!F33+Assumption!O16
+1769,Assumption,H34,28,28
+1770,Assumption,I34,=F34,=Assumption!F34
+1771,Assumption,B35,29,29
+1772,Assumption,C35,=C34+$O$8,=Assumption!C34+Assumption!O8
+1773,Assumption,E35,29,29
+1774,Assumption,F35,=F34+$O$16,=Assumption!F34+Assumption!O16
+1775,Assumption,H35,29,29
+1776,Assumption,I35,=F35,=Assumption!F35
+1777,Assumption,B36,30,30
+1778,Assumption,C36,=M8,=Assumption!M8
+1779,Assumption,D36,=C35+O8,=Assumption!C35+Assumption!O8
+1780,Assumption,E36,30,30
+1781,Assumption,F36,=M16,=Assumption!M16
+1782,Assumption,G36,=F35+O16,=Assumption!F35+Assumption!O16
+1783,Assumption,H36,30,30
+1784,Assumption,I36,=F36,=Assumption!F36
+1785,Assumption,H45,Row #,Row #
+1786,Assumption,I45,Categories Ar,Categories Ar
+1787,Assumption,J45,#,#
+1788,Assumption,K45,Categories En,Categories En
+1789,Assumption,L45,Send to ,Send to 
+1790,Assumption,H46,=ROW(I46),=ROW(Assumption!I46)
+1791,Assumption,I46,عقار ،دفعة أولى ، دين,عقار ،دفعة أولى ، دين
+1792,Assumption,J46,1,1
+1793,Assumption,K46,"Hous, Down Payment, Debt","Hous, Down Payment, Debt"
+1794,Assumption,L46,وساطة عقارية,وساطة عقارية
+1795,Assumption,H47,=ROW(I47),=ROW(Assumption!I47)
+1796,Assumption,I47,عقار ،دفعة أولى ، بدون دين,عقار ،دفعة أولى ، بدون دين
+1797,Assumption,J47,2,2
+1798,Assumption,K47,"Hous, DP , No Debt","Hous, DP , No Debt"
+1799,Assumption,L47,بداية,بداية
+1800,Assumption,H48,=ROW(I48),=ROW(Assumption!I48)
+1801,Assumption,I48,عقار ،بدون دفعة أولى ، دين,عقار ،بدون دفعة أولى ، دين
+1802,Assumption,J48,3,3
+1803,Assumption,K48,"Hous, No DP, Debt","Hous, No DP, Debt"
+1804,Assumption,L48,وساطة عقارية,وساطة عقارية
+1805,Assumption,H49,=ROW(I49),=ROW(Assumption!I49)
+1806,Assumption,I49,عقار ،بدون دفعة أولى ، بدون دين,عقار ،بدون دفعة أولى ، بدون دين
+1807,Assumption,J49,4,4
+1808,Assumption,K49,"Hous, DP , Debt","Hous, DP , Debt"
+1809,Assumption,H50,=ROW(I50),=ROW(Assumption!I50)
+1810,Assumption,I50,بدون عقار ،دفعة أولى ، دين,بدون عقار ،دفعة أولى ، دين
+1811,Assumption,J50,5,5
+1812,Assumption,K50,"No House, DP, Debt","No House, DP, Debt"
+1813,Assumption,L50,تهاني,تهاني
+1814,Assumption,H51,=ROW(I51),=ROW(Assumption!I51)
+1815,Assumption,I51,بدون عقار ،دفعة أولى ، بدون دين,بدون عقار ،دفعة أولى ، بدون دين
+1816,Assumption,J51,6,6
+1817,Assumption,K51,"No House, DP, No Debt","No House, DP, No Debt"
+1818,Assumption,H52,=ROW(I52),=ROW(Assumption!I52)
+1819,Assumption,I52,بدون عقار ، بدون دفعة أولى ، دين,بدون عقار ، بدون دفعة أولى ، دين
+1820,Assumption,J52,7,7
+1821,Assumption,K52,"No House, No DP, Debt","No House, No DP, Debt"
+1822,Assumption,L52,تهاني,تهاني
+1823,Assumption,H53,=ROW(I53),=ROW(Assumption!I53)
+1824,Assumption,I53,بدون عقار ،بدون دفعة أولى ، بدون دين,بدون عقار ،بدون دفعة أولى ، بدون دين
+1825,Assumption,J53,8,8
+1826,Assumption,K53,"No House, No DP, No Debt","No House, No DP, No Debt"
+1827,Banks_interest,A1,Banks Name ,Banks Name 
+1828,Banks_interest,B1,Num of year ,Num of year 
+1829,Banks_interest,C1,غير مستحق للدعم,غير مستحق للدعم
+1830,Banks_interest,D1,مستحق للدعم,مستحق للدعم
+1831,Banks_interest,E1,لا اعلم,لا اعلم
+1832,Banks_interest,A2,الراجحي,الراجحي
+1833,Banks_interest,B2,5,5
+1834,Banks_interest,C2,0.024999999999999998,0.024999999999999998
+1835,Banks_interest,D2,0.0231,0.0231
+1836,Banks_interest,E2,0.0231,0.0231
+1837,Banks_interest,A3,الراجحي,الراجحي
+1838,Banks_interest,B3,6,6
+1839,Banks_interest,C3,0.0255,0.0255
+1840,Banks_interest,D3,0.02378,0.02378
+1841,Banks_interest,E3,0.02378,0.02378
+1842,Banks_interest,A4,الراجحي,الراجحي
+1843,Banks_interest,B4,7,7
+1844,Banks_interest,C4,0.026,0.026
+1845,Banks_interest,D4,0.02446,0.02446
+1846,Banks_interest,E4,0.02446,0.02446
+1847,Banks_interest,A5,الراجحي,الراجحي
+1848,Banks_interest,B5,8,8
+1849,Banks_interest,C5,0.0265,0.0265
+1850,Banks_interest,D5,0.02514,0.02514
+1851,Banks_interest,E5,0.02514,0.02514
+1852,Banks_interest,A6,الراجحي,الراجحي
+1853,Banks_interest,B6,9,9
+1854,Banks_interest,C6,0.027,0.027
+1855,Banks_interest,D6,0.02582,0.02582
+1856,Banks_interest,E6,0.02582,0.02582
+1857,Banks_interest,A7,الراجحي,الراجحي
+1858,Banks_interest,B7,10,10
+1859,Banks_interest,C7,0.0275,0.0275
+1860,Banks_interest,D7,0.0265,0.0265
+1861,Banks_interest,E7,0.0265,0.0265
+1862,Banks_interest,A8,الراجحي,الراجحي
+1863,Banks_interest,B8,11,11
+1864,Banks_interest,C8,0.028,0.028
+1865,Banks_interest,D8,0.02718,0.02718
+1866,Banks_interest,E8,0.02718,0.02718
+1867,Banks_interest,A9,الراجحي,الراجحي
+1868,Banks_interest,B9,12,12
+1869,Banks_interest,C9,0.0285,0.0285
+1870,Banks_interest,D9,0.02786,0.02786
+1871,Banks_interest,E9,0.02786,0.02786
+1872,Banks_interest,A10,الراجحي,الراجحي
+1873,Banks_interest,B10,13,13
+1874,Banks_interest,C10,0.029,0.029
+1875,Banks_interest,D10,0.02854,0.02854
+1876,Banks_interest,E10,0.02854,0.02854
+1877,Banks_interest,A11,الراجحي,الراجحي
+1878,Banks_interest,B11,14,14
+1879,Banks_interest,C11,0.029500000000000002,0.029500000000000002
+1880,Banks_interest,D11,0.02922,0.02922
+1881,Banks_interest,E11,0.02922,0.02922
+1882,Banks_interest,A12,الراجحي,الراجحي
+1883,Banks_interest,B12,15,15
+1884,Banks_interest,C12,0.03,0.03
+1885,Banks_interest,D12,0.0299,0.0299
+1886,Banks_interest,E12,0.0299,0.0299
+1887,Banks_interest,A13,الراجحي,الراجحي
+1888,Banks_interest,B13,16,16
+1889,Banks_interest,C13,0.0305,0.0305
+1890,Banks_interest,D13,0.0305,0.0305
+1891,Banks_interest,E13,0.0305,0.0305
+1892,Banks_interest,A14,الراجحي,الراجحي
+1893,Banks_interest,B14,17,17
+1894,Banks_interest,C14,0.031,0.031
+1895,Banks_interest,D14,0.0311,0.0311
+1896,Banks_interest,E14,0.0311,0.0311
+1897,Banks_interest,A15,الراجحي,الراجحي
+1898,Banks_interest,B15,18,18
+1899,Banks_interest,C15,0.0315,0.0315
+1900,Banks_interest,D15,0.0317,0.0317
+1901,Banks_interest,E15,0.0317,0.0317
+1902,Banks_interest,A16,الراجحي,الراجحي
+1903,Banks_interest,B16,19,19
+1904,Banks_interest,C16,0.032,0.032
+1905,Banks_interest,D16,0.032299999999999995,0.032299999999999995
+1906,Banks_interest,E16,0.032299999999999995,0.032299999999999995
+1907,Banks_interest,A17,الراجحي,الراجحي
+1908,Banks_interest,B17,20,20
+1909,Banks_interest,C17,0.0325,0.0325
+1910,Banks_interest,D17,0.0329,0.0329
+1911,Banks_interest,E17,0.0329,0.0329
+1912,Banks_interest,A18,الراجحي,الراجحي
+1913,Banks_interest,B18,21,21
+1914,Banks_interest,C18,0.033,0.033
+1915,Banks_interest,D18,0.03342,0.03342
+1916,Banks_interest,E18,0.03342,0.03342
+1917,Banks_interest,A19,الراجحي,الراجحي
+1918,Banks_interest,B19,22,22
+1919,Banks_interest,C19,0.0335,0.0335
+1920,Banks_interest,D19,0.03394,0.03394
+1921,Banks_interest,E19,0.03394,0.03394
+1922,Banks_interest,A20,الراجحي,الراجحي
+1923,Banks_interest,B20,23,23
+1924,Banks_interest,C20,0.034,0.034
+1925,Banks_interest,D20,0.03446,0.03446
+1926,Banks_interest,E20,0.03446,0.03446
+1927,Banks_interest,A21,الراجحي,الراجحي
+1928,Banks_interest,B21,24,24
+1929,Banks_interest,C21,0.0345,0.0345
+1930,Banks_interest,D21,0.03498,0.03498
+1931,Banks_interest,E21,0.03498,0.03498
+1932,Banks_interest,A22,الراجحي,الراجحي
+1933,Banks_interest,B22,25,25
+1934,Banks_interest,C22,0.035,0.035
+1935,Banks_interest,D22,0.0355,0.0355
+1936,Banks_interest,E22,0.0355,0.0355
+1937,Banks_interest,A23,الراجحي,الراجحي
+1938,Banks_interest,B23,26,26
+1939,Banks_interest,C23,0.0356,0.0356
+1940,Banks_interest,D23,0.0355,0.0355
+1941,Banks_interest,E23,0.0355,0.0355
+1942,Banks_interest,A24,الراجحي,الراجحي
+1943,Banks_interest,B24,27,27
+1944,Banks_interest,C24,0.036199999999999996,0.036199999999999996
+1945,Banks_interest,D24,0.0355,0.0355
+1946,Banks_interest,E24,0.0355,0.0355
+1947,Banks_interest,A25,الراجحي,الراجحي
+1948,Banks_interest,B25,28,28
+1949,Banks_interest,C25,0.03679999999999999,0.03679999999999999
+1950,Banks_interest,D25,0.0355,0.0355
+1951,Banks_interest,E25,0.0355,0.0355
+1952,Banks_interest,A26,الراجحي,الراجحي
+1953,Banks_interest,B26,29,29
+1954,Banks_interest,C26,0.03739999999999999,0.03739999999999999
+1955,Banks_interest,D26,0.0355,0.0355
+1956,Banks_interest,E26,0.0355,0.0355
+1957,Banks_interest,A27,الراجحي,الراجحي
+1958,Banks_interest,B27,30,30
+1959,Banks_interest,C27,0.038,0.038
+1960,Banks_interest,D27,0.0355,0.0355
+1961,Banks_interest,E27,0.0355,0.0355
+1962,Banks_interest,A28,الاهلي,الاهلي
+1963,Banks_interest,B28,5,5
+1964,Banks_interest,C28,0.024999999999999998,0.024999999999999998
+1965,Banks_interest,D28,0.0231,0.0231
+1966,Banks_interest,E28,0.0231,0.0231
+1967,Banks_interest,A29,الاهلي,الاهلي
+1968,Banks_interest,B29,6,6
+1969,Banks_interest,C29,0.0255,0.0255
+1970,Banks_interest,D29,0.02378,0.02378
+1971,Banks_interest,E29,0.02378,0.02378
+1972,Banks_interest,A30,الاهلي,الاهلي
+1973,Banks_interest,B30,7,7
+1974,Banks_interest,C30,0.026,0.026
+1975,Banks_interest,D30,0.02446,0.02446
+1976,Banks_interest,E30,0.02446,0.02446
+1977,Banks_interest,A31,الاهلي,الاهلي
+1978,Banks_interest,B31,8,8
+1979,Banks_interest,C31,0.0265,0.0265
+1980,Banks_interest,D31,0.02514,0.02514
+1981,Banks_interest,E31,0.02514,0.02514
+1982,Banks_interest,A32,الاهلي,الاهلي
+1983,Banks_interest,B32,9,9
+1984,Banks_interest,C32,0.027,0.027
+1985,Banks_interest,D32,0.02582,0.02582
+1986,Banks_interest,E32,0.02582,0.02582
+1987,Banks_interest,A33,الاهلي,الاهلي
+1988,Banks_interest,B33,10,10
+1989,Banks_interest,C33,0.0275,0.0275
+1990,Banks_interest,D33,0.0265,0.0265
+1991,Banks_interest,E33,0.0265,0.0265
+1992,Banks_interest,A34,الاهلي,الاهلي
+1993,Banks_interest,B34,11,11
+1994,Banks_interest,C34,0.028,0.028
+1995,Banks_interest,D34,0.02718,0.02718
+1996,Banks_interest,E34,0.02718,0.02718
+1997,Banks_interest,A35,الاهلي,الاهلي
+1998,Banks_interest,B35,12,12
+1999,Banks_interest,C35,0.0285,0.0285
+2000,Banks_interest,D35,0.02786,0.02786
+2001,Banks_interest,E35,0.02786,0.02786
+2002,Banks_interest,A36,الاهلي,الاهلي
+2003,Banks_interest,B36,13,13
+2004,Banks_interest,C36,0.029,0.029
+2005,Banks_interest,D36,0.02854,0.02854
+2006,Banks_interest,E36,0.02854,0.02854
+2007,Banks_interest,A37,الاهلي,الاهلي
+2008,Banks_interest,B37,14,14
+2009,Banks_interest,C37,0.029500000000000002,0.029500000000000002
+2010,Banks_interest,D37,0.02922,0.02922
+2011,Banks_interest,E37,0.02922,0.02922
+2012,Banks_interest,A38,الاهلي,الاهلي
+2013,Banks_interest,B38,15,15
+2014,Banks_interest,C38,0.03,0.03
+2015,Banks_interest,D38,0.0299,0.0299
+2016,Banks_interest,E38,0.0299,0.0299
+2017,Banks_interest,A39,الاهلي,الاهلي
+2018,Banks_interest,B39,16,16
+2019,Banks_interest,C39,0.0305,0.0305
+2020,Banks_interest,D39,0.0305,0.0305
+2021,Banks_interest,E39,0.0305,0.0305
+2022,Banks_interest,A40,الاهلي,الاهلي
+2023,Banks_interest,B40,17,17
+2024,Banks_interest,C40,0.031,0.031
+2025,Banks_interest,D40,0.0311,0.0311
+2026,Banks_interest,E40,0.0311,0.0311
+2027,Banks_interest,A41,الاهلي,الاهلي
+2028,Banks_interest,B41,18,18
+2029,Banks_interest,C41,0.0315,0.0315
+2030,Banks_interest,D41,0.0317,0.0317
+2031,Banks_interest,E41,0.0317,0.0317
+2032,Banks_interest,A42,الاهلي,الاهلي
+2033,Banks_interest,B42,19,19
+2034,Banks_interest,C42,0.032,0.032
+2035,Banks_interest,D42,0.032299999999999995,0.032299999999999995
+2036,Banks_interest,E42,0.032299999999999995,0.032299999999999995
+2037,Banks_interest,A43,الاهلي,الاهلي
+2038,Banks_interest,B43,20,20
+2039,Banks_interest,C43,0.0325,0.0325
+2040,Banks_interest,D43,0.0329,0.0329
+2041,Banks_interest,E43,0.0329,0.0329
+2042,Banks_interest,A44,الاهلي,الاهلي
+2043,Banks_interest,B44,21,21
+2044,Banks_interest,C44,0.033,0.033
+2045,Banks_interest,D44,0.03342,0.03342
+2046,Banks_interest,E44,0.03342,0.03342
+2047,Banks_interest,A45,الاهلي,الاهلي
+2048,Banks_interest,B45,22,22
+2049,Banks_interest,C45,0.0335,0.0335
+2050,Banks_interest,D45,0.03394,0.03394
+2051,Banks_interest,E45,0.03394,0.03394
+2052,Banks_interest,A46,الاهلي,الاهلي
+2053,Banks_interest,B46,23,23
+2054,Banks_interest,C46,0.034,0.034
+2055,Banks_interest,D46,0.03446,0.03446
+2056,Banks_interest,E46,0.03446,0.03446
+2057,Banks_interest,A47,الاهلي,الاهلي
+2058,Banks_interest,B47,24,24
+2059,Banks_interest,C47,0.0345,0.0345
+2060,Banks_interest,D47,0.03498,0.03498
+2061,Banks_interest,E47,0.03498,0.03498
+2062,Banks_interest,A48,الاهلي,الاهلي
+2063,Banks_interest,B48,25,25
+2064,Banks_interest,C48,0.035,0.035
+2065,Banks_interest,D48,0.0355,0.0355
+2066,Banks_interest,E48,0.0355,0.0355
+2067,Banks_interest,A49,الاهلي,الاهلي
+2068,Banks_interest,B49,26,26
+2069,Banks_interest,C49,0.0356,0.0356
+2070,Banks_interest,D49,0.0355,0.0355
+2071,Banks_interest,E49,0.0355,0.0355
+2072,Banks_interest,A50,الاهلي,الاهلي
+2073,Banks_interest,B50,27,27
+2074,Banks_interest,C50,0.036199999999999996,0.036199999999999996
+2075,Banks_interest,D50,0.0355,0.0355
+2076,Banks_interest,E50,0.0355,0.0355
+2077,Banks_interest,A51,الاهلي,الاهلي
+2078,Banks_interest,B51,28,28
+2079,Banks_interest,C51,0.03679999999999999,0.03679999999999999
+2080,Banks_interest,D51,0.0355,0.0355
+2081,Banks_interest,E51,0.0355,0.0355
+2082,Banks_interest,A52,الاهلي,الاهلي
+2083,Banks_interest,B52,29,29
+2084,Banks_interest,C52,0.03739999999999999,0.03739999999999999
+2085,Banks_interest,D52,0.0355,0.0355
+2086,Banks_interest,E52,0.0355,0.0355
+2087,Banks_interest,A53,الاهلي,الاهلي
+2088,Banks_interest,B53,30,30
+2089,Banks_interest,C53,0.038,0.038
+2090,Banks_interest,D53,0.0355,0.0355
+2091,Banks_interest,E53,0.0355,0.0355
+2092,Banks_interest,A54,الرياض,الرياض
+2093,Banks_interest,B54,5,5
+2094,Banks_interest,C54,0.0365,0.0365
+2095,Banks_interest,D54,0.038,0.038
+2096,Banks_interest,E54,0.038,0.038
+2097,Banks_interest,A55,الرياض,الرياض
+2098,Banks_interest,B55,6,6
+2099,Banks_interest,C55,0.0366,0.0366
+2100,Banks_interest,D55,0.0381,0.0381
+2101,Banks_interest,E55,0.0381,0.0381
+2102,Banks_interest,A56,الرياض,الرياض
+2103,Banks_interest,B56,7,7
+2104,Banks_interest,C56,0.0367,0.0367
+2105,Banks_interest,D56,0.0382,0.0382
+2106,Banks_interest,E56,0.0382,0.0382
+2107,Banks_interest,A57,الرياض,الرياض
+2108,Banks_interest,B57,8,8
+2109,Banks_interest,C57,0.0368,0.0368
+2110,Banks_interest,D57,0.0383,0.0383
+2111,Banks_interest,E57,0.0383,0.0383
+2112,Banks_interest,A58,الرياض,الرياض
+2113,Banks_interest,B58,9,9
+2114,Banks_interest,C58,0.0369,0.0369
+2115,Banks_interest,D58,0.0384,0.0384
+2116,Banks_interest,E58,0.0384,0.0384
+2117,Banks_interest,A59,الرياض,الرياض
+2118,Banks_interest,B59,10,10
+2119,Banks_interest,C59,0.037,0.037
+2120,Banks_interest,D59,0.0385,0.0385
+2121,Banks_interest,E59,0.0385,0.0385
+2122,Banks_interest,A60,الرياض,الرياض
+2123,Banks_interest,B60,11,11
+2124,Banks_interest,C60,0.0375,0.0375
+2125,Banks_interest,D60,0.0388,0.0388
+2126,Banks_interest,E60,0.0388,0.0388
+2127,Banks_interest,A61,الرياض,الرياض
+2128,Banks_interest,B61,12,12
+2129,Banks_interest,C61,0.038,0.038
+2130,Banks_interest,D61,0.0391,0.0391
+2131,Banks_interest,E61,0.0391,0.0391
+2132,Banks_interest,A62,الرياض,الرياض
+2133,Banks_interest,B62,13,13
+2134,Banks_interest,C62,0.0385,0.0385
+2135,Banks_interest,D62,0.0393,0.0393
+2136,Banks_interest,E62,0.0393,0.0393
+2137,Banks_interest,A63,الرياض,الرياض
+2138,Banks_interest,B63,14,14
+2139,Banks_interest,C63,0.039,0.039
+2140,Banks_interest,D63,0.0396,0.0396
+2141,Banks_interest,E63,0.0396,0.0396
+2142,Banks_interest,A64,الرياض,الرياض
+2143,Banks_interest,B64,15,15
+2144,Banks_interest,C64,0.0395,0.0395
+2145,Banks_interest,D64,0.0399,0.0399
+2146,Banks_interest,E64,0.0399,0.0399
+2147,Banks_interest,A65,الرياض,الرياض
+2148,Banks_interest,B65,16,16
+2149,Banks_interest,C65,0.04,0.04
+2150,Banks_interest,D65,0.0403,0.0403
+2151,Banks_interest,E65,0.0403,0.0403
+2152,Banks_interest,A66,الرياض,الرياض
+2153,Banks_interest,B66,17,17
+2154,Banks_interest,C66,0.0405,0.0405
+2155,Banks_interest,D66,0.0407,0.0407
+2156,Banks_interest,E66,0.0407,0.0407
+2157,Banks_interest,A67,الرياض,الرياض
+2158,Banks_interest,B67,18,18
+2159,Banks_interest,C67,0.041,0.041
+2160,Banks_interest,D67,0.0412,0.0412
+2161,Banks_interest,E67,0.0412,0.0412
+2162,Banks_interest,A68,الرياض,الرياض
+2163,Banks_interest,B68,19,19
+2164,Banks_interest,C68,0.0415,0.0415
+2165,Banks_interest,D68,0.0416,0.0416
+2166,Banks_interest,E68,0.0416,0.0416
+2167,Banks_interest,A69,الرياض,الرياض
+2168,Banks_interest,B69,20,20
+2169,Banks_interest,C69,0.042,0.042
+2170,Banks_interest,D69,0.042,0.042
+2171,Banks_interest,E69,0.042,0.042
+2172,Banks_interest,A70,الرياض,الرياض
+2173,Banks_interest,B70,21,21
+2174,Banks_interest,C70,0.0426,0.0426
+2175,Banks_interest,D70,0.0421,0.0421
+2176,Banks_interest,E70,0.0421,0.0421
+2177,Banks_interest,A71,الرياض,الرياض
+2178,Banks_interest,B71,22,22
+2179,Banks_interest,C71,0.0432,0.0432
+2180,Banks_interest,D71,0.0422,0.0422
+2181,Banks_interest,E71,0.0422,0.0422
+2182,Banks_interest,A72,الرياض,الرياض
+2183,Banks_interest,B72,23,23
+2184,Banks_interest,C72,0.0438,0.0438
+2185,Banks_interest,D72,0.0423,0.0423
+2186,Banks_interest,E72,0.0423,0.0423
+2187,Banks_interest,A73,الرياض,الرياض
+2188,Banks_interest,B73,24,24
+2189,Banks_interest,C73,0.0444,0.0444
+2190,Banks_interest,D73,0.0424,0.0424
+2191,Banks_interest,E73,0.0424,0.0424
+2192,Banks_interest,A74,الرياض,الرياض
+2193,Banks_interest,B74,25,25
+2194,Banks_interest,C74,0.045,0.045
+2195,Banks_interest,D74,0.0425,0.0425
+2196,Banks_interest,E74,0.0425,0.0425
+2197,Banks_interest,A75,الرياض,الرياض
+2198,Banks_interest,B75,26,26
+2199,Banks_interest,C75,0.0455,0.0455
+2200,Banks_interest,D75,0.0426,0.0426
+2201,Banks_interest,E75,0.0426,0.0426
+2202,Banks_interest,A76,الرياض,الرياض
+2203,Banks_interest,B76,27,27
+2204,Banks_interest,C76,0.046,0.046
+2205,Banks_interest,D76,0.0427,0.0427
+2206,Banks_interest,E76,0.0427,0.0427
+2207,Banks_interest,A77,الرياض,الرياض
+2208,Banks_interest,B77,28,28
+2209,Banks_interest,C77,0.0465,0.0465
+2210,Banks_interest,D77,0.0428,0.0428
+2211,Banks_interest,E77,0.0428,0.0428
+2212,Banks_interest,A78,الرياض,الرياض
+2213,Banks_interest,B78,29,29
+2214,Banks_interest,C78,0.047,0.047
+2215,Banks_interest,D78,0.0429,0.0429
+2216,Banks_interest,E78,0.0429,0.0429
+2217,Banks_interest,A79,الرياض,الرياض
+2218,Banks_interest,B79,30,30
+2219,Banks_interest,C79,0.0475,0.0475
+2220,Banks_interest,D79,0.043,0.043
+2221,Banks_interest,E79,0.043,0.043
+2222,Banks_interest,A80,العربي الوطني,العربي الوطني
+2223,Banks_interest,B80,5,5
+2224,Banks_interest,C80,0.024999999999999998,0.024999999999999998
+2225,Banks_interest,D80,0.0231,0.0231
+2226,Banks_interest,E80,0.0231,0.0231
+2227,Banks_interest,A81,العربي الوطني,العربي الوطني
+2228,Banks_interest,B81,6,6
+2229,Banks_interest,C81,0.0255,0.0255
+2230,Banks_interest,D81,0.02378,0.02378
+2231,Banks_interest,E81,0.02378,0.02378
+2232,Banks_interest,A82,العربي الوطني,العربي الوطني
+2233,Banks_interest,B82,7,7
+2234,Banks_interest,C82,0.026,0.026
+2235,Banks_interest,D82,0.02446,0.02446
+2236,Banks_interest,E82,0.02446,0.02446
+2237,Banks_interest,A83,العربي الوطني,العربي الوطني
+2238,Banks_interest,B83,8,8
+2239,Banks_interest,C83,0.0265,0.0265
+2240,Banks_interest,D83,0.02514,0.02514
+2241,Banks_interest,E83,0.02514,0.02514
+2242,Banks_interest,A84,العربي الوطني,العربي الوطني
+2243,Banks_interest,B84,9,9
+2244,Banks_interest,C84,0.027,0.027
+2245,Banks_interest,D84,0.02582,0.02582
+2246,Banks_interest,E84,0.02582,0.02582
+2247,Banks_interest,A85,العربي الوطني,العربي الوطني
+2248,Banks_interest,B85,10,10
+2249,Banks_interest,C85,0.0275,0.0275
+2250,Banks_interest,D85,0.0265,0.0265
+2251,Banks_interest,E85,0.0265,0.0265
+2252,Banks_interest,A86,العربي الوطني,العربي الوطني
+2253,Banks_interest,B86,11,11
+2254,Banks_interest,C86,0.028,0.028
+2255,Banks_interest,D86,0.02718,0.02718
+2256,Banks_interest,E86,0.02718,0.02718
+2257,Banks_interest,A87,العربي الوطني,العربي الوطني
+2258,Banks_interest,B87,12,12
+2259,Banks_interest,C87,0.0285,0.0285
+2260,Banks_interest,D87,0.02786,0.02786
+2261,Banks_interest,E87,0.02786,0.02786
+2262,Banks_interest,A88,العربي الوطني,العربي الوطني
+2263,Banks_interest,B88,13,13
+2264,Banks_interest,C88,0.029,0.029
+2265,Banks_interest,D88,0.02854,0.02854
+2266,Banks_interest,E88,0.02854,0.02854
+2267,Banks_interest,A89,العربي الوطني,العربي الوطني
+2268,Banks_interest,B89,14,14
+2269,Banks_interest,C89,0.029500000000000002,0.029500000000000002
+2270,Banks_interest,D89,0.02922,0.02922
+2271,Banks_interest,E89,0.02922,0.02922
+2272,Banks_interest,A90,العربي الوطني,العربي الوطني
+2273,Banks_interest,B90,15,15
+2274,Banks_interest,C90,0.03,0.03
+2275,Banks_interest,D90,0.0299,0.0299
+2276,Banks_interest,E90,0.0299,0.0299
+2277,Banks_interest,A91,العربي الوطني,العربي الوطني
+2278,Banks_interest,B91,16,16
+2279,Banks_interest,C91,0.0305,0.0305
+2280,Banks_interest,D91,0.0305,0.0305
+2281,Banks_interest,E91,0.0305,0.0305
+2282,Banks_interest,A92,العربي الوطني,العربي الوطني
+2283,Banks_interest,B92,17,17
+2284,Banks_interest,C92,0.031,0.031
+2285,Banks_interest,D92,0.0311,0.0311
+2286,Banks_interest,E92,0.0311,0.0311
+2287,Banks_interest,A93,العربي الوطني,العربي الوطني
+2288,Banks_interest,B93,18,18
+2289,Banks_interest,C93,0.0315,0.0315
+2290,Banks_interest,D93,0.0317,0.0317
+2291,Banks_interest,E93,0.0317,0.0317
+2292,Banks_interest,A94,العربي الوطني,العربي الوطني
+2293,Banks_interest,B94,19,19
+2294,Banks_interest,C94,0.032,0.032
+2295,Banks_interest,D94,0.032299999999999995,0.032299999999999995
+2296,Banks_interest,E94,0.032299999999999995,0.032299999999999995
+2297,Banks_interest,A95,العربي الوطني,العربي الوطني
+2298,Banks_interest,B95,20,20
+2299,Banks_interest,C95,0.0325,0.0325
+2300,Banks_interest,D95,0.0329,0.0329
+2301,Banks_interest,E95,0.0329,0.0329
+2302,Banks_interest,A96,العربي الوطني,العربي الوطني
+2303,Banks_interest,B96,21,21
+2304,Banks_interest,C96,0.033,0.033
+2305,Banks_interest,D96,0.03342,0.03342
+2306,Banks_interest,E96,0.03342,0.03342
+2307,Banks_interest,A97,العربي الوطني,العربي الوطني
+2308,Banks_interest,B97,22,22
+2309,Banks_interest,C97,0.0335,0.0335
+2310,Banks_interest,D97,0.03394,0.03394
+2311,Banks_interest,E97,0.03394,0.03394
+2312,Banks_interest,A98,العربي الوطني,العربي الوطني
+2313,Banks_interest,B98,23,23
+2314,Banks_interest,C98,0.034,0.034
+2315,Banks_interest,D98,0.03446,0.03446
+2316,Banks_interest,E98,0.03446,0.03446
+2317,Banks_interest,A99,العربي الوطني,العربي الوطني
+2318,Banks_interest,B99,24,24
+2319,Banks_interest,C99,0.0345,0.0345
+2320,Banks_interest,D99,0.03498,0.03498
+2321,Banks_interest,E99,0.03498,0.03498
+2322,Banks_interest,A100,العربي الوطني,العربي الوطني
+2323,Banks_interest,B100,25,25
+2324,Banks_interest,C100,0.035,0.035
+2325,Banks_interest,D100,0.0355,0.0355
+2326,Banks_interest,E100,0.0355,0.0355
+2327,Banks_interest,A101,العربي الوطني,العربي الوطني
+2328,Banks_interest,B101,26,26
+2329,Banks_interest,C101,0.0356,0.0356
+2330,Banks_interest,D101,0.0355,0.0355
+2331,Banks_interest,E101,0.0355,0.0355
+2332,Banks_interest,A102,العربي الوطني,العربي الوطني
+2333,Banks_interest,B102,27,27
+2334,Banks_interest,C102,0.036199999999999996,0.036199999999999996
+2335,Banks_interest,D102,0.0355,0.0355
+2336,Banks_interest,E102,0.0355,0.0355
+2337,Banks_interest,A103,العربي الوطني,العربي الوطني
+2338,Banks_interest,B103,28,28
+2339,Banks_interest,C103,0.03679999999999999,0.03679999999999999
+2340,Banks_interest,D103,0.0355,0.0355
+2341,Banks_interest,E103,0.0355,0.0355
+2342,Banks_interest,A104,العربي الوطني,العربي الوطني
+2343,Banks_interest,B104,29,29
+2344,Banks_interest,C104,0.03739999999999999,0.03739999999999999
+2345,Banks_interest,D104,0.0355,0.0355
+2346,Banks_interest,E104,0.0355,0.0355
+2347,Banks_interest,A105,العربي الوطني,العربي الوطني
+2348,Banks_interest,B105,30,30
+2349,Banks_interest,C105,0.038,0.038
+2350,Banks_interest,D105,0.0355,0.0355
+2351,Banks_interest,E105,0.0355,0.0355
+2352,Banks_interest,A106,الانماء,الانماء
+2353,Banks_interest,B106,5,5
+2354,Banks_interest,C106,0.024999999999999998,0.024999999999999998
+2355,Banks_interest,D106,0.0231,0.0231
+2356,Banks_interest,E106,0.0231,0.0231
+2357,Banks_interest,A107,الانماء,الانماء
+2358,Banks_interest,B107,6,6
+2359,Banks_interest,C107,0.0255,0.0255
+2360,Banks_interest,D107,0.02378,0.02378
+2361,Banks_interest,E107,0.02378,0.02378
+2362,Banks_interest,A108,الانماء,الانماء
+2363,Banks_interest,B108,7,7
+2364,Banks_interest,C108,0.026,0.026
+2365,Banks_interest,D108,0.02446,0.02446
+2366,Banks_interest,E108,0.02446,0.02446
+2367,Banks_interest,A109,الانماء,الانماء
+2368,Banks_interest,B109,8,8
+2369,Banks_interest,C109,0.0265,0.0265
+2370,Banks_interest,D109,0.02514,0.02514
+2371,Banks_interest,E109,0.02514,0.02514
+2372,Banks_interest,A110,الانماء,الانماء
+2373,Banks_interest,B110,9,9
+2374,Banks_interest,C110,0.027,0.027
+2375,Banks_interest,D110,0.02582,0.02582
+2376,Banks_interest,E110,0.02582,0.02582
+2377,Banks_interest,A111,الانماء,الانماء
+2378,Banks_interest,B111,10,10
+2379,Banks_interest,C111,0.0275,0.0275
+2380,Banks_interest,D111,0.0265,0.0265
+2381,Banks_interest,E111,0.0265,0.0265
+2382,Banks_interest,A112,الانماء,الانماء
+2383,Banks_interest,B112,11,11
+2384,Banks_interest,C112,0.028,0.028
+2385,Banks_interest,D112,0.02718,0.02718
+2386,Banks_interest,E112,0.02718,0.02718
+2387,Banks_interest,A113,الانماء,الانماء
+2388,Banks_interest,B113,12,12
+2389,Banks_interest,C113,0.0285,0.0285
+2390,Banks_interest,D113,0.02786,0.02786
+2391,Banks_interest,E113,0.02786,0.02786
+2392,Banks_interest,A114,الانماء,الانماء
+2393,Banks_interest,B114,13,13
+2394,Banks_interest,C114,0.029,0.029
+2395,Banks_interest,D114,0.02854,0.02854
+2396,Banks_interest,E114,0.02854,0.02854
+2397,Banks_interest,A115,الانماء,الانماء
+2398,Banks_interest,B115,14,14
+2399,Banks_interest,C115,0.029500000000000002,0.029500000000000002
+2400,Banks_interest,D115,0.02922,0.02922
+2401,Banks_interest,E115,0.02922,0.02922
+2402,Banks_interest,A116,الانماء,الانماء
+2403,Banks_interest,B116,15,15
+2404,Banks_interest,C116,0.03,0.03
+2405,Banks_interest,D116,0.0299,0.0299
+2406,Banks_interest,E116,0.0299,0.0299
+2407,Banks_interest,A117,الانماء,الانماء
+2408,Banks_interest,B117,16,16
+2409,Banks_interest,C117,0.0305,0.0305
+2410,Banks_interest,D117,0.0305,0.0305
+2411,Banks_interest,E117,0.0305,0.0305
+2412,Banks_interest,A118,الانماء,الانماء
+2413,Banks_interest,B118,17,17
+2414,Banks_interest,C118,0.031,0.031
+2415,Banks_interest,D118,0.0311,0.0311
+2416,Banks_interest,E118,0.0311,0.0311
+2417,Banks_interest,A119,الانماء,الانماء
+2418,Banks_interest,B119,18,18
+2419,Banks_interest,C119,0.0315,0.0315
+2420,Banks_interest,D119,0.0317,0.0317
+2421,Banks_interest,E119,0.0317,0.0317
+2422,Banks_interest,A120,الانماء,الانماء
+2423,Banks_interest,B120,19,19
+2424,Banks_interest,C120,0.032,0.032
+2425,Banks_interest,D120,0.032299999999999995,0.032299999999999995
+2426,Banks_interest,E120,0.032299999999999995,0.032299999999999995
+2427,Banks_interest,A121,الانماء,الانماء
+2428,Banks_interest,B121,20,20
+2429,Banks_interest,C121,0.0325,0.0325
+2430,Banks_interest,D121,0.0329,0.0329
+2431,Banks_interest,E121,0.0329,0.0329
+2432,Banks_interest,A122,الانماء,الانماء
+2433,Banks_interest,B122,21,21
+2434,Banks_interest,C122,0.033,0.033
+2435,Banks_interest,D122,0.03342,0.03342
+2436,Banks_interest,E122,0.03342,0.03342
+2437,Banks_interest,A123,الانماء,الانماء
+2438,Banks_interest,B123,22,22
+2439,Banks_interest,C123,0.0335,0.0335
+2440,Banks_interest,D123,0.03394,0.03394
+2441,Banks_interest,E123,0.03394,0.03394
+2442,Banks_interest,A124,الانماء,الانماء
+2443,Banks_interest,B124,23,23
+2444,Banks_interest,C124,0.034,0.034
+2445,Banks_interest,D124,0.03446,0.03446
+2446,Banks_interest,E124,0.03446,0.03446
+2447,Banks_interest,A125,الانماء,الانماء
+2448,Banks_interest,B125,24,24
+2449,Banks_interest,C125,0.0345,0.0345
+2450,Banks_interest,D125,0.03498,0.03498
+2451,Banks_interest,E125,0.03498,0.03498
+2452,Banks_interest,A126,الانماء,الانماء
+2453,Banks_interest,B126,25,25
+2454,Banks_interest,C126,0.035,0.035
+2455,Banks_interest,D126,0.0355,0.0355
+2456,Banks_interest,E126,0.0355,0.0355
+2457,Banks_interest,A127,الانماء,الانماء
+2458,Banks_interest,B127,26,26
+2459,Banks_interest,C127,0.0356,0.0356
+2460,Banks_interest,D127,0.0355,0.0355
+2461,Banks_interest,E127,0.0355,0.0355
+2462,Banks_interest,A128,الانماء,الانماء
+2463,Banks_interest,B128,27,27
+2464,Banks_interest,C128,0.036199999999999996,0.036199999999999996
+2465,Banks_interest,D128,0.0355,0.0355
+2466,Banks_interest,E128,0.0355,0.0355
+2467,Banks_interest,A129,الانماء,الانماء
+2468,Banks_interest,B129,28,28
+2469,Banks_interest,C129,0.03679999999999999,0.03679999999999999
+2470,Banks_interest,D129,0.0355,0.0355
+2471,Banks_interest,E129,0.0355,0.0355
+2472,Banks_interest,A130,الانماء,الانماء
+2473,Banks_interest,B130,29,29
+2474,Banks_interest,C130,0.03739999999999999,0.03739999999999999
+2475,Banks_interest,D130,0.0355,0.0355
+2476,Banks_interest,E130,0.0355,0.0355
+2477,Banks_interest,A131,الانماء,الانماء
+2478,Banks_interest,B131,30,30
+2479,Banks_interest,C131,0.038,0.038
+2480,Banks_interest,D131,0.0355,0.0355
+2481,Banks_interest,E131,0.0355,0.0355
+2482,Banks_interest,A132,السعودي للاستثمار,السعودي للاستثمار
+2483,Banks_interest,B132,5,5
+2484,Banks_interest,C132,0.024999999999999998,0.024999999999999998
+2485,Banks_interest,D132,0.0231,0.0231
+2486,Banks_interest,E132,0.0231,0.0231
+2487,Banks_interest,A133,السعودي للاستثمار,السعودي للاستثمار
+2488,Banks_interest,B133,6,6
+2489,Banks_interest,C133,0.0255,0.0255
+2490,Banks_interest,D133,0.02378,0.02378
+2491,Banks_interest,E133,0.02378,0.02378
+2492,Banks_interest,A134,السعودي للاستثمار,السعودي للاستثمار
+2493,Banks_interest,B134,7,7
+2494,Banks_interest,C134,0.026,0.026
+2495,Banks_interest,D134,0.02446,0.02446
+2496,Banks_interest,E134,0.02446,0.02446
+2497,Banks_interest,A135,السعودي للاستثمار,السعودي للاستثمار
+2498,Banks_interest,B135,8,8
+2499,Banks_interest,C135,0.0265,0.0265
+2500,Banks_interest,D135,0.02514,0.02514
+2501,Banks_interest,E135,0.02514,0.02514
+2502,Banks_interest,A136,السعودي للاستثمار,السعودي للاستثمار
+2503,Banks_interest,B136,9,9
+2504,Banks_interest,C136,0.027,0.027
+2505,Banks_interest,D136,0.02582,0.02582
+2506,Banks_interest,E136,0.02582,0.02582
+2507,Banks_interest,A137,السعودي للاستثمار,السعودي للاستثمار
+2508,Banks_interest,B137,10,10
+2509,Banks_interest,C137,0.0275,0.0275
+2510,Banks_interest,D137,0.0265,0.0265
+2511,Banks_interest,E137,0.0265,0.0265
+2512,Banks_interest,A138,السعودي للاستثمار,السعودي للاستثمار
+2513,Banks_interest,B138,11,11
+2514,Banks_interest,C138,0.028,0.028
+2515,Banks_interest,D138,0.02718,0.02718
+2516,Banks_interest,E138,0.02718,0.02718
+2517,Banks_interest,A139,السعودي للاستثمار,السعودي للاستثمار
+2518,Banks_interest,B139,12,12
+2519,Banks_interest,C139,0.0285,0.0285
+2520,Banks_interest,D139,0.02786,0.02786
+2521,Banks_interest,E139,0.02786,0.02786
+2522,Banks_interest,A140,السعودي للاستثمار,السعودي للاستثمار
+2523,Banks_interest,B140,13,13
+2524,Banks_interest,C140,0.029,0.029
+2525,Banks_interest,D140,0.02854,0.02854
+2526,Banks_interest,E140,0.02854,0.02854
+2527,Banks_interest,A141,السعودي للاستثمار,السعودي للاستثمار
+2528,Banks_interest,B141,14,14
+2529,Banks_interest,C141,0.029500000000000002,0.029500000000000002
+2530,Banks_interest,D141,0.02922,0.02922
+2531,Banks_interest,E141,0.02922,0.02922
+2532,Banks_interest,A142,السعودي للاستثمار,السعودي للاستثمار
+2533,Banks_interest,B142,15,15
+2534,Banks_interest,C142,0.03,0.03
+2535,Banks_interest,D142,0.0299,0.0299
+2536,Banks_interest,E142,0.0299,0.0299
+2537,Banks_interest,A143,السعودي للاستثمار,السعودي للاستثمار
+2538,Banks_interest,B143,16,16
+2539,Banks_interest,C143,0.0305,0.0305
+2540,Banks_interest,D143,0.0305,0.0305
+2541,Banks_interest,E143,0.0305,0.0305
+2542,Banks_interest,A144,السعودي للاستثمار,السعودي للاستثمار
+2543,Banks_interest,B144,17,17
+2544,Banks_interest,C144,0.031,0.031
+2545,Banks_interest,D144,0.0311,0.0311
+2546,Banks_interest,E144,0.0311,0.0311
+2547,Banks_interest,A145,السعودي للاستثمار,السعودي للاستثمار
+2548,Banks_interest,B145,18,18
+2549,Banks_interest,C145,0.0315,0.0315
+2550,Banks_interest,D145,0.0317,0.0317
+2551,Banks_interest,E145,0.0317,0.0317
+2552,Banks_interest,A146,السعودي للاستثمار,السعودي للاستثمار
+2553,Banks_interest,B146,19,19
+2554,Banks_interest,C146,0.032,0.032
+2555,Banks_interest,D146,0.032299999999999995,0.032299999999999995
+2556,Banks_interest,E146,0.032299999999999995,0.032299999999999995
+2557,Banks_interest,A147,السعودي للاستثمار,السعودي للاستثمار
+2558,Banks_interest,B147,20,20
+2559,Banks_interest,C147,0.0325,0.0325
+2560,Banks_interest,D147,0.0329,0.0329
+2561,Banks_interest,E147,0.0329,0.0329
+2562,Banks_interest,A148,السعودي للاستثمار,السعودي للاستثمار
+2563,Banks_interest,B148,21,21
+2564,Banks_interest,C148,0.033,0.033
+2565,Banks_interest,D148,0.03342,0.03342
+2566,Banks_interest,E148,0.03342,0.03342
+2567,Banks_interest,A149,السعودي للاستثمار,السعودي للاستثمار
+2568,Banks_interest,B149,22,22
+2569,Banks_interest,C149,0.0335,0.0335
+2570,Banks_interest,D149,0.03394,0.03394
+2571,Banks_interest,E149,0.03394,0.03394
+2572,Banks_interest,A150,السعودي للاستثمار,السعودي للاستثمار
+2573,Banks_interest,B150,23,23
+2574,Banks_interest,C150,0.034,0.034
+2575,Banks_interest,D150,0.03446,0.03446
+2576,Banks_interest,E150,0.03446,0.03446
+2577,Banks_interest,A151,السعودي للاستثمار,السعودي للاستثمار
+2578,Banks_interest,B151,24,24
+2579,Banks_interest,C151,0.0345,0.0345
+2580,Banks_interest,D151,0.03498,0.03498
+2581,Banks_interest,E151,0.03498,0.03498
+2582,Banks_interest,A152,السعودي للاستثمار,السعودي للاستثمار
+2583,Banks_interest,B152,25,25
+2584,Banks_interest,C152,0.035,0.035
+2585,Banks_interest,D152,0.0355,0.0355
+2586,Banks_interest,E152,0.0355,0.0355
+2587,Banks_interest,A153,السعودي للاستثمار,السعودي للاستثمار
+2588,Banks_interest,B153,26,26
+2589,Banks_interest,C153,0.0356,0.0356
+2590,Banks_interest,D153,0.0355,0.0355
+2591,Banks_interest,E153,0.0355,0.0355
+2592,Banks_interest,A154,السعودي للاستثمار,السعودي للاستثمار
+2593,Banks_interest,B154,27,27
+2594,Banks_interest,C154,0.036199999999999996,0.036199999999999996
+2595,Banks_interest,D154,0.0355,0.0355
+2596,Banks_interest,E154,0.0355,0.0355
+2597,Banks_interest,A155,السعودي للاستثمار,السعودي للاستثمار
+2598,Banks_interest,B155,28,28
+2599,Banks_interest,C155,0.03679999999999999,0.03679999999999999
+2600,Banks_interest,D155,0.0355,0.0355
+2601,Banks_interest,E155,0.0355,0.0355
+2602,Banks_interest,A156,السعودي للاستثمار,السعودي للاستثمار
+2603,Banks_interest,B156,29,29
+2604,Banks_interest,C156,0.03739999999999999,0.03739999999999999
+2605,Banks_interest,D156,0.0355,0.0355
+2606,Banks_interest,E156,0.0355,0.0355
+2607,Banks_interest,A157,السعودي للاستثمار,السعودي للاستثمار
+2608,Banks_interest,B157,30,30
+2609,Banks_interest,C157,0.038,0.038
+2610,Banks_interest,D157,0.0355,0.0355
+2611,Banks_interest,E157,0.0355,0.0355
+2612,Banks_interest,A158,البلاد,البلاد
+2613,Banks_interest,B158,5,5
+2614,Banks_interest,C158,0.024999999999999998,0.024999999999999998
+2615,Banks_interest,D158,0.0231,0.0231
+2616,Banks_interest,E158,0.0231,0.0231
+2617,Banks_interest,A159,البلاد,البلاد
+2618,Banks_interest,B159,6,6
+2619,Banks_interest,C159,0.0255,0.0255
+2620,Banks_interest,D159,0.02378,0.02378
+2621,Banks_interest,E159,0.02378,0.02378
+2622,Banks_interest,A160,البلاد,البلاد
+2623,Banks_interest,B160,7,7
+2624,Banks_interest,C160,0.026,0.026
+2625,Banks_interest,D160,0.02446,0.02446
+2626,Banks_interest,E160,0.02446,0.02446
+2627,Banks_interest,A161,البلاد,البلاد
+2628,Banks_interest,B161,8,8
+2629,Banks_interest,C161,0.0265,0.0265
+2630,Banks_interest,D161,0.02514,0.02514
+2631,Banks_interest,E161,0.02514,0.02514
+2632,Banks_interest,A162,البلاد,البلاد
+2633,Banks_interest,B162,9,9
+2634,Banks_interest,C162,0.027,0.027
+2635,Banks_interest,D162,0.02582,0.02582
+2636,Banks_interest,E162,0.02582,0.02582
+2637,Banks_interest,A163,البلاد,البلاد
+2638,Banks_interest,B163,10,10
+2639,Banks_interest,C163,0.0275,0.0275
+2640,Banks_interest,D163,0.0265,0.0265
+2641,Banks_interest,E163,0.0265,0.0265
+2642,Banks_interest,A164,البلاد,البلاد
+2643,Banks_interest,B164,11,11
+2644,Banks_interest,C164,0.028,0.028
+2645,Banks_interest,D164,0.02718,0.02718
+2646,Banks_interest,E164,0.02718,0.02718
+2647,Banks_interest,A165,البلاد,البلاد
+2648,Banks_interest,B165,12,12
+2649,Banks_interest,C165,0.0285,0.0285
+2650,Banks_interest,D165,0.02786,0.02786
+2651,Banks_interest,E165,0.02786,0.02786
+2652,Banks_interest,A166,البلاد,البلاد
+2653,Banks_interest,B166,13,13
+2654,Banks_interest,C166,0.029,0.029
+2655,Banks_interest,D166,0.02854,0.02854
+2656,Banks_interest,E166,0.02854,0.02854
+2657,Banks_interest,A167,البلاد,البلاد
+2658,Banks_interest,B167,14,14
+2659,Banks_interest,C167,0.029500000000000002,0.029500000000000002
+2660,Banks_interest,D167,0.02922,0.02922
+2661,Banks_interest,E167,0.02922,0.02922
+2662,Banks_interest,A168,البلاد,البلاد
+2663,Banks_interest,B168,15,15
+2664,Banks_interest,C168,0.03,0.03
+2665,Banks_interest,D168,0.0299,0.0299
+2666,Banks_interest,E168,0.0299,0.0299
+2667,Banks_interest,A169,البلاد,البلاد
+2668,Banks_interest,B169,16,16
+2669,Banks_interest,C169,0.0305,0.0305
+2670,Banks_interest,D169,0.0305,0.0305
+2671,Banks_interest,E169,0.0305,0.0305
+2672,Banks_interest,A170,البلاد,البلاد
+2673,Banks_interest,B170,17,17
+2674,Banks_interest,C170,0.031,0.031
+2675,Banks_interest,D170,0.0311,0.0311
+2676,Banks_interest,E170,0.0311,0.0311
+2677,Banks_interest,A171,البلاد,البلاد
+2678,Banks_interest,B171,18,18
+2679,Banks_interest,C171,0.0315,0.0315
+2680,Banks_interest,D171,0.0317,0.0317
+2681,Banks_interest,E171,0.0317,0.0317
+2682,Banks_interest,A172,البلاد,البلاد
+2683,Banks_interest,B172,19,19
+2684,Banks_interest,C172,0.032,0.032
+2685,Banks_interest,D172,0.032299999999999995,0.032299999999999995
+2686,Banks_interest,E172,0.032299999999999995,0.032299999999999995
+2687,Banks_interest,A173,البلاد,البلاد
+2688,Banks_interest,B173,20,20
+2689,Banks_interest,C173,0.0325,0.0325
+2690,Banks_interest,D173,0.0329,0.0329
+2691,Banks_interest,E173,0.0329,0.0329
+2692,Banks_interest,A174,البلاد,البلاد
+2693,Banks_interest,B174,21,21
+2694,Banks_interest,C174,0.033,0.033
+2695,Banks_interest,D174,0.03342,0.03342
+2696,Banks_interest,E174,0.03342,0.03342
+2697,Banks_interest,A175,البلاد,البلاد
+2698,Banks_interest,B175,22,22
+2699,Banks_interest,C175,0.0335,0.0335
+2700,Banks_interest,D175,0.03394,0.03394
+2701,Banks_interest,E175,0.03394,0.03394
+2702,Banks_interest,A176,البلاد,البلاد
+2703,Banks_interest,B176,23,23
+2704,Banks_interest,C176,0.034,0.034
+2705,Banks_interest,D176,0.03446,0.03446
+2706,Banks_interest,E176,0.03446,0.03446
+2707,Banks_interest,A177,البلاد,البلاد
+2708,Banks_interest,B177,24,24
+2709,Banks_interest,C177,0.0345,0.0345
+2710,Banks_interest,D177,0.03498,0.03498
+2711,Banks_interest,E177,0.03498,0.03498
+2712,Banks_interest,A178,البلاد,البلاد
+2713,Banks_interest,B178,25,25
+2714,Banks_interest,C178,0.035,0.035
+2715,Banks_interest,D178,0.0355,0.0355
+2716,Banks_interest,E178,0.0355,0.0355
+2717,Banks_interest,A179,البلاد,البلاد
+2718,Banks_interest,B179,26,26
+2719,Banks_interest,C179,0.0356,0.0356
+2720,Banks_interest,D179,0.0355,0.0355
+2721,Banks_interest,E179,0.0355,0.0355
+2722,Banks_interest,A180,البلاد,البلاد
+2723,Banks_interest,B180,27,27
+2724,Banks_interest,C180,0.036199999999999996,0.036199999999999996
+2725,Banks_interest,D180,0.0355,0.0355
+2726,Banks_interest,E180,0.0355,0.0355
+2727,Banks_interest,A181,البلاد,البلاد
+2728,Banks_interest,B181,28,28
+2729,Banks_interest,C181,0.03679999999999999,0.03679999999999999
+2730,Banks_interest,D181,0.0355,0.0355
+2731,Banks_interest,E181,0.0355,0.0355
+2732,Banks_interest,A182,البلاد,البلاد
+2733,Banks_interest,B182,29,29
+2734,Banks_interest,C182,0.03739999999999999,0.03739999999999999
+2735,Banks_interest,D182,0.0355,0.0355
+2736,Banks_interest,E182,0.0355,0.0355
+2737,Banks_interest,A183,البلاد,البلاد
+2738,Banks_interest,B183,30,30
+2739,Banks_interest,C183,0.038,0.038
+2740,Banks_interest,D183,0.0355,0.0355
+2741,Banks_interest,E183,0.0355,0.0355
+2742,Banks_interest,A184,السعودي البريطاني,السعودي البريطاني
+2743,Banks_interest,B184,5,5
+2744,Banks_interest,C184,0.024999999999999998,0.024999999999999998
+2745,Banks_interest,D184,0.0231,0.0231
+2746,Banks_interest,E184,0.0231,0.0231
+2747,Banks_interest,A185,السعودي البريطاني,السعودي البريطاني
+2748,Banks_interest,B185,6,6
+2749,Banks_interest,C185,0.0255,0.0255
+2750,Banks_interest,D185,0.02378,0.02378
+2751,Banks_interest,E185,0.02378,0.02378
+2752,Banks_interest,A186,السعودي البريطاني,السعودي البريطاني
+2753,Banks_interest,B186,7,7
+2754,Banks_interest,C186,0.026,0.026
+2755,Banks_interest,D186,0.02446,0.02446
+2756,Banks_interest,E186,0.02446,0.02446
+2757,Banks_interest,A187,السعودي البريطاني,السعودي البريطاني
+2758,Banks_interest,B187,8,8
+2759,Banks_interest,C187,0.0265,0.0265
+2760,Banks_interest,D187,0.02514,0.02514
+2761,Banks_interest,E187,0.02514,0.02514
+2762,Banks_interest,A188,السعودي البريطاني,السعودي البريطاني
+2763,Banks_interest,B188,9,9
+2764,Banks_interest,C188,0.027,0.027
+2765,Banks_interest,D188,0.02582,0.02582
+2766,Banks_interest,E188,0.02582,0.02582
+2767,Banks_interest,A189,السعودي البريطاني,السعودي البريطاني
+2768,Banks_interest,B189,10,10
+2769,Banks_interest,C189,0.0275,0.0275
+2770,Banks_interest,D189,0.0265,0.0265
+2771,Banks_interest,E189,0.0265,0.0265
+2772,Banks_interest,A190,السعودي البريطاني,السعودي البريطاني
+2773,Banks_interest,B190,11,11
+2774,Banks_interest,C190,0.028,0.028
+2775,Banks_interest,D190,0.02718,0.02718
+2776,Banks_interest,E190,0.02718,0.02718
+2777,Banks_interest,A191,السعودي البريطاني,السعودي البريطاني
+2778,Banks_interest,B191,12,12
+2779,Banks_interest,C191,0.0285,0.0285
+2780,Banks_interest,D191,0.02786,0.02786
+2781,Banks_interest,E191,0.02786,0.02786
+2782,Banks_interest,A192,السعودي البريطاني,السعودي البريطاني
+2783,Banks_interest,B192,13,13
+2784,Banks_interest,C192,0.029,0.029
+2785,Banks_interest,D192,0.02854,0.02854
+2786,Banks_interest,E192,0.02854,0.02854
+2787,Banks_interest,A193,السعودي البريطاني,السعودي البريطاني
+2788,Banks_interest,B193,14,14
+2789,Banks_interest,C193,0.029500000000000002,0.029500000000000002
+2790,Banks_interest,D193,0.02922,0.02922
+2791,Banks_interest,E193,0.02922,0.02922
+2792,Banks_interest,A194,السعودي البريطاني,السعودي البريطاني
+2793,Banks_interest,B194,15,15
+2794,Banks_interest,C194,0.03,0.03
+2795,Banks_interest,D194,0.0299,0.0299
+2796,Banks_interest,E194,0.0299,0.0299
+2797,Banks_interest,A195,السعودي البريطاني,السعودي البريطاني
+2798,Banks_interest,B195,16,16
+2799,Banks_interest,C195,0.0305,0.0305
+2800,Banks_interest,D195,0.0305,0.0305
+2801,Banks_interest,E195,0.0305,0.0305
+2802,Banks_interest,A196,السعودي البريطاني,السعودي البريطاني
+2803,Banks_interest,B196,17,17
+2804,Banks_interest,C196,0.031,0.031
+2805,Banks_interest,D196,0.0311,0.0311
+2806,Banks_interest,E196,0.0311,0.0311
+2807,Banks_interest,A197,السعودي البريطاني,السعودي البريطاني
+2808,Banks_interest,B197,18,18
+2809,Banks_interest,C197,0.0315,0.0315
+2810,Banks_interest,D197,0.0317,0.0317
+2811,Banks_interest,E197,0.0317,0.0317
+2812,Banks_interest,A198,السعودي البريطاني,السعودي البريطاني
+2813,Banks_interest,B198,19,19
+2814,Banks_interest,C198,0.032,0.032
+2815,Banks_interest,D198,0.032299999999999995,0.032299999999999995
+2816,Banks_interest,E198,0.032299999999999995,0.032299999999999995
+2817,Banks_interest,A199,السعودي البريطاني,السعودي البريطاني
+2818,Banks_interest,B199,20,20
+2819,Banks_interest,C199,0.0325,0.0325
+2820,Banks_interest,D199,0.0329,0.0329
+2821,Banks_interest,E199,0.0329,0.0329
+2822,Banks_interest,A200,السعودي البريطاني,السعودي البريطاني
+2823,Banks_interest,B200,21,21
+2824,Banks_interest,C200,0.033,0.033
+2825,Banks_interest,D200,0.03342,0.03342
+2826,Banks_interest,E200,0.03342,0.03342
+2827,Banks_interest,A201,السعودي البريطاني,السعودي البريطاني
+2828,Banks_interest,B201,22,22
+2829,Banks_interest,C201,0.0335,0.0335
+2830,Banks_interest,D201,0.03394,0.03394
+2831,Banks_interest,E201,0.03394,0.03394
+2832,Banks_interest,A202,السعودي البريطاني,السعودي البريطاني
+2833,Banks_interest,B202,23,23
+2834,Banks_interest,C202,0.034,0.034
+2835,Banks_interest,D202,0.03446,0.03446
+2836,Banks_interest,E202,0.03446,0.03446
+2837,Banks_interest,A203,السعودي البريطاني,السعودي البريطاني
+2838,Banks_interest,B203,24,24
+2839,Banks_interest,C203,0.0345,0.0345
+2840,Banks_interest,D203,0.03498,0.03498
+2841,Banks_interest,E203,0.03498,0.03498
+2842,Banks_interest,A204,السعودي البريطاني,السعودي البريطاني
+2843,Banks_interest,B204,25,25
+2844,Banks_interest,C204,0.035,0.035
+2845,Banks_interest,D204,0.0355,0.0355
+2846,Banks_interest,E204,0.0355,0.0355
+2847,Banks_interest,A205,السعودي البريطاني,السعودي البريطاني
+2848,Banks_interest,B205,26,26
+2849,Banks_interest,C205,0.0356,0.0356
+2850,Banks_interest,D205,0.0355,0.0355
+2851,Banks_interest,E205,0.0355,0.0355
+2852,Banks_interest,A206,السعودي البريطاني,السعودي البريطاني
+2853,Banks_interest,B206,27,27
+2854,Banks_interest,C206,0.036199999999999996,0.036199999999999996
+2855,Banks_interest,D206,0.0355,0.0355
+2856,Banks_interest,E206,0.0355,0.0355
+2857,Banks_interest,A207,السعودي البريطاني,السعودي البريطاني
+2858,Banks_interest,B207,28,28
+2859,Banks_interest,C207,0.03679999999999999,0.03679999999999999
+2860,Banks_interest,D207,0.0355,0.0355
+2861,Banks_interest,E207,0.0355,0.0355
+2862,Banks_interest,A208,السعودي البريطاني,السعودي البريطاني
+2863,Banks_interest,B208,29,29
+2864,Banks_interest,C208,0.03739999999999999,0.03739999999999999
+2865,Banks_interest,D208,0.0355,0.0355
+2866,Banks_interest,E208,0.0355,0.0355
+2867,Banks_interest,A209,السعودي البريطاني,السعودي البريطاني
+2868,Banks_interest,B209,30,30
+2869,Banks_interest,C209,0.038,0.038
+2870,Banks_interest,D209,0.0355,0.0355
+2871,Banks_interest,E209,0.0355,0.0355
+2872,Banks_interest,A210,الجزيرة,الجزيرة
+2873,Banks_interest,B210,5,5
+2874,Banks_interest,C210,0.0275,0.0275
+2875,Banks_interest,D210,0.0275,0.0275
+2876,Banks_interest,E210,0.0275,0.0275
+2877,Banks_interest,A211,الجزيرة,الجزيرة
+2878,Banks_interest,B211,6,6
+2879,Banks_interest,C211,0.0289,0.0289
+2880,Banks_interest,D211,0.0289,0.0289
+2881,Banks_interest,E211,0.0289,0.0289
+2882,Banks_interest,A212,الجزيرة,الجزيرة
+2883,Banks_interest,B212,7,7
+2884,Banks_interest,C212,0.0289,0.0289
+2885,Banks_interest,D212,0.0289,0.0289
+2886,Banks_interest,E212,0.0289,0.0289
+2887,Banks_interest,A213,الجزيرة,الجزيرة
+2888,Banks_interest,B213,8,8
+2889,Banks_interest,C213,0.0289,0.0289
+2890,Banks_interest,D213,0.0289,0.0289
+2891,Banks_interest,E213,0.0289,0.0289
+2892,Banks_interest,A214,الجزيرة,الجزيرة
+2893,Banks_interest,B214,9,9
+2894,Banks_interest,C214,0.0289,0.0289
+2895,Banks_interest,D214,0.0289,0.0289
+2896,Banks_interest,E214,0.0289,0.0289
+2897,Banks_interest,A215,الجزيرة,الجزيرة
+2898,Banks_interest,B215,10,10
+2899,Banks_interest,C215,0.0289,0.0289
+2900,Banks_interest,D215,0.0289,0.0289
+2901,Banks_interest,E215,0.0289,0.0289
+2902,Banks_interest,A216,الجزيرة,الجزيرة
+2903,Banks_interest,B216,11,11
+2904,Banks_interest,C216,0.0315,0.0315
+2905,Banks_interest,D216,0.0315,0.0315
+2906,Banks_interest,E216,0.0315,0.0315
+2907,Banks_interest,A217,الجزيرة,الجزيرة
+2908,Banks_interest,B217,12,12
+2909,Banks_interest,C217,0.0315,0.0315
+2910,Banks_interest,D217,0.0315,0.0315
+2911,Banks_interest,E217,0.0315,0.0315
+2912,Banks_interest,A218,الجزيرة,الجزيرة
+2913,Banks_interest,B218,13,13
+2914,Banks_interest,C218,0.032,0.032
+2915,Banks_interest,D218,0.032,0.032
+2916,Banks_interest,E218,0.032,0.032
+2917,Banks_interest,A219,الجزيرة,الجزيرة
+2918,Banks_interest,B219,14,14
+2919,Banks_interest,C219,0.0325,0.0325
+2920,Banks_interest,D219,0.0325,0.0325
+2921,Banks_interest,E219,0.0325,0.0325
+2922,Banks_interest,A220,الجزيرة,الجزيرة
+2923,Banks_interest,B220,15,15
+2924,Banks_interest,C220,0.0325,0.0325
+2925,Banks_interest,D220,0.0325,0.0325
+2926,Banks_interest,E220,0.0325,0.0325
+2927,Banks_interest,A221,الجزيرة,الجزيرة
+2928,Banks_interest,B221,16,16
+2929,Banks_interest,C221,0.0325,0.0325
+2930,Banks_interest,D221,0.0325,0.0325
+2931,Banks_interest,E221,0.0325,0.0325
+2932,Banks_interest,A222,الجزيرة,الجزيرة
+2933,Banks_interest,B222,17,17
+2934,Banks_interest,C222,0.0325,0.0325
+2935,Banks_interest,D222,0.0325,0.0325
+2936,Banks_interest,E222,0.0325,0.0325
+2937,Banks_interest,A223,الجزيرة,الجزيرة
+2938,Banks_interest,B223,18,18
+2939,Banks_interest,C223,0.0325,0.0325
+2940,Banks_interest,D223,0.0325,0.0325
+2941,Banks_interest,E223,0.0325,0.0325
+2942,Banks_interest,A224,الجزيرة,الجزيرة
+2943,Banks_interest,B224,19,19
+2944,Banks_interest,C224,0.0325,0.0325
+2945,Banks_interest,D224,0.0325,0.0325
+2946,Banks_interest,E224,0.0325,0.0325
+2947,Banks_interest,A225,الجزيرة,الجزيرة
+2948,Banks_interest,B225,20,20
+2949,Banks_interest,C225,0.0345,0.0345
+2950,Banks_interest,D225,0.0345,0.0345
+2951,Banks_interest,E225,0.0345,0.0345
+2952,Banks_interest,A226,الجزيرة,الجزيرة
+2953,Banks_interest,B226,21,21
+2954,Banks_interest,C226,0.0365,0.0365
+2955,Banks_interest,D226,0.0365,0.0365
+2956,Banks_interest,E226,0.0365,0.0365
+2957,Banks_interest,A227,الجزيرة,الجزيرة
+2958,Banks_interest,B227,22,22
+2959,Banks_interest,C227,0.0365,0.0365
+2960,Banks_interest,D227,0.0365,0.0365
+2961,Banks_interest,E227,0.0365,0.0365
+2962,Banks_interest,A228,الجزيرة,الجزيرة
+2963,Banks_interest,B228,23,23
+2964,Banks_interest,C228,0.0365,0.0365
+2965,Banks_interest,D228,0.0365,0.0365
+2966,Banks_interest,E228,0.0365,0.0365
+2967,Banks_interest,A229,الجزيرة,الجزيرة
+2968,Banks_interest,B229,24,24
+2969,Banks_interest,C229,0.0365,0.0365
+2970,Banks_interest,D229,0.0365,0.0365
+2971,Banks_interest,E229,0.0365,0.0365
+2972,Banks_interest,A230,الجزيرة,الجزيرة
+2973,Banks_interest,B230,25,25
+2974,Banks_interest,C230,0.0365,0.0365
+2975,Banks_interest,D230,0.0365,0.0365
+2976,Banks_interest,E230,0.0365,0.0365
+2977,Banks_interest,A231,الجزيرة,الجزيرة
+2978,Banks_interest,B231,26,26
+2979,Banks_interest,C231,0.04,0.04
+2980,Banks_interest,D231,0.04,0.04
+2981,Banks_interest,E231,0.04,0.04
+2982,Banks_interest,A232,الجزيرة,الجزيرة
+2983,Banks_interest,B232,27,27
+2984,Banks_interest,C232,0.0405,0.0405
+2985,Banks_interest,D232,0.0405,0.0405
+2986,Banks_interest,E232,0.0405,0.0405
+2987,Banks_interest,A233,الجزيرة,الجزيرة
+2988,Banks_interest,B233,28,28
+2989,Banks_interest,C233,0.041,0.041
+2990,Banks_interest,D233,0.041,0.041
+2991,Banks_interest,E233,0.041,0.041
+2992,Banks_interest,A234,الجزيرة,الجزيرة
+2993,Banks_interest,B234,29,29
+2994,Banks_interest,C234,0.0415,0.0415
+2995,Banks_interest,D234,0.0415,0.0415
+2996,Banks_interest,E234,0.0415,0.0415
+2997,Banks_interest,A235,الجزيرة,الجزيرة
+2998,Banks_interest,B235,30,30
+2999,Banks_interest,C235,0.0425,0.0425
+3000,Banks_interest,D235,0.0425,0.0425
+3001,Banks_interest,E235,0.0425,0.0425
+3002,Banks_interest,A236,السعودي الفرنسي,السعودي الفرنسي
+3003,Banks_interest,B236,5,5
+3004,Banks_interest,C236,0.024999999999999998,0.024999999999999998
+3005,Banks_interest,D236,0.0231,0.0231
+3006,Banks_interest,E236,0.0231,0.0231
+3007,Banks_interest,A237,السعودي الفرنسي,السعودي الفرنسي
+3008,Banks_interest,B237,6,6
+3009,Banks_interest,C237,0.0255,0.0255
+3010,Banks_interest,D237,0.02378,0.02378
+3011,Banks_interest,E237,0.02378,0.02378
+3012,Banks_interest,A238,السعودي الفرنسي,السعودي الفرنسي
+3013,Banks_interest,B238,7,7
+3014,Banks_interest,C238,0.026,0.026
+3015,Banks_interest,D238,0.02446,0.02446
+3016,Banks_interest,E238,0.02446,0.02446
+3017,Banks_interest,A239,السعودي الفرنسي,السعودي الفرنسي
+3018,Banks_interest,B239,8,8
+3019,Banks_interest,C239,0.0265,0.0265
+3020,Banks_interest,D239,0.02514,0.02514
+3021,Banks_interest,E239,0.02514,0.02514
+3022,Banks_interest,A240,السعودي الفرنسي,السعودي الفرنسي
+3023,Banks_interest,B240,9,9
+3024,Banks_interest,C240,0.027,0.027
+3025,Banks_interest,D240,0.02582,0.02582
+3026,Banks_interest,E240,0.02582,0.02582
+3027,Banks_interest,A241,السعودي الفرنسي,السعودي الفرنسي
+3028,Banks_interest,B241,10,10
+3029,Banks_interest,C241,0.0275,0.0275
+3030,Banks_interest,D241,0.0265,0.0265
+3031,Banks_interest,E241,0.0265,0.0265
+3032,Banks_interest,A242,السعودي الفرنسي,السعودي الفرنسي
+3033,Banks_interest,B242,11,11
+3034,Banks_interest,C242,0.028,0.028
+3035,Banks_interest,D242,0.02718,0.02718
+3036,Banks_interest,E242,0.02718,0.02718
+3037,Banks_interest,A243,السعودي الفرنسي,السعودي الفرنسي
+3038,Banks_interest,B243,12,12
+3039,Banks_interest,C243,0.0285,0.0285
+3040,Banks_interest,D243,0.02786,0.02786
+3041,Banks_interest,E243,0.02786,0.02786
+3042,Banks_interest,A244,السعودي الفرنسي,السعودي الفرنسي
+3043,Banks_interest,B244,13,13
+3044,Banks_interest,C244,0.029,0.029
+3045,Banks_interest,D244,0.02854,0.02854
+3046,Banks_interest,E244,0.02854,0.02854
+3047,Banks_interest,A245,السعودي الفرنسي,السعودي الفرنسي
+3048,Banks_interest,B245,14,14
+3049,Banks_interest,C245,0.029500000000000002,0.029500000000000002
+3050,Banks_interest,D245,0.02922,0.02922
+3051,Banks_interest,E245,0.02922,0.02922
+3052,Banks_interest,A246,السعودي الفرنسي,السعودي الفرنسي
+3053,Banks_interest,B246,15,15
+3054,Banks_interest,C246,0.03,0.03
+3055,Banks_interest,D246,0.0299,0.0299
+3056,Banks_interest,E246,0.0299,0.0299
+3057,Banks_interest,A247,السعودي الفرنسي,السعودي الفرنسي
+3058,Banks_interest,B247,16,16
+3059,Banks_interest,C247,0.0305,0.0305
+3060,Banks_interest,D247,0.0305,0.0305
+3061,Banks_interest,E247,0.0305,0.0305
+3062,Banks_interest,A248,السعودي الفرنسي,السعودي الفرنسي
+3063,Banks_interest,B248,17,17
+3064,Banks_interest,C248,0.031,0.031
+3065,Banks_interest,D248,0.0311,0.0311
+3066,Banks_interest,E248,0.0311,0.0311
+3067,Banks_interest,A249,السعودي الفرنسي,السعودي الفرنسي
+3068,Banks_interest,B249,18,18
+3069,Banks_interest,C249,0.0315,0.0315
+3070,Banks_interest,D249,0.0317,0.0317
+3071,Banks_interest,E249,0.0317,0.0317
+3072,Banks_interest,A250,السعودي الفرنسي,السعودي الفرنسي
+3073,Banks_interest,B250,19,19
+3074,Banks_interest,C250,0.032,0.032
+3075,Banks_interest,D250,0.032299999999999995,0.032299999999999995
+3076,Banks_interest,E250,0.032299999999999995,0.032299999999999995
+3077,Banks_interest,A251,السعودي الفرنسي,السعودي الفرنسي
+3078,Banks_interest,B251,20,20
+3079,Banks_interest,C251,0.0325,0.0325
+3080,Banks_interest,D251,0.0329,0.0329
+3081,Banks_interest,E251,0.0329,0.0329
+3082,Banks_interest,A252,السعودي الفرنسي,السعودي الفرنسي
+3083,Banks_interest,B252,21,21
+3084,Banks_interest,C252,0.033,0.033
+3085,Banks_interest,D252,0.03342,0.03342
+3086,Banks_interest,E252,0.03342,0.03342
+3087,Banks_interest,A253,السعودي الفرنسي,السعودي الفرنسي
+3088,Banks_interest,B253,22,22
+3089,Banks_interest,C253,0.0335,0.0335
+3090,Banks_interest,D253,0.03394,0.03394
+3091,Banks_interest,E253,0.03394,0.03394
+3092,Banks_interest,A254,السعودي الفرنسي,السعودي الفرنسي
+3093,Banks_interest,B254,23,23
+3094,Banks_interest,C254,0.034,0.034
+3095,Banks_interest,D254,0.03446,0.03446
+3096,Banks_interest,E254,0.03446,0.03446
+3097,Banks_interest,A255,السعودي الفرنسي,السعودي الفرنسي
+3098,Banks_interest,B255,24,24
+3099,Banks_interest,C255,0.0345,0.0345
+3100,Banks_interest,D255,0.03498,0.03498
+3101,Banks_interest,E255,0.03498,0.03498
+3102,Banks_interest,A256,السعودي الفرنسي,السعودي الفرنسي
+3103,Banks_interest,B256,25,25
+3104,Banks_interest,C256,0.035,0.035
+3105,Banks_interest,D256,0.0355,0.0355
+3106,Banks_interest,E256,0.0355,0.0355
+3107,Banks_interest,A257,السعودي الفرنسي,السعودي الفرنسي
+3108,Banks_interest,B257,26,26
+3109,Banks_interest,C257,0.0356,0.0356
+3110,Banks_interest,D257,0.0355,0.0355
+3111,Banks_interest,E257,0.0355,0.0355
+3112,Banks_interest,A258,السعودي الفرنسي,السعودي الفرنسي
+3113,Banks_interest,B258,27,27
+3114,Banks_interest,C258,0.036199999999999996,0.036199999999999996
+3115,Banks_interest,D258,0.0355,0.0355
+3116,Banks_interest,E258,0.0355,0.0355
+3117,Banks_interest,A259,السعودي الفرنسي,السعودي الفرنسي
+3118,Banks_interest,B259,28,28
+3119,Banks_interest,C259,0.03679999999999999,0.03679999999999999
+3120,Banks_interest,D259,0.0355,0.0355
+3121,Banks_interest,E259,0.0355,0.0355
+3122,Banks_interest,A260,السعودي الفرنسي,السعودي الفرنسي
+3123,Banks_interest,B260,29,29
+3124,Banks_interest,C260,0.03739999999999999,0.03739999999999999
+3125,Banks_interest,D260,0.0355,0.0355
+3126,Banks_interest,E260,0.0355,0.0355
+3127,Banks_interest,A261,السعودي الفرنسي,السعودي الفرنسي
+3128,Banks_interest,B261,30,30
+3129,Banks_interest,C261,0.038,0.038
+3130,Banks_interest,D261,0.0355,0.0355
+3131,Banks_interest,E261,0.0355,0.0355
+3132,Disclosure,B4,Shortcut,Shortcut
+3133,Disclosure,C4,meaning,meaning
+3134,Disclosure,B5,Mor,Mor
+3135,Disclosure,C5,Mortgage,Mortgage
+3136,Disclosure,B6,Aff,Aff
+3137,Disclosure,C6,Affordabilty,Affordabilty
+3138,Disclosure,B7,DB,DB
+3139,Disclosure,C7,Down Payment,Down Payment
+3140,Disclosure,B8,ndp,ndp
+3141,Disclosure,C8,No doawn payment,No doawn payment
+3142,Disclosure,B9,Aff_Max_DP Max Debt AMT,Aff_Max_DP Max Debt AMT
+3143,Disclosure,C9,Aff home price,Aff home price
