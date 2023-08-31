@@ -400,15 +400,16 @@ class MortgageCalculator:
         hijri_birth_year = inputs['birthday'].split('/')[0]
         hijri_birth_month = inputs['birthday'].split('/')[1]
         hijri_birth_day = inputs['birthday'].split('/')[2]
-        gregorian_birth_year = Hijri(int(hijri_birth_year), int(hijri_birth_month), int(hijri_birth_day)).to_gregorian().year
-        current_year = datetime.datetime.now().year
+        gregorian_birth = Hijri(int(hijri_birth_year), int(hijri_birth_month), int(hijri_birth_day)).to_gregorian()
+        today = datetime.date.today()
+        age = today.year - gregorian_birth.year - ((today.month, today.day) < (gregorian_birth.month, gregorian_birth.day))
         report_data = {}
 
         # input data
 
         report_data['salary'] = inputs['salary']
         report_data['debt_years'] = inputs['debtMonths'] / 12
-        report_data['age'] = current_year - gregorian_birth_year
+        report_data['age'] = age
         report_data['debt_type'] = inputs['debtType']
         report_data['supported_not_supported'] = inputs['supported']
         report_data['working_sector'] = inputs['sector']
@@ -428,11 +429,11 @@ class MortgageCalculator:
         # print('total_payment', total_payment)
         # print('profit', profit)
         result_mortgage = {
-            "interest_rate": interest_rate,
-            "monthly_payment": monthly_payment,
-            "principal_amount": principal_amount,
-            "total_payment": total_payment,
-            "profit": profit 
+            "installment": monthly_payment,
+            "total_loan_amount": principal_amount,
+            "period": inputs['debtMonths'],
+            "total_profit": profit,
+            "interest_rate": interest_rate
         }
         return result_mortgage
 
