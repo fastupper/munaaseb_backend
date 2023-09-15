@@ -1,0 +1,15 @@
+numpy
+numpy_financial
+openpyxl
+pandas
+formulas
+streamlit
+translate
+PyYAML
+hijri-converter
+uvicorn
+"fastapi[all]"
+pandas
+numpy_financial
+hijri_converter
+openpyxl

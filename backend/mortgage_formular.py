@@ -144,10 +144,10 @@ class MortgageCalculator:
         else:
             isSupported = 'غير مستحق للدعم'
         selector = self.interest_df['Banks Name '] == bank_name
-        # if year == 'max':
-        #     selector &= self.interest_df['Num of year '] == self.interest_df['Num of year '].max()
-        # else:
-        #     selector &= self.interest_df['Num of year '] == year
+        if year >= self.interest_df['Num of year '].max():
+            selector &= self.interest_df['Num of year '] == self.interest_df['Num of year '].max()
+        else:
+            selector &= self.interest_df['Num of year '] == year
         interest_rates = self.interest_df.loc[selector, isSupported].values
 
         if len(interest_rates) <= 0:
@@ -401,39 +401,122 @@ class MortgageCalculator:
         hijri_birth_month = inputs['birthday'].split('/')[1]
         hijri_birth_day = inputs['birthday'].split('/')[2]
         gregorian_birth = Hijri(int(hijri_birth_year), int(hijri_birth_month), int(hijri_birth_day)).to_gregorian()
+        
+        hired_date_year = inputs['hiredDate'].split('/')[0]
+        hired_date_month = inputs['hiredDate'].split('/')[1]
+        hired_date_day = inputs['hiredDate'].split('/')[2]
+        gregorian_hired_date = Hijri(int(hired_date_year), int(hired_date_month), int(hired_date_day)).to_gregorian()
+
         today = datetime.date.today()
         age = today.year - gregorian_birth.year - ((today.month, today.day) < (gregorian_birth.month, gregorian_birth.day))
         report_data = {}
 
         # input data
 
-        report_data['salary'] = inputs['salary']
-        report_data['debt_years'] = inputs['debtMonths'] / 12
+        report_data['netSalary'] = inputs['netSalary']
+        # report_data['debt_years'] = inputs['debtMonths'] / 12
         report_data['age'] = age
-        report_data['debt_type'] = inputs['debtType']
+        # report_data['debt_type'] = inputs['debtType']
         report_data['supported_not_supported'] = inputs['supported']
         report_data['working_sector'] = inputs['sector']
         report_data['deduction_percentage'] = inputs['deduction']
         report_data['customer_bank_name'] = 'البلاد'
+        
+        militaryCap = {
+            "soldier": 44,
+            "first_soldier": 44,
+            "corporal": 46,
+            "sergeant_agent": 48,
+            "Sergeant": 50,
+            "staff_sergeant": 50,
+            "chief_sergeants": 52,
+            "staff": 44,
+            "obliged_first": 44,
+            "captain": 48,
+            "pioneer": 50,
+            "forerunner": 52,
+            "colonel": 54,
+            "dean": 56,
+            "major_general": 58
+        }
+
+        retirement_age = 60
+        if inputs['sector'] == "military":
+            retirement_age = militaryCap[inputs['militaryType']]
+
+        # Total financing period
+        total_period = (70-((today.year+today.month/12)-(gregorian_birth.year+gregorian_birth.month/12)))*12
+        if total_period > 300:
+            total_period = 300
+
+        # Installment
+        installment = 0.0
+        installment_before_retirement = 0.0
+        installment_after_retirement = 0.0
+        length_service = today.year + today.month / 12 - gregorian_hired_date.year - gregorian_hired_date.month / 12
+        
+        # installment_before_retirement
+        installment_before_retirement = (inputs['premiumSupport'] + inputs['netSalary']) * inputs['deduction']
+        
+        # installment_after_retirement
+        period_remaining_retirement = retirement_age * 12 - (today.year * 12 + today.month - gregorian_birth.year * 12 - gregorian_birth.month)
+        if period_remaining_retirement > 300:
+            period_remaining_retirement = 300
+        period_after_retirement = total_period - period_remaining_retirement
+
+        pension = 0.0
+        if inputs['sector'] == "civilian":
+            pension = (length_service + period_remaining_retirement / 12) * inputs['basicSalary'] / 40
+        else:
+            pension = (length_service + period_remaining_retirement / 12) * inputs['basicSalary'] / 35
+
+        if period_after_retirement != 0:
+            installment_after_retirement = (pension + inputs['premiumSupport']) * inputs['deduction']
+        
+        # profit margin
+        interest_rate = self.__interest_rate(total_period, report_data['customer_bank_name'], report_data['supported_not_supported'])
+
+        # installment
+        if not inputs['isRetired']:
+            installment = installment_before_retirement
+        else:
+            installment = installment_after_retirement
 
         # The principal amount of the loan
+        pension_premium = (pension + inputs['premiumSupport']) * inputs['deduction']
+        total_financing = installment_before_retirement * period_remaining_retirement + pension_premium * period_after_retirement
+        
+        debts = []
+        for debt in inputs['debt']:
+            total_debt = debt['amount'] * debt['period']
+            debts.append(total_debt)
 
-        interest_rate = self.__interest_rate(report_data['debt_years'], report_data['customer_bank_name'], report_data['supported_not_supported'])
-        monthly_payment = report_data['salary'] * (report_data['deduction_percentage'] / 100)
-        principal_amount = -npf.pv(interest_rate / 12, report_data['debt_years'] * 12, monthly_payment)
-        total_payment = monthly_payment * report_data['debt_years'] * 12
-        profit = total_payment - principal_amount
+        total_liabilities = sum(debts)
+        commitments_difference = total_financing - total_liabilities
+
+        profit_factor = 1 + (interest_rate * total_period / 12)
+
+        funding_amount = commitments_difference / profit_factor
+
+        # Profit Amount
+        profit_amount = funding_amount * interest_rate * total_period / 12
+
+        ###
+        # monthly_payment = report_data['netSalary'] * (report_data['deduction_percentage'] / 100)
+        # principal_amount = -npf.pv(interest_rate / 12, report_data['debt_years'] * 12, monthly_payment)
+        # total_payment = monthly_payment * report_data['debt_years'] * 12
+        # profit = total_payment - principal_amount
         # print('interest_rate', interest_rate)
         # print('monthly_payment', monthly_payment)
         # print('principal_amount', principal_amount)
         # print('total_payment', total_payment)
         # print('profit', profit)
         result_mortgage = {
-            "installment": monthly_payment,
-            "total_loan_amount": principal_amount,
-            "period": inputs['debtMonths'],
-            "total_profit": profit,
-            "interest_rate": interest_rate
+            "installment": installment,
+            "total_loan_amount": funding_amount,
+            "total_period": total_period,
+            "total_profit": profit_amount,
+            "interest_rate": interest_rate * 100
         }
         return result_mortgage
 
